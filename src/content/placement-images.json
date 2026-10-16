@@ -166,5 +166,77 @@
     "alt": "Mobile coat rails arranged for temporary event use",
     "width": 1200,
     "height": 900
+  },
+  "/fr/produits/platelages-grillages": {
+    "src": "/images/products/fr/platelages-grillages.webp",
+    "alt": "Platelages grillagés pour palettiers",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/protecteurs-de-montants": {
+    "src": "/images/products/fr/protecteurs-de-montants.webp",
+    "alt": "Protecteurs de montants de palettiers",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/separateurs-d-etageres": {
+    "src": "/images/products/fr/separateurs-d-etageres.webp",
+    "alt": "Séparateurs d’étagères",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/roulettes-de-remplacement": {
+    "src": "/images/products/fr/roulettes-de-remplacement.webp",
+    "alt": "Roulettes de remplacement pour supports",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/crochets-pour-panneaux-rainures": {
+    "src": "/images/products/fr/crochets-pour-panneaux-rainures.webp",
+    "alt": "Crochets pour panneaux rainurés",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/ensembles-ecrous-cage": {
+    "src": "/images/products/fr/ensembles-ecrous-cage.webp",
+    "alt": "Ensembles d’écrous cage et de vis",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/panneaux-obturateurs": {
+    "src": "/images/products/fr/panneaux-obturateurs.webp",
+    "alt": "Panneaux obturateurs pour bâtis",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/gestionnaires-horizontaux-de-cables": {
+    "src": "/images/products/fr/gestionnaires-horizontaux-de-cables.webp",
+    "alt": "Gestionnaires horizontaux de câbles",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#accessory-matching": {
+    "src": "/images/services/accessory-matching.webp",
+    "alt": "Accessory compatibility review",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#replacement-parts": {
+    "src": "/images/services/replacement-parts.webp",
+    "alt": "Replacement-part sourcing",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#rack-labelling": {
+    "src": "/images/services/rack-labelling.webp",
+    "alt": "Rack and shelf labelling",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#cable-organization": {
+    "src": "/images/services/cable-organization.webp",
+    "alt": "Rack cable-organization planning",
+    "width": 1200,
+    "height": 900
   }
 }

@@ -66,3 +66,7 @@ Owner confirmed real phone and French review checks in chat. Owner declined test
 ## Product and service imagery — current deployment
 
 October 15, 2026: deployed 140 distinct images in build `GpGn5-rYWWN1DmL0kCP7-`. Archive `/home/nvfglyl5/nicerack-imagery-release.zip`, SHA-256 `9feed471d8027af8f5f0cc153230f10478ecd1b30d7f5091948965eba02cb88a`, verified on server. Private stage `nicerack-stage-imagery`; backup `nicerack-backup-before-imagery` retains Phase 2D and domain routing. All 255 pages, 652 internal targets and 140 unique image placements/checksums passed live audits. Restore the four app paths from this backup and restart Passenger for rollback; preserve environment, dependencies, mail and rate data. See [image enrichment report](../IMAGE_ENRICHMENT_REPORT.md).
+
+## Rack accessories and small services — current deployment
+
+October 16, 2026: build `RFjvVZF7o7LECeO5lbS3o` adds eight accessories in EN/FR, four small-service sections and 20 unique images. Archive `/home/nvfglyl5/nicerack-micro-release.zip`, SHA-256 `5a9c67c25fa45c615d9bfd359c0f1c5f0142604cd4d95da0522b843cce459564`, verified on server. Backup `/home/nvfglyl5/nicerack-backup-before-micro` preserves the previous imagery release. All 271 pages, 702 internal targets and 160 unique image placements/checksums passed live audits. Roll back the four application paths from this backup and touch `tmp/restart.txt`, preserving environment, Linux dependencies and private rate data. No email tests sent. [Completion report](../MICRO_OFFERINGS_REPORT.md).

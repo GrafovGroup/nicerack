@@ -3334,5 +3334,245 @@
     "status": "example-type",
     "published": true,
     "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-wire-decking",
+    "slug": "wire-decking",
+    "name": "Pallet rack wire decking",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Grated support panels selected for the beam profile and stored loads.",
+    "detailedDescription": "Wire decking adds a mesh support surface to compatible pallet rack beams. It is useful when the storage plan includes cartons or smaller items as well as pallets, but the deck and rack must be assessed together. Provide the beam profile, clear opening, support-channel arrangement and intended load distribution. A deck is not a personnel platform, and its appearance does not establish a load rating.",
+    "applications": [
+      "Warehouse storage",
+      "Rack accessories"
+    ],
+    "features": [
+      "Beam profile and deck support geometry",
+      "Stored item dimensions and load distribution",
+      "Manufacturer documentation and deck compatibility"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/wire-decking.webp",
+        "alt": "Pallet rack wire decking",
+        "source": "Built-in image generation; original exec-567ebe39-0116-4a98-a1fb-ddee2600394f.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-rack-upright-protectors",
+    "slug": "rack-upright-protectors",
+    "name": "Rack upright protectors",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Guards positioned around rack uprights with suitable floor fixing and clearance.",
+    "detailedDescription": "Upright protectors provide a physical barrier around exposed rack columns in handling areas. Select the shape and fixing method around the upright base, traffic paths and available floor space. Share photographs of the baseplate and surrounding aisle, plus the handling equipment used. Protection does not repair existing rack damage or establish structural fitness; damaged components need an appropriate assessment before a replacement or repair scope is agreed.",
+    "applications": [
+      "Warehouse storage",
+      "Rack accessories"
+    ],
+    "features": [
+      "Upright footprint and baseplate clearance",
+      "Floor condition and fixing requirements",
+      "Vehicle paths and inspection access"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/rack-upright-protectors.webp",
+        "alt": "Rack upright protectors",
+        "source": "Built-in image generation; original exec-56510fcf-2737-43bf-9531-13e4e89bbf91.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-shelf-dividers",
+    "slug": "shelf-dividers",
+    "name": "Shelf dividers",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Separate merchandise and small stock into clearly defined shelf lanes.",
+    "detailedDescription": "Shelf dividers keep adjacent product groups separated on compatible shelving. They can help organize changing assortments without adding another full rack. Choose the fixing style around the shelf material, depth and edge profile, then allow space for customers or staff to pick items comfortably. Provide package sizes, the number of lanes and cleaning requirements. Dividers are organizers rather than substitutes for structural shelf supports or product restraints.",
+    "applications": [
+      "Retail display",
+      "Rack accessories"
+    ],
+    "features": [
+      "Shelf surface and attachment method",
+      "Package widths and lane spacing",
+      "Shelf depth and cleaning access"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/shelf-dividers.webp",
+        "alt": "Shelf dividers",
+        "source": "Built-in image generation; original exec-120c3efa-248d-49c8-bfb7-ea797e239613.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-replacement-rack-casters",
+    "slug": "replacement-rack-casters",
+    "name": "Replacement rack casters",
+    "categoryId": "retail",
+    "subcategoryId": "retail-portable-displays",
+    "shortDescription": "Replacement wheels and brakes matched to a mobile rack’s mounting system.",
+    "detailedDescription": "Replacement casters address worn wheels or a changed floor environment on a rack designed for mobile use. Matching requires more than wheel diameter: the stem or mounting plate, overall height, brake arrangement and documented loading conditions also matter. Send the rack model and photos of the existing attachment. Changing casters can alter stability and clearance, so the complete rack configuration must remain suitable for its intended use.",
+    "applications": [
+      "Mobile displays",
+      "Rack accessories"
+    ],
+    "features": [
+      "Stem or plate dimensions",
+      "Floor surface and braking arrangement",
+      "Complete rack stability and load documentation"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/replacement-rack-casters.webp",
+        "alt": "Replacement rack casters",
+        "source": "Built-in image generation; original exec-a76cee15-2de2-47c8-9303-3cf644278353.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-slatwall-display-hooks",
+    "slug": "slatwall-display-hooks",
+    "name": "Slatwall display hooks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Small merchandise hooks selected for the panel profile and displayed items.",
+    "detailedDescription": "Slatwall hooks create individual hanging positions for packaged merchandise or light accessories on a compatible display panel. Match the backplate to the panel groove and any metal inserts before selecting reach or spacing. Describe the package opening, item weight and frequency of rearrangement. Similar-looking panels can use different fittings, and the panel, hook and wall fixing must all suit the proposed display.",
+    "applications": [
+      "Retail display",
+      "Rack accessories"
+    ],
+    "features": [
+      "Panel groove and insert profile",
+      "Package opening and hook reach",
+      "Spacing and complete display suitability"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/slatwall-display-hooks.webp",
+        "alt": "Slatwall display hooks",
+        "source": "Built-in image generation; original exec-6691a60a-cfb1-4d85-a600-15107de830c9.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-rack-cage-nut-kits",
+    "slug": "rack-cage-nut-kits",
+    "name": "Rack cage-nut and screw kits",
+    "categoryId": "technology",
+    "subcategoryId": "technology-rack-accessories",
+    "shortDescription": "Mounting hardware matched to rack rail holes and equipment requirements.",
+    "detailedDescription": "Cage-nut kits pair captive nuts with matching screws for compatible square-hole equipment rack rails. They are useful for adding a panel or replacing missing hardware, but thread sizes and rail openings must be checked rather than assumed. Share the rack model, rail hole shape and equipment mounting instructions. Tapped rails and round-hole rails may require a different fastening method; use the hardware specified for the actual assembly.",
+    "applications": [
+      "IT equipment",
+      "Rack accessories"
+    ],
+    "features": [
+      "Rail hole shape and dimensions",
+      "Matching screw thread and cage nut",
+      "Equipment mounting instructions"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/rack-cage-nut-kits.webp",
+        "alt": "Rack cage-nut and screw kits",
+        "source": "Built-in image generation; original exec-3d725b31-00f6-45ce-b3a8-c1e69a03d7cf.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-rack-blanking-panels",
+    "slug": "rack-blanking-panels",
+    "name": "Rack blanking panels",
+    "categoryId": "technology",
+    "subcategoryId": "technology-rack-accessories",
+    "shortDescription": "Cover unused rack positions as part of an equipment and airflow layout.",
+    "detailedDescription": "Blanking panels cover unused positions in an equipment rack and provide a tidy front face. The appropriate panel height and fixing method depend on the rack opening and rail design. For cabinets with managed airflow, coordinate the panel choice with the equipment ventilation plan instead of assuming that every opening should be closed. Include the unused rack positions, cable access needs and whether removable or tool-fastened panels are preferred.",
+    "applications": [
+      "IT equipment",
+      "Rack accessories"
+    ],
+    "features": [
+      "Unused rack positions and panel height",
+      "Rail mounting and removal method",
+      "Equipment airflow and cable access"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/rack-blanking-panels.webp",
+        "alt": "Rack blanking panels",
+        "source": "Built-in image generation; original exec-13db7db6-ccc0-430d-91f4-b7a3341f98af.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-horizontal-cable-managers",
+    "slug": "horizontal-cable-managers",
+    "name": "Horizontal rack cable managers",
+    "categoryId": "technology",
+    "subcategoryId": "technology-rack-accessories",
+    "shortDescription": "Guide patch cables across the rack while keeping ports and service access clear.",
+    "detailedDescription": "Horizontal cable managers organize patch leads between rack-mounted equipment and vertical cable routes. Finger ducts, rings and brush panels suit different access patterns, so start with the connector layout and cable types. Record the rack width, available height and cable bundle size. Keep manufacturer bend-radius and service-access requirements in view, and coordinate changes to live connections with the equipment owner before any work is scheduled.",
+    "applications": [
+      "IT equipment",
+      "Rack accessories"
+    ],
+    "features": [
+      "Cable types, bundle size and bend requirements",
+      "Available rack positions and mounting width",
+      "Port access and planned service interruptions"
+    ],
+    "specifications": [],
+    "images": [
+      {
+        "src": "/images/products/en/horizontal-cable-managers.webp",
+        "alt": "Horizontal rack cable managers",
+        "source": "Built-in image generation; original exec-905f123f-a23a-4bfe-8ab3-fbff40f3cfb7.png"
+      }
+    ],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
   }
 ]

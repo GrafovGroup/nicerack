@@ -1398,5 +1398,205 @@
     "output": "public/images/services/rentals.webp",
     "alt": "Mobile coat rails arranged for temporary event use",
     "prompt": "Use case: photorealistic-natural. Create ONE premium photorealistic landscape 4:3 service photograph for NiceRack.ca. Photograph of a neatly staged event wardrobe area with freestanding mobile coat rails, a small number of plain coats and empty hangers, and folded transport covers near a venue entrance. Distinct practical temporary setup, no crowds. Natural photographic materials, realistic proportions and soft light. No branding, lettering, watermarks or collage. A fresh unique scene, not a completed-customer-work claim. Exclusive placement /services#rentals"
+  },
+  {
+    "key": "en-wire-decking",
+    "locale": "en",
+    "id": "type-wire-decking",
+    "route": "/products/wire-decking",
+    "placement": "product detail",
+    "alt": "Pallet rack wire decking",
+    "output": "public/images/products/en/wire-decking.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. close view of a silver wire mesh decking panel resting properly across two orange pallet rack beams, green upright at left, empty warehouse bay, visible support channels beneath mesh. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-wire-decking",
+    "locale": "fr",
+    "id": "type-wire-decking",
+    "route": "/fr/produits/platelages-grillages",
+    "placement": "product detail",
+    "alt": "Platelages grillagés pour palettiers",
+    "output": "public/images/products/fr/platelages-grillages.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. a single galvanized mesh deck leaning vertically against a wooden packing bench, its three underside support channels clearly visible, warehouse staging area, no pallet rack in view. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-rack-upright-protectors",
+    "locale": "en",
+    "id": "type-rack-upright-protectors",
+    "route": "/products/rack-upright-protectors",
+    "placement": "product detail",
+    "alt": "Rack upright protectors",
+    "output": "public/images/products/en/rack-upright-protectors.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. close low angle of a yellow U-shaped floor-mounted steel guard surrounding the base of a blue pallet rack upright, four visible floor anchors, clean concrete and clear separation between guard and upright. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-rack-upright-protectors",
+    "locale": "fr",
+    "id": "type-rack-upright-protectors",
+    "route": "/fr/produits/protecteurs-de-montants",
+    "placement": "product detail",
+    "alt": "Protecteurs de montants de palettiers",
+    "output": "public/images/products/fr/protecteurs-de-montants.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. an orange curved floor-mounted column protector around a dark grey warehouse rack post, side angle with open aisle beyond, daylight from loading doors, no forklifts. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-shelf-dividers",
+    "locale": "en",
+    "id": "type-shelf-dividers",
+    "route": "/products/shelf-dividers",
+    "placement": "product detail",
+    "alt": "Shelf dividers",
+    "output": "public/images/products/en/shelf-dividers.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. clear acrylic shelf dividers forming four neat lanes on a white retail shelf with a few unbranded kraft boxes, close horizontal composition, focus on transparent divider fins. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-shelf-dividers",
+    "locale": "fr",
+    "id": "type-shelf-dividers",
+    "route": "/fr/produits/separateurs-d-etageres",
+    "placement": "product detail",
+    "alt": "Séparateurs d’étagères",
+    "output": "public/images/products/fr/separateurs-d-etageres.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. chrome wire shelf dividers clipped to a grey wire shelf in a stockroom, folded plain cream towels separated into three stacks, side perspective, natural window light. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-replacement-rack-casters",
+    "locale": "en",
+    "id": "type-replacement-rack-casters",
+    "route": "/products/replacement-rack-casters",
+    "placement": "product detail",
+    "alt": "Replacement rack casters",
+    "output": "public/images/products/en/replacement-rack-casters.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. two grey polyurethane swivel casters with steel square mounting plates on a pale workbench, one brake lever visible, macro product photography, rack wheel maintenance context. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-replacement-rack-casters",
+    "locale": "fr",
+    "id": "type-replacement-rack-casters",
+    "route": "/fr/produits/roulettes-de-remplacement",
+    "placement": "product detail",
+    "alt": "Roulettes de remplacement pour supports",
+    "output": "public/images/products/fr/roulettes-de-remplacement.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. a pair of black stem casters beside an unloaded chrome garment rack leg on a warm wooden studio floor, a separate small ruler with unreadable markings, close diagonal composition. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-slatwall-display-hooks",
+    "locale": "en",
+    "id": "type-slatwall-display-hooks",
+    "route": "/products/slatwall-display-hooks",
+    "placement": "product detail",
+    "alt": "Slatwall display hooks",
+    "output": "public/images/products/en/slatwall-display-hooks.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. black metal slatwall peg hooks inserted into a pale oak retail slatwall, several empty hooks and one plain kraft hanging package, close three-quarter view showing hook backplates. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-slatwall-display-hooks",
+    "locale": "fr",
+    "id": "type-slatwall-display-hooks",
+    "route": "/fr/produits/crochets-pour-panneaux-rainures",
+    "placement": "product detail",
+    "alt": "Crochets pour panneaux rainurés",
+    "output": "public/images/products/fr/crochets-pour-panneaux-rainures.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. white metal display hooks lying separately on a charcoal tabletop beside a short white slatwall sample, overhead still life, precise simple commercial photography. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-rack-cage-nut-kits",
+    "locale": "en",
+    "id": "type-rack-cage-nut-kits",
+    "route": "/products/rack-cage-nut-kits",
+    "placement": "product detail",
+    "alt": "Rack cage-nut and screw kits",
+    "output": "public/images/products/en/rack-cage-nut-kits.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. macro photograph of four steel cage nuts with spring metal clips and four black matching rack screws neatly separated on a grey antistatic mat, short square-hole black rack rail sample at edge. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-rack-cage-nut-kits",
+    "locale": "fr",
+    "id": "type-rack-cage-nut-kits",
+    "route": "/fr/produits/ensembles-ecrous-cage",
+    "placement": "product detail",
+    "alt": "Ensembles d’écrous cage et de vis",
+    "output": "public/images/products/fr/ensembles-ecrous-cage.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. a small open hardware organizer with silver cage nuts in one compartment and black machine screws in another, navy workbench, diagonal view, precise visible spring clips, no text. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-rack-blanking-panels",
+    "locale": "en",
+    "id": "type-rack-blanking-panels",
+    "route": "/products/rack-blanking-panels",
+    "placement": "product detail",
+    "alt": "Rack blanking panels",
+    "output": "public/images/products/en/rack-blanking-panels.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. two matte black flat rack blanking panels of different heights on a light grey studio surface, each with mounting ears and holes, front three-quarter product photograph, no equipment. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-rack-blanking-panels",
+    "locale": "fr",
+    "id": "type-rack-blanking-panels",
+    "route": "/fr/produits/panneaux-obturateurs",
+    "placement": "product detail",
+    "alt": "Panneaux obturateurs pour bâtis",
+    "output": "public/images/products/fr/panneaux-obturateurs.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. close front view of a compact white equipment rack with three smooth black blanking panels filling empty positions between unbranded network equipment, tidy small office equipment room. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "en-horizontal-cable-managers",
+    "locale": "en",
+    "id": "type-horizontal-cable-managers",
+    "route": "/products/horizontal-cable-managers",
+    "placement": "product detail",
+    "alt": "Horizontal rack cable managers",
+    "output": "public/images/products/en/horizontal-cable-managers.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. a black horizontal finger-duct cable manager in a rack with a few gently curved blue patch cables passing through evenly spaced fingers, cover removed beside it, close equipment detail. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "fr-horizontal-cable-managers",
+    "locale": "fr",
+    "id": "type-horizontal-cable-managers",
+    "route": "/fr/produits/gestionnaires-horizontaux-de-cables",
+    "placement": "product detail",
+    "alt": "Gestionnaires horizontaux de câbles",
+    "output": "public/images/products/fr/gestionnaires-horizontaux-de-cables.webp",
+    "prompt": "Use case: product-mockup. Original commercial photo for NiceRack.ca. Landscape 4:3. black rack cable management panel with five rounded D-rings on a clean wooden bench, loosely routed yellow and grey patch leads through the rings, close top-down composition. Realistic construction, subtle studio daylight, subject fully in frame. No logos, no watermarks, no invented badges, no readable text. This must be a distinct composition, not a reused image."
+  },
+  {
+    "key": "service-accessory-matching",
+    "locale": "service",
+    "id": "accessory-matching",
+    "route": "/services#accessory-matching",
+    "placement": "service section",
+    "alt": "Accessory compatibility review",
+    "output": "public/images/services/accessory-matching.webp",
+    "prompt": "Use case: photorealistic-natural. Original landscape 4:3 commercial photo. a digital caliper measuring a detached steel rack bracket on a clean desk beside two different mounting samples, hands only, product matching consultation, no loaded rack. Realistic physical details, restrained professional setting. No logos, no watermark, no extra text. Distinct scene for NiceRack.ca service page."
+  },
+  {
+    "key": "service-replacement-parts",
+    "locale": "service",
+    "id": "replacement-parts",
+    "route": "/services#replacement-parts",
+    "placement": "service section",
+    "alt": "Replacement-part sourcing",
+    "output": "public/images/services/replacement-parts.webp",
+    "prompt": "Use case: photorealistic-natural. Original landscape 4:3 commercial photo. a small organized parts bench with a caster, a metal hook and fastener sample in separate trays, plain clipboard, sourcing specialist hands comparing a part, no labels. Realistic physical details, restrained professional setting. No logos, no watermark, no extra text. Distinct scene for NiceRack.ca service page."
+  },
+  {
+    "key": "service-rack-labelling",
+    "locale": "service",
+    "id": "rack-labelling",
+    "route": "/services#rack-labelling",
+    "placement": "service section",
+    "alt": "Rack and shelf labelling",
+    "output": "public/images/services/rack-labelling.webp",
+    "prompt": "Use case: photorealistic-natural. Original landscape 4:3 commercial photo. close view of a hand applying a simple white location label marked B-03 to the front edge of an empty blue metal shelf, adjacent small box, clean stockroom, no capacity text. Realistic physical details, restrained professional setting. No logos, no watermark, no extra text. Distinct scene for NiceRack.ca service page."
+  },
+  {
+    "key": "service-cable-organization",
+    "locale": "service",
+    "id": "cable-organization",
+    "route": "/services#cable-organization",
+    "placement": "service section",
+    "alt": "Rack cable-organization planning",
+    "output": "public/images/services/cable-organization.webp",
+    "prompt": "Use case: photorealistic-natural. Original landscape 4:3 commercial photo. hands arranging loose disconnected ethernet patch leads with reusable fabric ties on a desk beside a small empty equipment rack, cable planning work, no electrical work, no live equipment. Realistic physical details, restrained professional setting. No logos, no watermark, no extra text. Distinct scene for NiceRack.ca service page."
   }
 ]
