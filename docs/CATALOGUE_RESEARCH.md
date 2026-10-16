@@ -25,3 +25,19 @@ Checked October 15, 2026. These public manufacturer/distributor references were 
 ## Image gap
 
 No approved product-photo inventory was provided. All new records are text-first, with no shared fallback photo, fabricated supplier imagery or licensing claim. Obtain distinct photographs and written permissions for each intended placement before populating the gallery.
+
+## Phase 2B additions
+
+24 further types distinguish support arrangement, stored item or retrieval method, not colour/size variants. A tire support is separate from carton shelving; a parts-bin interface differs from an open shelf; moving aisle banks differ from fixed longspan shelving. Van interior cargo and ladder retrieval methods are distinct from a base roof rack. Domestic board/rod/bag storage describes parked equipment. Retail roll/card/produce displays have different contact and browsing needs. Fitness additions store bars, bands and rollers rather than supporting a training exercise. Hospitality additions separate kegs, cutting boards and canned stock. Technology adds acoustic/environmental objectives and a hinged floor frame, without promising performance. Event additions store dismantled truss, cable coils and folded stands rather than acting as rigging.
+
+Additional primary terminology checks (October 15, 2026):
+
+- [Uline tire racks](https://www.uline.com/BL_747/Tire-Racks/): round-stock support; no published dimensions or capacities imported.
+- [Adrian interior ladder arrangements](https://www.adriansteel.com/products/truck-equipment/ladder-racks/interior-ladder-storage/): inside-vehicle retention is a separate task from roof support.
+- [Adrian drop-down ladder racks](https://dev.adriansteel.com/products/ladder-racks/drop-down-ladder-rack.php): retrieval mechanism terminology only; no compatibility or supply claim.
+- [StarTech acoustic cabinet](https://www.startech.com/fr-ca/gestion-de-serveurs/rkqmcab12v2): acoustic objective is separate from basic enclosure; no noise reduction figures imported.
+- [nVent outdoor cabinet overview](https://www.nvent.com/sites/default/files/dam/bro-00017.pdf): external environmental enclosure category; no rating claims imported.
+- [nVent floor-frame example](https://www.nvent.com/en-us/hoffman/products/encp2rfasfh228): hinged floor enclosure access; no availability or specifications imported.
+- [Metro shelving guide](https://metro.com/blog/metros-ultimate-commercial-shelving-buying-guide-/): environment, cleaning and container-support distinctions.
+
+Each city and guide also carries its specific public source link in the editorial JSON and rendered page. Local municipal/agency sources establish context only. The application to a purchasing scenario is original editorial guidance, not a claim that the source recommends NiceRack or a specific rack. English Quebec pages cite relevant French sources without pretending to provide a translated site. No photos, source tables, specifications, supplier relationships or customer claims were imported.

@@ -4,7 +4,7 @@ The public source is `src/content/en/products.json`. Category and subcategory de
 
 ## Generic rack types
 
-Use `status: "example-type"` and honest descriptions of a general type. These records appear publicly as GENERAL RACK TYPE. Do not add SKU, material, capacity, dimensions, availability, lead time or technical specifications to a generic record. The catalogue contains 88 general types, eleven in each division, rather than supplier-backed stock listings. The original 24 IDs and slugs are protected by a regression fixture.
+Use `status: "example-type"` and honest descriptions of a general type. These records appear publicly as GENERAL RACK TYPE. Do not add SKU, material, capacity, dimensions, availability, lead time or technical specifications to a generic record. The catalogue contains 112 general types, fourteen in each division, rather than supplier-backed stock listings. The original 24 and Phase 2A’s 88 IDs and slugs are protected by regression fixtures.
 
 ## Verified products
 
@@ -46,4 +46,6 @@ Each description should explain the use, distinguish it from a neighbouring type
 
 Category buying guidance and two substantive questions per division live in `src/content/en/category-guidance.json`. The page uses the division name in its H1; FAQs do not emit unsupported rich-result schema. Related products rank the same subcategory first, then shared application labels, remaining within the division. Keep application labels consistent when the use is actually shared.
 
-The expansion adds ten subcategories without changing existing IDs. All 88 detail pages use the same validation, quote-context and no-price rules. Search and filtering remain shareable GET URLs. The full catalogue is rendered without pagination so comparison selection stays intact; reassess pagination if measured payload or interaction costs justify it.
+The expansion adds ten subcategories without changing existing IDs. All 112 detail pages use the same validation, quote-context and no-price rules. Search and filtering remain shareable GET URLs. The full catalogue is rendered without pagination so comparison selection stays intact; reassess pagination if measured payload or interaction costs justify it.
+
+Phase 2B adds 24 types (three per division) without changing the subcategory taxonomy. Product and division pages link relevant editorial guides. Keep those references synchronized when editing; publication rejects broken editorial references. See `docs/EDITORIAL_EDITING.md`.

@@ -1,0 +1,1029 @@
+[
+  {
+    "slug": "toronto",
+    "name": "Toronto",
+    "province": "Ontario",
+    "title": "Toronto rack and storage planning",
+    "description": "Receiving racks through shared buildings and constrained unloading routes. Prepare a practical rack quote for Toronto.",
+    "intent": "Receiving racks through shared buildings and constrained unloading routes",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Toronto’s delivery guidance distinguishes stopping restrictions from places where goods can be unloaded. For a rack purchase, the route from vehicle to final room deserves as much attention as the rack footprint.",
+    "sources": [
+      {
+        "label": "Toronto delivery guidance",
+        "url": "https://www.toronto.ca/services-payments/building-construction/infrastructure-city-construction/construction-standards-permits/construction-permits/single-trip-oversize-load-permit/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a shop receiving a display rack through a shared building, start with the receiving door, corridor turns and any goods lift. An assembled fixture that fits the shop may not fit the delivery route. Describe whether the entrance is at street level and who can reserve access; do not assume curb space is available because the destination has a street address."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare modular display shelving with a mobile garment arrangement around the actual merchandise. The former can define a stable browsing wall; the latter may be easier to rearrange but needs parking space when not in use. Ask how components arrive and where packaging can be removed. Confirm current street restrictions with the city and building rules with the property contact before arranging delivery."
+      }
+    ],
+    "checklist": [
+      "Receiving entrance and usable opening",
+      "Lift booking and internal turning space",
+      "Merchandise dimensions and replenishment route"
+    ],
+    "faqs": [
+      {
+        "question": "Does a street address establish unloading access?",
+        "answer": "No. Include the building’s receiving instructions and identify who can coordinate access. Delivery arrangements depend on the proposed shipment, site and confirmed schedule."
+      }
+    ],
+    "categoryIds": [
+      "retail"
+    ],
+    "guideSlugs": [
+      "retail-fixtures",
+      "garment-racks"
+    ],
+    "productSlugs": [
+      "display-shelving",
+      "garment-rack"
+    ]
+  },
+  {
+    "slug": "mississauga",
+    "name": "Mississauga",
+    "province": "Ontario",
+    "title": "Mississauga rack and storage planning",
+    "description": "Mixed pallet and carton logistics with changing stock profiles. Prepare a practical rack quote for Mississauga.",
+    "intent": "Mixed pallet and carton logistics with changing stock profiles",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Mississauga identifies smart logistics and advanced manufacturing among its economic focus areas. That makes mixed pallet and carton handling a useful planning lens for a storage enquiry, rather than treating every warehouse position as interchangeable.",
+    "sources": [
+      {
+        "label": "Mississauga economic focus areas",
+        "url": "https://www.mississauga.ca/services-and-programs/business/economic-development-division/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For an operation receiving pallets and shipping individual cartons, list reserve stock separately from the picking face. Describe how stock moves from receiving to reserve, replenishment and dispatch. A photograph of an empty aisle will not show these movements. Include the number of stock lines and which lines change frequently so the discussion is based on access patterns."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Selective pallet racking is a starting point when individual pallet positions need direct access. Carton flow or bin racks address a different picking task and should not be selected merely because the warehouse also stores pallets. Record busy periods when receiving and replenishment overlap. The proposed layout needs handling-equipment and site review before bay counts or aisle positions can be settled."
+      }
+    ],
+    "checklist": [
+      "Pallet and carton inventory separately",
+      "Replenishment and dispatch movements",
+      "Stock-line changes and peak access"
+    ],
+    "faqs": [
+      {
+        "question": "Should reserve and picking areas use the same rack?",
+        "answer": "Not necessarily. Their handling methods may differ. Describe both workflows so the quotation can distinguish pallet positions from hand-picked containers."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "carton-flow-racking"
+    ]
+  },
+  {
+    "slug": "brampton",
+    "name": "Brampton",
+    "province": "Ontario",
+    "title": "Brampton rack and storage planning",
+    "description": "Food processing packaging stores and separate clean handling needs. Prepare a practical rack quote for Brampton.",
+    "intent": "Food processing packaging stores and separate clean handling needs",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Brampton’s economic reporting describes a food and beverage cluster spanning processing, packaging and distribution. A useful rack brief separates those tasks instead of assuming one shelving arrangement can serve every area.",
+    "sources": [
+      {
+        "label": "Brampton food and beverage context",
+        "url": "https://www.brampton.ca/EN/City-Hall/News/Pages/News-Release.aspx/1593"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "Consider a food business storing empty packaging beside finished goods. The packaging may need easy hand access while finished goods move as pallet loads. Record which items are enclosed, which containers return to production and which areas follow different cleaning routines. Keep the brief organized by storage task; do not describe an entire facility simply as needing food-grade racks."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare kitchen shelving for containers with pallet racking for unit loads, using the facility’s actual cleaning and handling requirements. A rack material name does not prove sanitation suitability. Ask the responsible facility team to identify required documentation and any environmental restrictions. Include a replenishment route that does not depend on moving unrelated goods each time packaging is needed."
+      }
+    ],
+    "checklist": [
+      "Packaging and finished-goods containers",
+      "Cleaning requirements by area",
+      "Facility documentation and approval contact"
+    ],
+    "faqs": [
+      {
+        "question": "Does a generic kitchen rack establish food-use approval?",
+        "answer": "No. Specify the application and required evidence. Material, cleaning compatibility and any applicable approval must be confirmed for the exact selected product."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving",
+      "choosing-pallet-racking"
+    ],
+    "productSlugs": [
+      "kitchen-shelving",
+      "can-storage-rack"
+    ]
+  },
+  {
+    "slug": "vaughan",
+    "name": "Vaughan",
+    "province": "Ontario",
+    "title": "Vaughan rack and storage planning",
+    "description": "Construction and fabrication stock with long and flat materials. Prepare a practical rack quote for Vaughan.",
+    "intent": "Construction and fabrication stock with long and flat materials",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Vaughan lists construction and advanced manufacturing among its business sectors. Long stock and flat panels create a useful purchasing distinction here: their shape and retrieval method often matter more than the total floor area available.",
+    "sources": [
+      {
+        "label": "Vaughan business sectors",
+        "url": "https://www.vaughan.ca/news/vaughan-heart-gta-and-nationally-ranked-top-place-invest"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a fabrication or building-materials store, separate profiles, panels and boxed fittings in the inventory. Record lengths, protective packaging and whether pieces are retrieved individually or as bundles. Panels needing face access should not be treated as long bars simply because both are awkward to handle. Include the equipment used to move each group through the workshop."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Cantilever racks provide a starting point for long stock; sheet storage addresses flat materials; bin racks organize small fittings. Choosing among them requires the actual support and handling needs, not a generic promise of heavy-duty storage. Mark staging space used before cutting or assembly. A qualified assessment is needed for structural layout, loading and the selected supports."
+      }
+    ],
+    "checklist": [
+      "Stock shapes and handling equipment",
+      "Bundle versus single-piece retrieval",
+      "Space used before and after fabrication"
+    ],
+    "faqs": [
+      {
+        "question": "Can one rack family cover panels and long profiles?",
+        "answer": "Sometimes a configured system can address several tasks, but do not assume interchangeability. Provide separate inventories and retrieval methods for an assessment."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "cantilever-rack",
+      "sheet-material-rack"
+    ]
+  },
+  {
+    "slug": "ottawa",
+    "name": "Ottawa",
+    "province": "Ontario",
+    "title": "Ottawa rack and storage planning",
+    "description": "Technology equipment rooms and controlled maintenance access. Prepare a practical rack quote for Ottawa.",
+    "intent": "Technology equipment rooms and controlled maintenance access",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Invest Ottawa describes a technology ecosystem that includes communications, cybersecurity and aerospace. Equipment-room planning is a relevant purchasing task, with access and device fit taking priority over selecting a cabinet by appearance.",
+    "sources": [
+      {
+        "label": "Ottawa technology context",
+        "url": "https://www.investottawa.ca/work-in-ottawa/tech-scene/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a network refresh, inventory devices that stay, devices being replaced and equipment planned for later. Record mounting depth and connection locations, not just front-panel height. If technicians must service equipment while other systems remain active, describe the available rear and side access. Building security procedures and maintenance windows should be supplied by the facility contact."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare an open frame where controlled room access already exists with an enclosure where the equipment needs its own physical boundary. Neither choice establishes cybersecurity or cooling performance. Include patching, power distribution and the cable route in the discussion. A compact wall arrangement can only be assessed after wall suitability and supported equipment have been checked."
+      }
+    ],
+    "checklist": [
+      "Device mounting information",
+      "Rear connections and service route",
+      "Facility access windows and room conditions"
+    ],
+    "faqs": [
+      {
+        "question": "Is rack-unit height enough to choose a cabinet?",
+        "answer": "No. Mounting depth, device support, connections, airflow and room access all affect fit. Submit the equipment list before narrowing the enclosure."
+      }
+    ],
+    "categoryIds": [
+      "technology"
+    ],
+    "guideSlugs": [
+      "server-rack-sizing"
+    ],
+    "productSlugs": [
+      "server-cabinet",
+      "four-post-open-rack"
+    ]
+  },
+  {
+    "slug": "hamilton",
+    "name": "Hamilton",
+    "province": "Ontario",
+    "title": "Hamilton rack and storage planning",
+    "description": "Manufacturing work-in-progress and maintenance stores. Prepare a practical rack quote for Hamilton.",
+    "intent": "Manufacturing work-in-progress and maintenance stores",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Hamilton’s economic development material identifies advanced manufacturing as a local strength. Work-in-progress storage and maintenance spares are useful starting points for a rack enquiry because they follow different retrieval cycles.",
+    "sources": [
+      {
+        "label": "Hamilton industry context",
+        "url": "https://investinhamilton.ca/workforce"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a production workshop, map the parts arriving at each station and the partly completed items leaving it. A shelf used between two operations may need frequent access from a different direction than a maintenance store. Record container sizes and return paths. Include equipment that is temporarily parked during changeovers so those areas are not mistakenly counted as available rack space."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Parts bins can define small-component picking positions, while longspan shelves may suit larger hand-loaded containers. Neither should be specified before the actual item weights and handling method are known. Separate maintenance items that require occasional retrieval from production items needed every shift. For an existing installation, collect drawings and identification instead of assuming new components can be mixed into it."
+      }
+    ],
+    "checklist": [
+      "Containers at each production step",
+      "Changeover staging and return paths",
+      "Existing rack identification and records"
+    ],
+    "faqs": [
+      {
+        "question": "Can an existing bay simply accept new shelves?",
+        "answer": "Compatibility needs confirmation for the identified system and configuration. Photos help with discussion but do not substitute for manufacturer information or a suitability assessment."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions",
+      "rack-inspection-planning"
+    ],
+    "productSlugs": [
+      "parts-bin-rack",
+      "longspan-shelving"
+    ]
+  },
+  {
+    "slug": "london",
+    "name": "London",
+    "province": "Ontario",
+    "title": "London rack and storage planning",
+    "description": "Food production changeovers and ingredient container storage. Prepare a practical rack quote for London.",
+    "intent": "Food production changeovers and ingredient container storage",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "London Economic Development Corporation describes an agri-food sector with varied processing activities. Storage planning should therefore start with the specific ingredients and containers involved, rather than a single generic food-storage specification.",
+    "sources": [
+      {
+        "label": "London agri-food context",
+        "url": "https://www.ledc.com/agri-food"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a kitchen or production area changing between batches, list unopened ingredients, in-use containers and cleaned empty containers separately. Explain when each moves into the work area and who replenishes it. Can lanes may suit one packaged ingredient while trays need supported runners. Record the actual container formats and labels rather than estimating from the overall room size."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare sheet-pan racks for trays with can rotation racks for packaged stock and shelving for mixed containers. Check access for cleaning around and beneath the proposed arrangement with the facility team. Do not assume a mobile pan rack is suitable for an oven or a cold room. Environment and process requirements must be attached to the exact product enquiry."
+      }
+    ],
+    "checklist": [
+      "Tray and container formats",
+      "Batch changeover sequence",
+      "Cleaning and temperature conditions"
+    ],
+    "faqs": [
+      {
+        "question": "Does a tray rack automatically support baking or chilling?",
+        "answer": "No. A storage configuration has to be checked for its intended environment. Provide the process and required evidence before choosing a product."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving"
+    ],
+    "productSlugs": [
+      "sheet-pan-rack",
+      "can-storage-rack"
+    ]
+  },
+  {
+    "slug": "kitchener",
+    "name": "Kitchener",
+    "province": "Ontario",
+    "title": "Kitchener rack and storage planning",
+    "description": "Prototype-to-production parts and adaptable workspaces. Prepare a practical rack quote for Kitchener.",
+    "intent": "Prototype-to-production parts and adaptable workspaces",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Kitchener’s economic strategy connects technology, communications, manufacturing and medical devices. An adaptable parts area is a useful planning focus when a workspace moves between prototype builds and repeat assembly.",
+    "sources": [
+      {
+        "label": "Kitchener economic strategy",
+        "url": "https://www.kitchener.ca/strategic-plans-and-projects/plans/economic-development-strategy/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a small production team, distinguish components used on every build from parts held for experiments or repairs. Label the inventory by retrieval pattern, not only by project name. Bin dimensions, the number of active part lines and the place where replenishment happens will shape the picking area. A flexible layout still needs clear limits on supported loads and compatible adjustments."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Parts bins can make small items visible, while a separate rack for test equipment keeps cabling and device support out of the parts store. Ask whether frequently revised items need removable bins or a stable labelled position. Retain identification and instructions as configurations evolve. Changes to a load-bearing system should be reviewed rather than assumed safe because parts appear to fit."
+      }
+    ],
+    "checklist": [
+      "Active versus occasional part lines",
+      "Container and device dimensions",
+      "Expected configuration changes"
+    ],
+    "faqs": [
+      {
+        "question": "How should I describe a workspace that changes often?",
+        "answer": "Provide a current inventory and a realistic range of planned tasks. Identify what must move and what can stay fixed, rather than asking for unlimited flexibility."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions",
+      "server-rack-sizing"
+    ],
+    "productSlugs": [
+      "parts-bin-rack",
+      "desktop-equipment-rack"
+    ]
+  },
+  {
+    "slug": "montreal",
+    "name": "Montreal",
+    "province": "Quebec",
+    "title": "Montreal rack and storage planning",
+    "description": "Retail replenishment and delivery coordination by borough. Prepare a practical rack quote for Montreal.",
+    "intent": "Retail replenishment and delivery coordination by borough",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Montréal provides parking and delivery-related guidance by location and borough, including information about temporary street restrictions. A receiving plan should use the actual address and building instructions rather than assuming the same arrangement across the city.",
+    "sources": [
+      {
+        "label": "Montréal parking information",
+        "url": "https://montreal.ca/en/parking"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a retail refresh, identify the receiving entrance separately from the customer entrance and explain whether fixtures arrive during business hours. Include door openings, internal stairs or lifts and a place to hold unassembled components. The useful choice between a freestanding display and a wall-based system depends on merchandise and the premises, not simply on a wish to gain more display space."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare gridwall for a movable display arrangement with slatwall where a suitable installed wall system is being considered. Compatible fittings and mounting conditions need confirmation. Coordinate any delivery plan with the building and current municipal instructions, particularly when access is temporarily affected. If purchasing documents need French wording, provide that requirement with the brief so the documentation scope can be discussed."
+      }
+    ],
+    "checklist": [
+      "Borough, address and receiving entrance",
+      "Business-hour access and assembly area",
+      "Required purchasing-document language"
+    ],
+    "faqs": [
+      {
+        "question": "Can a city page confirm a delivery time or local installer?",
+        "answer": "No. Include the address, access conditions and requested work. Sourcing, delivery and installation options depend on the project and confirmed availability."
+      }
+    ],
+    "categoryIds": [
+      "retail"
+    ],
+    "guideSlugs": [
+      "retail-fixtures",
+      "garment-racks"
+    ],
+    "productSlugs": [
+      "gridwall-display",
+      "slatwall-display"
+    ]
+  },
+  {
+    "slug": "quebec-city",
+    "name": "Quebec City",
+    "province": "Quebec",
+    "title": "Quebec City rack and storage planning",
+    "description": "Optics and electronics equipment staging and identification. Prepare a practical rack quote for Quebec City.",
+    "intent": "Optics and electronics equipment staging and identification",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Québec International identifies electronics and optics-photonics as regional industries. For an equipment workspace, a useful storage brief distinguishes boxed components from delicate devices being staged for testing or integration.",
+    "sources": [
+      {
+        "label": "Québec City electronics context",
+        "url": "https://www.quebecinternational.ca/en/choose-quebec/quebec-industries/electronics-and-optics-photonics"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a team preparing instruments for use, list which devices mount in a rack and which remain in cases or trays. Record connections, handling instructions and identification needs. A standard shelf is not automatically a suitable support for sensitive equipment. Ask the responsible technical team to define environmental and handling requirements before deciding that an open frame or cabinet is appropriate."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "A desktop equipment rack may address a small group of compatible devices; a floor frame offers a different service envelope. Separate the device-mounting brief from component storage so the right questions reach the right reviewer. Include rear access and the planned route to the work area. Any vibration, electrostatic or environmental performance needs specific evidence rather than an inference from the product category."
+      }
+    ],
+    "checklist": [
+      "Device or protective-case dimensions",
+      "Handling and environmental requirements",
+      "Connection and identification access"
+    ],
+    "faqs": [
+      {
+        "question": "Does a rack category imply protection for precision instruments?",
+        "answer": "No. State the protection required and provide device documentation. Supports and enclosure performance must be verified for the actual equipment and setting."
+      }
+    ],
+    "categoryIds": [
+      "technology"
+    ],
+    "guideSlugs": [
+      "server-rack-sizing"
+    ],
+    "productSlugs": [
+      "desktop-equipment-rack",
+      "four-post-open-rack"
+    ]
+  },
+  {
+    "slug": "laval",
+    "name": "Laval",
+    "province": "Quebec",
+    "title": "Laval rack and storage planning",
+    "description": "Life-science support stores with facility-defined cleaning requirements. Prepare a practical rack quote for Laval.",
+    "intent": "Life-science support stores with facility-defined cleaning requirements",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Laval’s municipal economic profile highlights life sciences as well as manufacturing and agri-food. A support-store enquiry in such a facility benefits from clear separation between ordinary packaged supplies and controlled-use materials.",
+    "sources": [
+      {
+        "label": "Laval economic profile",
+        "url": "https://www.laval.ca/organisation-municipale/portrait-ville-laval/cartes-statistiques/laval-ville-entrepreneuriale/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a facility receiving consumables, list closed packages separately from items that enter controlled work areas. Record container formats and the cleaning process defined by the facility. A general storage rack must not be assumed suitable for cleanroom, sterile or regulated use. Provide the required documentation early so a visually similar shelf is not mistaken for a qualified option."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare shelf-based container storage with parts bins according to the permitted handling routine. Removable containers can help organize supplies, but their material and cleaning suitability remain part of the assessment. Identify who approves the selected configuration and how supplies are replenished without crossing restricted routes. Include any language requirements for technical or purchasing documents in the same brief."
+      }
+    ],
+    "checklist": [
+      "Packaged versus controlled-use supplies",
+      "Facility-defined cleaning and evidence",
+      "Approver and replenishment route"
+    ],
+    "faqs": [
+      {
+        "question": "Can I request a cleanroom rack from a general catalogue page?",
+        "answer": "You can describe the requirement, but the generic type makes no cleanroom claim. The exact configuration and supporting evidence need facility review."
+      }
+    ],
+    "categoryIds": [
+      "hospitality",
+      "industrial"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "kitchen-shelving",
+      "parts-bin-rack"
+    ]
+  },
+  {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "province": "British Columbia",
+    "title": "Vancouver rack and storage planning",
+    "description": "Commercial loading zones and compact retail backrooms. Prepare a practical rack quote for Vancouver.",
+    "intent": "Commercial loading zones and compact retail backrooms",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Vancouver publishes guidance on commercial loading and deliveries. For a compact shop or backroom, the access route and receiving arrangement should be recorded alongside the dimensions of the proposed storage.",
+    "sources": [
+      {
+        "label": "Vancouver commercial delivery guidance",
+        "url": "https://vancouver.ca/home-property-development/commercial-deliveries.aspx"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a shop replenished through a lane or shared loading area, sketch the path from unloading to storage and onward to the sales floor. Include thresholds, tight turns and places where customer and stock movements meet. A dense stockroom layout can be inconvenient if each replenishment requires moving other fixtures. Record the container sizes and which products need access most often."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Backroom shelving serves reserve stock, whereas gondola shelving is designed around the browsing face. Compare them by job rather than assuming one fixture can do both. Ask the building contact about receiving procedures and check current municipal guidance before booking a delivery. A mobile arrangement also needs a suitable floor route and a place to park without obstructing circulation."
+      }
+    ],
+    "checklist": [
+      "Lane or loading entrance details",
+      "Fast-moving versus reserve merchandise",
+      "Thresholds and restocking path"
+    ],
+    "faqs": [
+      {
+        "question": "Should the stockroom use the same fixtures as the sales floor?",
+        "answer": "Only if the actual tasks support that choice. Reserve storage, customer browsing and replenishment can impose different access and support requirements."
+      }
+    ],
+    "categoryIds": [
+      "retail"
+    ],
+    "guideSlugs": [
+      "retail-fixtures"
+    ],
+    "productSlugs": [
+      "retail-stockroom-rack",
+      "gondola-shelving"
+    ]
+  },
+  {
+    "slug": "surrey",
+    "name": "Surrey",
+    "province": "British Columbia",
+    "title": "Surrey rack and storage planning",
+    "description": "Manufacturing component replenishment beside assembly work. Prepare a practical rack quote for Surrey.",
+    "intent": "Manufacturing component replenishment beside assembly work",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Surrey’s economic strategy identifies advanced manufacturing as a priority sector. Component replenishment near assembly work is a useful planning focus: a rack should support the workflow instead of becoming an extra handling step.",
+    "sources": [
+      {
+        "label": "Surrey economic strategy",
+        "url": "https://www.surrey.ca/sites/default/files/media/documents/surrey-invests-economic-strategy-2024.pdf"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For an assembly area, list components presented to the operator and the containers returned after use. Record whether replenishment occurs from the same side as picking and whether several people need access together. The shelf arrangement should be discussed alongside the movement of empty containers, tools and partly completed work. Provide examples of the largest and most awkward containers."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Carton flow lanes can be compared with parts-bin racks when the task involves repeated hand picking. The actual carton base and replenishment method determine whether flow is a sensible candidate; it is not an automatic upgrade. Mark machine access, maintenance zones and temporary work areas on the brief. Any structural or machine-interface requirements need review by the responsible specialists."
+      }
+    ],
+    "checklist": [
+      "Picking and replenishment sides",
+      "Full and empty container routes",
+      "Machine and maintenance access zones"
+    ],
+    "faqs": [
+      {
+        "question": "Is flow shelving always better for assembly work?",
+        "answer": "No. It depends on container behaviour, access and replenishment frequency. A simple bin arrangement may suit mixed or irregular parts better."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions",
+      "choosing-pallet-racking"
+    ],
+    "productSlugs": [
+      "carton-flow-racking",
+      "parts-bin-rack"
+    ]
+  },
+  {
+    "slug": "burnaby",
+    "name": "Burnaby",
+    "province": "British Columbia",
+    "title": "Burnaby rack and storage planning",
+    "description": "Film wardrobe and equipment storage between productions. Prepare a practical rack quote for Burnaby.",
+    "intent": "Film wardrobe and equipment storage between productions",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Burnaby’s film office describes a local production setting that includes studios and varied filming locations. Between productions, wardrobe and equipment storage have different needs from the supports used on an active set.",
+    "sources": [
+      {
+        "label": "Burnaby film production context",
+        "url": "https://www.burnaby.ca/business/filming-in-burnaby"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a production store, distinguish hanging costumes, boxed accessories, folded stands and cased equipment. Record which items must stay grouped by scene or performer and which return through an inspection or cleaning process. A garment rail used backstage has a different retrieval pattern from a public coat-check rack. Include the route from storage to loading, with doors and floor transitions."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare backstage garment racks with stand and cable storage for the actual inventory. Movement inside a building does not prove suitability for loaded road transport. Ask how items will be retained and whether the support is intended to move while loaded. Keep rigging, electrical operation and storage as separate scopes; a storage quotation does not approve equipment for use above people."
+      }
+    ],
+    "checklist": [
+      "Wardrobe grouping and identification",
+      "Equipment return process",
+      "Loaded movement versus road transport"
+    ],
+    "faqs": [
+      {
+        "question": "Can a storage rack double as transport equipment?",
+        "answer": "Only if the selected configuration is intended and verified for that use. Describe the route, loads and restraint needs separately from static storage."
+      }
+    ],
+    "categoryIds": [
+      "events"
+    ],
+    "guideSlugs": [
+      "garment-racks",
+      "event-coat-racks"
+    ],
+    "productSlugs": [
+      "event-garment-rack",
+      "microphone-stand-rack"
+    ]
+  },
+  {
+    "slug": "calgary",
+    "name": "Calgary",
+    "province": "Alberta",
+    "title": "Calgary rack and storage planning",
+    "description": "Distribution replenishment versus dispatch staging. Prepare a practical rack quote for Calgary.",
+    "intent": "Distribution replenishment versus dispatch staging",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Calgary Economic Development identifies warehousing, distribution and intermodal activity within the region’s logistics sector. A useful rack brief separates stock held for later retrieval from freight waiting briefly for dispatch.",
+    "sources": [
+      {
+        "label": "Calgary logistics context",
+        "url": "https://www.calgaryeconomicdevelopment.com/key-industries/transportation-and-logistics/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a distribution operation, map reserve pallets, replenishment traffic and outbound staging as distinct activities. Goods waiting for a carrier may need floor staging rather than permanent rack positions. Record the busiest overlap between incoming and outgoing loads and which stock lines require individual access. Include empty pallets and packaging returns so those movements are not omitted from the layout discussion."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare selective pallet racking with deeper grouped lanes only after the stock profile and retrieval order are understood. More positions are not useful if replenishment blocks dispatch. Identify the handling equipment and collect floor and building information for assessment. For a phased change, describe which operations must continue while the proposed storage area is being prepared."
+      }
+    ],
+    "checklist": [
+      "Reserve stock and dispatch staging separately",
+      "Peak movement overlap",
+      "Operating constraints during a change"
+    ],
+    "faqs": [
+      {
+        "question": "Should every pallet waiting for dispatch be racked?",
+        "answer": "Not necessarily. Dwell time and handling sequence matter. Describe the staging task separately so storage positions are not confused with a dispatch buffer."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "drive-in-racking"
+    ]
+  },
+  {
+    "slug": "edmonton",
+    "name": "Edmonton",
+    "province": "Alberta",
+    "title": "Edmonton rack and storage planning",
+    "description": "Industrial service spares with changing component shapes. Prepare a practical rack quote for Edmonton.",
+    "intent": "Industrial service spares with changing component shapes",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Edmonton identifies manufacturing, logistics and energy among its industrial activities. A service-parts store is a useful planning example because small consumables and irregular replacement assemblies rarely need the same support arrangement.",
+    "sources": [
+      {
+        "label": "Edmonton industrial context",
+        "url": "https://www.edmonton.ca/business_economy/industrial-growth"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a maintenance supplier or workshop, group items by shape and handling method before selecting a rack. Small fittings may be picked by hand while a replacement assembly needs lifting equipment and an unobstructed approach. Include protective packaging and parts retained for occasional repairs. Record what is issued as a complete kit so the proposed layout does not scatter related components."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Bin racks can organize small parts; longspan shelving may be a candidate for larger hand-loaded containers; long materials need a separate support discussion. None establishes suitability for an unknown assembly weight. Include the inventory’s measured information and the equipment used for handling. Keep hazardous materials outside a generic storage brief until their specific storage requirements have been identified by the responsible team."
+      }
+    ],
+    "checklist": [
+      "Part shapes and measured load information",
+      "Kit grouping and identification",
+      "Handling equipment and occasional spares"
+    ],
+    "faqs": [
+      {
+        "question": "Can I specify storage just by the number of parts?",
+        "answer": "A count alone misses shape, weight and access. Provide representative items and separate unusually large or sensitive components for assessment."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking",
+      "rack-inspection-planning"
+    ],
+    "productSlugs": [
+      "parts-bin-rack",
+      "longspan-shelving"
+    ]
+  },
+  {
+    "slug": "winnipeg",
+    "name": "Winnipeg",
+    "province": "Manitoba",
+    "title": "Winnipeg rack and storage planning",
+    "description": "Multimodal freight handling and short-term staging. Prepare a practical rack quote for Winnipeg.",
+    "intent": "Multimodal freight handling and short-term staging",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Winnipeg Economic Development & Tourism describes the city as a transportation and distribution hub with road, rail and air connections. Purchasing decisions should still start with how goods arrive at the specific facility and leave it.",
+    "sources": [
+      {
+        "label": "Winnipeg transportation context",
+        "url": "https://www.winnipegedt.com/key-industries/transportation-distribution"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a freight-related store, distinguish goods that remain in the same unit load from goods broken down into smaller orders. Record changes in pallet format, packaging and identification between receipt and dispatch. A short dwell time may favour a staging arrangement rather than storage depth. Include the area used to check incoming freight before it is released into normal stock."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Selective pallet positions can be compared with hand-picking shelves where loads are broken down. Do not assume imported or customer-owned pallets will behave like the regular stock used to describe a flow system. Provide actual pallet condition and format information for review. Mark where empty containers and returns wait so the rack proposal does not consume needed operational space."
+      }
+    ],
+    "checklist": [
+      "Incoming and outgoing load formats",
+      "Checking and release areas",
+      "Returns and empty-container space"
+    ],
+    "faqs": [
+      {
+        "question": "Can mixed pallet formats share a flow lane?",
+        "answer": "Compatibility must be assessed for the actual pallets and loads. Do not assume that matching overall dimensions establish suitable movement or support."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "industrial-shelving"
+    ]
+  },
+  {
+    "slug": "halifax",
+    "name": "Halifax",
+    "province": "Nova Scotia",
+    "title": "Halifax rack and storage planning",
+    "description": "Ocean technology equipment returning from field work. Prepare a practical rack quote for Halifax.",
+    "intent": "Ocean technology equipment returning from field work",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Halifax Partnership describes an ocean sector that includes instruments, marine technology and research. Equipment returning from field work creates a useful storage-planning distinction between returned, checked and ready-to-use items.",
+    "sources": [
+      {
+        "label": "Halifax ocean-sector context",
+        "url": "https://halifaxpartnership.com/halifax-canadas-ocean-city/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a field-equipment store, list instruments in cases separately from cable coils, spare components and supplies. Describe the return process before items re-enter storage: some may need cleaning, drying or assessment under the owner’s procedures. A rack should support that process rather than imply that returned equipment is immediately ready for use. Include case handles, lids and lifting access."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Case shelving and coiled-cable racks address different support needs. Devices designed for rack mounting may require a separate equipment frame. State any moisture, salt exposure or environmental requirements for the selected product; a coastal location does not make an indoor rack corrosion-resistant. Ask for evidence that matches the actual storage conditions and retain room for checking and labelling returned equipment."
+      }
+    ],
+    "checklist": [
+      "Case dimensions and opening clearance",
+      "Returned versus ready equipment",
+      "Environmental and cleaning requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Does location near the ocean determine the material needed?",
+        "answer": "The actual exposure and cleaning process matter. Describe the environment and request suitable product evidence rather than assuming a finish provides protection."
+      }
+    ],
+    "categoryIds": [
+      "technology",
+      "events"
+    ],
+    "guideSlugs": [
+      "server-rack-sizing",
+      "rack-inspection-planning"
+    ],
+    "productSlugs": [
+      "four-post-open-rack",
+      "event-cable-rack"
+    ]
+  },
+  {
+    "slug": "saskatoon",
+    "name": "Saskatoon",
+    "province": "Saskatchewan",
+    "title": "Saskatoon rack and storage planning",
+    "description": "Agriculture research and processing support stores. Prepare a practical rack quote for Saskatoon.",
+    "intent": "Agriculture research and processing support stores",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "SREDA identifies agriculture and food manufacturing in the Saskatoon region. For a research or processing support store, small sample containers and routine consumables can create a very different task from bulk agricultural handling.",
+    "sources": [
+      {
+        "label": "Saskatoon region agriculture context",
+        "url": "https://sreda.com/sectors/agriculture/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a support workspace, separate labelled containers, packaged supplies and equipment awaiting use. Specify identification needs and who is allowed to retrieve each group. General shelving does not establish suitability for samples, chemicals or controlled materials. Ask the facility team to define any environmental, segregation or documentation requirements before including those items in a storage quotation."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Parts-bin racks can organize ordinary consumables, while shelf-based storage may suit larger approved containers. Compare by container support and retrieval rather than the name of the industry. Record whether the store serves a recurring process or changing research projects, because that affects labelling and rearrangement. Keep cleaning access and a place to receive new containers in the layout brief."
+      }
+    ],
+    "checklist": [
+      "Container identification and permitted contents",
+      "Routine versus changing project needs",
+      "Facility storage and cleaning requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Does an agricultural use imply bulk storage equipment?",
+        "answer": "No. A support store may primarily hold small supplies or instruments. Describe the actual stored items so the quotation addresses that task."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions",
+      "commercial-kitchen-shelving"
+    ],
+    "productSlugs": [
+      "parts-bin-rack",
+      "industrial-shelving"
+    ]
+  },
+  {
+    "slug": "regina",
+    "name": "Regina",
+    "province": "Saskatchewan",
+    "title": "Regina rack and storage planning",
+    "description": "Agricultural machinery parts and seasonal maintenance demand. Prepare a practical rack quote for Regina.",
+    "intent": "Agricultural machinery parts and seasonal maintenance demand",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Economic Development Regina highlights agricultural manufacturing. For a machinery-parts operation, a useful brief distinguishes frequently issued service parts from bulky components held for seasonal maintenance demand.",
+    "sources": [
+      {
+        "label": "Regina manufacturing context",
+        "url": "https://economicdevelopmentregina.com/sectors/manufacturing/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For a service-parts store, identify which items are issued together for a repair and which are held as less frequent replacements. Include the space needed to prepare kits before collection or dispatch. A long component, a tire set and a box of fittings should not be counted as equivalent shelf positions. Supply the actual handling method for each group."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare tire racks, bin racks and long-material supports as separate candidates. Describe peak stock and retrieval patterns as your own operational data, rather than assuming demand from a calendar. Reserve space for returns awaiting identification or inspection. Structural capacity and support compatibility must be reviewed for the selected configuration, especially where heavy or irregular assemblies are involved."
+      }
+    ],
+    "checklist": [
+      "Repair-kit groups and part shapes",
+      "Peak inventory based on your records",
+      "Return assessment and staging space"
+    ],
+    "faqs": [
+      {
+        "question": "Should I size the store for an average week?",
+        "answer": "Include both routine and peak inventory, with how long extra stock stays. That makes seasonal overflow a defined planning question rather than an assumed spare capacity."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "productSlugs": [
+      "tire-storage-rack",
+      "parts-bin-rack"
+    ]
+  },
+  {
+    "slug": "victoria",
+    "name": "Victoria",
+    "province": "British Columbia",
+    "title": "Victoria rack and storage planning",
+    "description": "Hospitality linen, luggage and event turnaround. Prepare a practical rack quote for Victoria.",
+    "intent": "Hospitality linen, luggage and event turnaround",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Victoria identifies tourism and hospitality among its economic strengths. Linen, luggage and event equipment create distinct storage tasks for accommodation and venue operators, even when they share a back-of-house area.",
+    "sources": [
+      {
+        "label": "Victoria economic drivers",
+        "url": "https://www.victoria.ca/building-business/economic-development/business-advantages"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Define the storage task",
+        "body": "For an accommodation property, distinguish guest luggage held for retrieval from clean linen and equipment stored between functions. Record when each area is busiest and which items must remain identifiable to staff. A guest-room luggage stand is not the same requirement as a multi-item baggage store. Provide the actual bag sizes, linen containers and route used by housekeeping."
+      },
+      {
+        "title": "Compare the right starting points",
+        "body": "Compare dedicated linen shelving with event coat storage according to the service task. Keep guest-facing retrieval separate from replenishment movements where the premises allow. Ask about the delivery route to the property, including any receiving restrictions and internal lifts; schedules and freight arrangements need confirmation for the project. Do not assume availability from a preferred event or room-turnover date."
+      }
+    ],
+    "checklist": [
+      "Linen containers and luggage handling",
+      "Peak arrival and turnaround periods",
+      "Receiving route and requested dates"
+    ],
+    "faqs": [
+      {
+        "question": "Can one rack serve linen, coats and luggage?",
+        "answer": "Only after the different handling and identification needs are assessed. Separate the tasks in the brief so cleaning, access and support requirements remain clear."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "guideSlugs": [
+      "event-coat-racks",
+      "commercial-kitchen-shelving"
+    ],
+    "productSlugs": [
+      "housekeeping-linen-rack",
+      "event-coat-rack"
+    ]
+  }
+]
