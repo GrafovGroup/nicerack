@@ -1,0 +1,33 @@
+{
+  "sitemapPages": 297,
+  "englishPages": 212,
+  "frenchPages": 85,
+  "internalTargets": 2342,
+  "schemas": [
+    "BreadcrumbList",
+    "Organization"
+  ],
+  "errors": [],
+  "representativePayloads": [
+    {
+      "path": "/products",
+      "htmlGzipBytes": 50408
+    },
+    {
+      "path": "/locations",
+      "htmlGzipBytes": 17885
+    },
+    {
+      "path": "/guides",
+      "htmlGzipBytes": 7308
+    },
+    {
+      "path": "/locations/toronto",
+      "htmlGzipBytes": 7488
+    },
+    {
+      "path": "/guides/server-rack-sizing",
+      "htmlGzipBytes": 7448
+    }
+  ]
+}

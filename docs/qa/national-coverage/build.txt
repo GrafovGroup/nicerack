@@ -1,0 +1,75 @@
+$ pnpm catalogue:validate && next build
+$ tsx scripts/validate-catalogue.ts
+Valid catalogue: 120 records. No files changed.
+▲ Next.js 16.4.1 (Turbopack)
+✓ Running next.config.mjs took 30ms
+- Experiments (use with caution):
+  · cpus: 1
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 5.9s
+  Running TypeScript ...
+  Finished TypeScript in 16.8s ...
+  Collecting page data using 1 worker ...
+  Generating static pages using 1 worker (0/305) ...
+  Generating static pages using 1 worker (76/305)
+  Generating static pages using 1 worker (152/305)
+  Generating static pages using 1 worker (228/305)
+✓ Generating static pages using 1 worker (305/305) in 7.0s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├   /[page]
+│ ├ ● /about
+│ ├ ● /services
+│ ├ ● /contact
+│ └ ● [+2 more paths]
+├ ƒ /api/quote
+├ ○ /categories
+├   /categories/[slug]
+│ ├ ● /categories/warehouse-industrial
+│ ├ ● /categories/automotive-fleet
+│ ├ ● /categories/garage-home
+│ └ ● [+5 more paths]
+├ ƒ /compare
+├   /fr/[[...segments]]
+│ ├ ● /fr
+│ ├ ● /fr/categories
+│ ├ ● /fr/produits
+│ └ ● [+69 more paths]
+├ ƒ /fr/comparer
+├   /fr/provinces/[slug]
+│ ├ ● /fr/provinces/colombie-britannique
+│ ├ ● /fr/provinces/alberta
+│ ├ ● /fr/provinces/saskatchewan
+│ └ ● [+10 more paths]
+├ ○ /guides
+├   /guides/[slug]
+│ ├ ● /guides/choosing-pallet-racking
+│ ├ ● /guides/cantilever-vs-pallet-racking
+│ ├ ● /guides/warehouse-layout-questions
+│ └ ● [+11 more paths]
+├ ○ /icon.svg
+├ ○ /locations
+├   /locations/[slug]
+│ ├ ● /locations/toronto
+│ ├ ● /locations/mississauga
+│ ├ ● /locations/brampton
+│ └ ● [+43 more paths]
+├   /locations/provinces/[slug]
+│ ├ ● /locations/provinces/british-columbia
+│ ├ ● /locations/provinces/alberta
+│ ├ ● /locations/provinces/saskatchewan
+│ └ ● [+10 more paths]
+├ ƒ /products
+├ ƒ /products/[slug]
+├ ○ /request-quote
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand

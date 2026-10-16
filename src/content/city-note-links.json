@@ -1,0 +1,250 @@
+{
+  "en": [
+    {
+      "name": "Toronto",
+      "slug": "toronto"
+    },
+    {
+      "name": "Mississauga",
+      "slug": "mississauga"
+    },
+    {
+      "name": "Brampton",
+      "slug": "brampton"
+    },
+    {
+      "name": "Vaughan",
+      "slug": "vaughan"
+    },
+    {
+      "name": "Ottawa",
+      "slug": "ottawa"
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton"
+    },
+    {
+      "name": "London",
+      "slug": "london"
+    },
+    {
+      "name": "Kitchener",
+      "slug": "kitchener"
+    },
+    {
+      "name": "Montreal",
+      "slug": "montreal"
+    },
+    {
+      "name": "Quebec City",
+      "slug": "quebec-city"
+    },
+    {
+      "name": "Laval",
+      "slug": "laval"
+    },
+    {
+      "name": "Vancouver",
+      "slug": "vancouver"
+    },
+    {
+      "name": "Surrey",
+      "slug": "surrey"
+    },
+    {
+      "name": "Burnaby",
+      "slug": "burnaby"
+    },
+    {
+      "name": "Calgary",
+      "slug": "calgary"
+    },
+    {
+      "name": "Edmonton",
+      "slug": "edmonton"
+    },
+    {
+      "name": "Winnipeg",
+      "slug": "winnipeg"
+    },
+    {
+      "name": "Halifax",
+      "slug": "halifax"
+    },
+    {
+      "name": "Saskatoon",
+      "slug": "saskatoon"
+    },
+    {
+      "name": "Regina",
+      "slug": "regina"
+    },
+    {
+      "name": "Victoria",
+      "slug": "victoria"
+    },
+    {
+      "name": "Barrie",
+      "slug": "barrie"
+    },
+    {
+      "name": "Newmarket",
+      "slug": "newmarket"
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora"
+    },
+    {
+      "name": "Oakville",
+      "slug": "oakville"
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington"
+    },
+    {
+      "name": "Milton",
+      "slug": "milton"
+    },
+    {
+      "name": "Cambridge",
+      "slug": "cambridge"
+    },
+    {
+      "name": "Guelph",
+      "slug": "guelph"
+    },
+    {
+      "name": "Niagara Falls",
+      "slug": "niagara-falls"
+    },
+    {
+      "name": "St. Catharines",
+      "slug": "st-catharines"
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston"
+    },
+    {
+      "name": "Belleville",
+      "slug": "belleville"
+    },
+    {
+      "name": "Oshawa",
+      "slug": "oshawa"
+    },
+    {
+      "name": "Whitby",
+      "slug": "whitby"
+    },
+    {
+      "name": "Ajax",
+      "slug": "ajax"
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor"
+    },
+    {
+      "name": "Sarnia",
+      "slug": "sarnia"
+    },
+    {
+      "name": "Sudbury",
+      "slug": "sudbury"
+    },
+    {
+      "name": "North Bay",
+      "slug": "north-bay"
+    },
+    {
+      "name": "Kelowna",
+      "slug": "kelowna"
+    },
+    {
+      "name": "Nanaimo",
+      "slug": "nanaimo"
+    },
+    {
+      "name": "Abbotsford",
+      "slug": "abbotsford"
+    },
+    {
+      "name": "Chilliwack",
+      "slug": "chilliwack"
+    },
+    {
+      "name": "Red Deer",
+      "slug": "red-deer"
+    },
+    {
+      "name": "Lethbridge",
+      "slug": "lethbridge"
+    }
+  ],
+  "fr": [
+    {
+      "name": "Montréal",
+      "slug": "montreal"
+    },
+    {
+      "name": "Québec",
+      "slug": "quebec"
+    },
+    {
+      "name": "Laval",
+      "slug": "laval"
+    },
+    {
+      "name": "Longueuil",
+      "slug": "longueuil"
+    },
+    {
+      "name": "Gatineau",
+      "slug": "gatineau"
+    },
+    {
+      "name": "Sherbrooke",
+      "slug": "sherbrooke"
+    },
+    {
+      "name": "Trois-Rivières",
+      "slug": "trois-rivieres"
+    },
+    {
+      "name": "Lévis",
+      "slug": "levis"
+    },
+    {
+      "name": "Saguenay",
+      "slug": "saguenay"
+    },
+    {
+      "name": "Drummondville",
+      "slug": "drummondville"
+    },
+    {
+      "name": "Granby",
+      "slug": "granby"
+    },
+    {
+      "name": "Saint-Hyacinthe",
+      "slug": "saint-hyacinthe"
+    },
+    {
+      "name": "Saint-Jérôme",
+      "slug": "saint-jerome"
+    },
+    {
+      "name": "Terrebonne",
+      "slug": "terrebonne"
+    },
+    {
+      "name": "Brossard",
+      "slug": "brossard"
+    }
+  ]
+}

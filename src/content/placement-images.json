@@ -238,5 +238,17 @@
     "alt": "Rack cable-organization planning",
     "width": 1200,
     "height": 900
+  },
+  "/locations": {
+    "src": "/images/locations/en-directory.webp",
+    "alt": "Pallet racks beside a clear warehouse receiving aisle",
+    "width": 1200,
+    "height": 800
+  },
+  "/fr/villes": {
+    "src": "/images/locations/fr-directory.webp",
+    "alt": "Étagères et bacs de pièces dans un atelier lumineux",
+    "width": 1200,
+    "height": 800
   }
 }
