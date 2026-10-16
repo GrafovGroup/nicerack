@@ -21,3 +21,10 @@ Commit focused changes and PHASE_1C_REPORT.md describing exactly what was change
 
 ## Definition of done
 A visitor can browse the catalogue and submit a validated enquiry; when configured, the existing transport accepts it for delivery to info@nicerack.ca, and failure is clearly surfaced. No backend sales management features.
+
+## Confirmed pricing and conversion policy (October 15, 2026)
+- ALL products and categories are REQUEST A QUOTE ONLY. Never show public prices, price ranges, estimated prices, sale badges, price filters, pricing schema or checkout/cart links.
+- Primary CTA across catalogue, category, product and comparison pages: REQUEST A QUOTE.
+- Quote form must preserve selected product(s), quantities and customer requirements; deliver directly to info@nicerack.ca.
+- Do not add payment, customer accounts, shopping cart or lead management dashboards.
+- Audit all routes and structured data for unintended prices or Offer pricing fields.
