@@ -1,0 +1,603 @@
+{
+  "products": [
+    {
+      "id": "type-pallet-racking",
+      "slug": "pallet-racking",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-cantilever-rack",
+      "slug": "cantilever-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-industrial-shelving",
+      "slug": "industrial-shelving",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-ladder-rack",
+      "slug": "ladder-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-roof-rack",
+      "slug": "roof-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-truck-bed-rack",
+      "slug": "truck-bed-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-wall-storage",
+      "slug": "wall-storage",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-overhead-storage",
+      "slug": "overhead-storage",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-bicycle-storage",
+      "slug": "bicycle-storage",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-garment-rack",
+      "slug": "garment-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-display-shelving",
+      "slug": "display-shelving",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-portable-display",
+      "slug": "portable-display",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-power-rack",
+      "slug": "power-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-weight-storage",
+      "slug": "weight-storage",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-sports-storage",
+      "slug": "sports-storage",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-kitchen-shelving",
+      "slug": "kitchen-shelving",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-dish-storage",
+      "slug": "dish-storage",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-luggage-rack",
+      "slug": "luggage-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-server-cabinet",
+      "slug": "server-cabinet",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-network-rack",
+      "slug": "network-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-wall-enclosure",
+      "slug": "wall-enclosure",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-event-coat-rack",
+      "slug": "event-coat-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-event-garment-rack",
+      "slug": "event-garment-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-event-display-rack",
+      "slug": "event-display-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-drive-in-racking",
+      "slug": "drive-in-racking",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-push-back-racking",
+      "slug": "push-back-racking",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-pallet-flow-racking",
+      "slug": "pallet-flow-racking",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-carton-flow-racking",
+      "slug": "carton-flow-racking",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-longspan-shelving",
+      "slug": "longspan-shelving",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-reel-storage-rack",
+      "slug": "reel-storage-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-sheet-material-rack",
+      "slug": "sheet-material-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-vertical-stock-rack",
+      "slug": "vertical-stock-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-headache-rack",
+      "slug": "headache-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-utility-body-rack",
+      "slug": "utility-body-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-hitch-bike-rack",
+      "slug": "hitch-bike-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-roof-bike-rack",
+      "slug": "roof-bike-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-roof-cargo-basket",
+      "slug": "roof-cargo-basket",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-kayak-carrier",
+      "slug": "kayak-carrier",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-ski-snowboard-carrier",
+      "slug": "ski-snowboard-carrier",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-trailer-ladder-rack",
+      "slug": "trailer-ladder-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-garden-tool-rack",
+      "slug": "garden-tool-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-lumber-storage-rack",
+      "slug": "lumber-storage-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-sports-ball-rack",
+      "slug": "sports-ball-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-pantry-rack",
+      "slug": "pantry-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-laundry-drying-rack",
+      "slug": "laundry-drying-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-shoe-storage-rack",
+      "slug": "shoe-storage-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-firewood-rack",
+      "slug": "firewood-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-clamp-storage-rack",
+      "slug": "clamp-storage-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-four-way-clothing-rack",
+      "slug": "four-way-clothing-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-round-garment-rack",
+      "slug": "round-garment-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-gondola-shelving",
+      "slug": "gondola-shelving",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-gridwall-display",
+      "slug": "gridwall-display",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-slatwall-display",
+      "slug": "slatwall-display",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-retail-shoe-rack",
+      "slug": "retail-shoe-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-literature-rack",
+      "slug": "literature-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-retail-stockroom-rack",
+      "slug": "retail-stockroom-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-squat-stand",
+      "slug": "squat-stand",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-half-rack",
+      "slug": "half-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-folding-wall-rack",
+      "slug": "folding-wall-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-dumbbell-rack",
+      "slug": "dumbbell-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-weight-plate-rack",
+      "slug": "weight-plate-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-kettlebell-rack",
+      "slug": "kettlebell-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-medicine-ball-rack",
+      "slug": "medicine-ball-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-yoga-mat-rack",
+      "slug": "yoga-mat-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-sheet-pan-rack",
+      "slug": "sheet-pan-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-glassware-rack",
+      "slug": "glassware-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-pot-pan-rack",
+      "slug": "pot-pan-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-kitchen-drying-rack",
+      "slug": "kitchen-drying-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-wine-bottle-rack",
+      "slug": "wine-bottle-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-dunnage-rack",
+      "slug": "dunnage-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-housekeeping-linen-rack",
+      "slug": "housekeeping-linen-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-bakery-tray-display-rack",
+      "slug": "bakery-tray-display-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-four-post-open-rack",
+      "slug": "four-post-open-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-wall-open-network-rack",
+      "slug": "wall-open-network-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-vertical-wall-rack",
+      "slug": "vertical-wall-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-swing-out-wall-rack",
+      "slug": "swing-out-wall-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-slide-out-av-rack",
+      "slug": "slide-out-av-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-desktop-equipment-rack",
+      "slug": "desktop-equipment-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-battery-equipment-rack",
+      "slug": "battery-equipment-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-portable-av-rack",
+      "slug": "portable-av-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-folding-chair-rack",
+      "slug": "folding-chair-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-banquet-table-rack",
+      "slug": "banquet-table-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-stanchion-storage-rack",
+      "slug": "stanchion-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-pipe-drape-storage-rack",
+      "slug": "pipe-drape-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-lighting-fixture-storage-rack",
+      "slug": "lighting-fixture-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-road-case-storage-rack",
+      "slug": "road-case-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-sign-panel-storage-rack",
+      "slug": "sign-panel-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-stage-deck-storage-rack",
+      "slug": "stage-deck-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-tire-storage-rack",
+      "slug": "tire-storage-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-parts-bin-rack",
+      "slug": "parts-bin-rack",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-mobile-aisle-shelving",
+      "slug": "mobile-aisle-shelving",
+      "categoryId": "industrial"
+    },
+    {
+      "id": "type-van-interior-shelving",
+      "slug": "van-interior-shelving",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-drop-down-ladder-rack",
+      "slug": "drop-down-ladder-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-interior-ladder-rack",
+      "slug": "interior-ladder-rack",
+      "categoryId": "automotive"
+    },
+    {
+      "id": "type-paddleboard-storage-rack",
+      "slug": "paddleboard-storage-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-fishing-rod-rack",
+      "slug": "fishing-rod-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-golf-bag-rack",
+      "slug": "golf-bag-rack",
+      "categoryId": "garage"
+    },
+    {
+      "id": "type-carpet-roll-display-rack",
+      "slug": "carpet-roll-display-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-greeting-card-rack",
+      "slug": "greeting-card-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-produce-display-rack",
+      "slug": "produce-display-rack",
+      "categoryId": "retail"
+    },
+    {
+      "id": "type-barbell-storage-rack",
+      "slug": "barbell-storage-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-resistance-band-rack",
+      "slug": "resistance-band-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-foam-roller-rack",
+      "slug": "foam-roller-rack",
+      "categoryId": "fitness"
+    },
+    {
+      "id": "type-keg-storage-rack",
+      "slug": "keg-storage-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-cutting-board-rack",
+      "slug": "cutting-board-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-can-storage-rack",
+      "slug": "can-storage-rack",
+      "categoryId": "hospitality"
+    },
+    {
+      "id": "type-acoustic-server-cabinet",
+      "slug": "acoustic-server-cabinet",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-outdoor-equipment-cabinet",
+      "slug": "outdoor-equipment-cabinet",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-swing-frame-floor-rack",
+      "slug": "swing-frame-floor-rack",
+      "categoryId": "technology"
+    },
+    {
+      "id": "type-truss-storage-rack",
+      "slug": "truss-storage-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-event-cable-rack",
+      "slug": "event-cable-rack",
+      "categoryId": "events"
+    },
+    {
+      "id": "type-microphone-stand-rack",
+      "slug": "microphone-stand-rack",
+      "categoryId": "events"
+    }
+  ],
+  "locations": [
+    "toronto",
+    "mississauga",
+    "brampton",
+    "vaughan",
+    "ottawa",
+    "hamilton",
+    "london",
+    "kitchener",
+    "montreal",
+    "quebec-city",
+    "laval",
+    "vancouver",
+    "surrey",
+    "burnaby",
+    "calgary",
+    "edmonton",
+    "winnipeg",
+    "halifax",
+    "saskatoon",
+    "regina",
+    "victoria"
+  ],
+  "guides": [
+    "choosing-pallet-racking",
+    "cantilever-vs-pallet-racking",
+    "warehouse-layout-questions",
+    "rack-inspection-planning",
+    "van-ladder-racks",
+    "roof-rack-fit",
+    "overhead-garage-racks",
+    "bicycle-storage",
+    "garment-racks",
+    "retail-fixtures",
+    "power-vs-squat-racks",
+    "commercial-kitchen-shelving",
+    "server-rack-sizing",
+    "event-coat-racks"
+  ]
+}

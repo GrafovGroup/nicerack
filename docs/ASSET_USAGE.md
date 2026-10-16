@@ -17,3 +17,7 @@ Phase 1B: no new photographic assets or reused image placements were added. The 
 Phase 2A: all 88 catalogue records retain empty image arrays. No photographic asset was added, copied, downloaded or assigned to another placement. Existing single hero and brand treatment remain unchanged. Approved product photography and rights evidence are still external inputs; no new portfolio-wide comparison is claimed.
 
 Phase 2B: no new customer-facing images or image placements. All 112 general rack records have empty image lists; 21 location pages and 14 guides use text-first layouts. Sources are cited for information only, with no imported photos or claimed image rights. QA screenshots in `docs/qa/phase-2b` document the site and are not customer-facing content assets. Existing photography and branding are unchanged. No new portfolio-wide duplicate audit is claimed; inaccessible external inventories remain outside verification.
+
+## Phase 2C
+
+No new content photography, generated images or stock imagery. All 25 added English city pages and 64 French pages are text-first. Existing brand identity remains the same; the French footer uses text branding. No content image was duplicated into the French homepage or cards. Existing image files and placements in English are unchanged. Other-site inventories were not accessed for this phase; no portfolio-wide uniqueness verification is claimed.

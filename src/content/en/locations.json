@@ -1025,5 +1025,1180 @@
       "housekeeping-linen-rack",
       "event-coat-rack"
     ]
+  },
+  {
+    "slug": "barrie",
+    "name": "Barrie",
+    "province": "Ontario",
+    "title": "Barrie: manufacturing work-in-progress between production steps",
+    "description": "Manufacturing work-in-progress between production steps. Prepare a rack and storage enquiry for Barrie with the right dimensions, access details and handling questions.",
+    "intent": "Manufacturing work-in-progress between production steps",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Barrie’s municipal profile includes manufacturing in its economic picture. A useful factory storage brief separates incoming materials, work-in-progress and finished goods.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Map the handoff between machines rather than counting every pallet as finished stock. Record whether parts arrive in stillages, cartons or on pallets, who releases them to the next operation and where held material waits. Distinguish a queue needed for the next shift from long-term reserve. This prevents temporary production staging from consuming every retrieval position."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare pallet access with industrial shelving for hand-carried components. Include the frequency of changeovers and whether a container returns empty. The layout needs to preserve equipment access as well as stock access; do not convert a sketch into an aisle or load specification without the responsible site review."
+      }
+    ],
+    "checklist": [
+      "Container types at each operation",
+      "Release and hold process",
+      "Shift handoff and replenishment"
+    ],
+    "faqs": [
+      {
+        "question": "Can work-in-progress use the finished-goods layout?",
+        "answer": "Only after comparing handling, dwell time and retrieval needs. A shared container does not mean the workflow is the same."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "pallet-racking"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Barrie local context",
+        "url": "https://www.barrie.ca/media/13875"
+      }
+    ]
+  },
+  {
+    "slug": "newmarket",
+    "name": "Newmarket",
+    "province": "Ontario",
+    "title": "Newmarket: small technology teams staging changing network equipment",
+    "description": "Small technology teams staging changing network equipment. Prepare a rack and storage enquiry for Newmarket with the right dimensions, access details and handling questions.",
+    "intent": "Small technology teams staging changing network equipment",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Newmarket’s economic development material describes its technology base. For a growing technical team, distinguish equipment being tested from devices intended to remain installed.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List devices by mounting method and connection location, then separate temporary test assemblies from the production network. A bench setup may need frequent rear access while installed equipment needs controlled access. Describe who changes equipment, how cables are identified and where removed devices wait. Leave power and thermal requirements with the responsible technical specialists."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare an open network frame with an enclosed cabinet around servicing and access control. Moving a prototype device into a cabinet can change cable reach and ventilation. Request confirmation of mounting depth, rails and shelf support for each device rather than selecting by rack-unit count alone."
+      }
+    ],
+    "checklist": [
+      "Test versus installed equipment",
+      "Connection locations and change frequency",
+      "Access control and device documentation"
+    ],
+    "faqs": [
+      {
+        "question": "Should a test rack match the production cabinet?",
+        "answer": "It may use the same equipment, but access and servicing differ. Specify both workflows before selecting either arrangement."
+      }
+    ],
+    "categoryIds": [
+      "technology"
+    ],
+    "productSlugs": [
+      "network-rack"
+    ],
+    "guideSlugs": [
+      "server-rack-sizing"
+    ],
+    "sources": [
+      {
+        "label": "Newmarket local context",
+        "url": "https://www.newmarket.ca/business-development/economic-development/why-newmarket"
+      }
+    ]
+  },
+  {
+    "slug": "aurora",
+    "name": "Aurora",
+    "province": "Ontario",
+    "title": "Aurora: shared cultural rooms with frequent display changeovers",
+    "description": "Shared cultural rooms with frequent display changeovers. Prepare a rack and storage enquiry for Aurora with the right dimensions, access details and handling questions.",
+    "intent": "Shared cultural rooms with frequent display changeovers",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Aurora’s business information includes its cultural setting. A temporary exhibition in a shared room benefits from a plan for changeover and off-hours storage.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "For a community display, list what must leave the room when the next activity begins. Measure the storage-room door and the route from the display area, including any thresholds. Record whether display materials can remain attached during movement or must be packed separately. The person moving the fixture needs a clear destination, not just a wheeled base."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare a portable display with garment or coat storage only when the event actually requires hanging items. Specify the packed footprint and a component inventory so successive organizers can check returns. Ask the venue contact about circulation and mounting restrictions; rental and handling arrangements remain dependent on dates and location."
+      }
+    ],
+    "checklist": [
+      "Changeover time and staffing",
+      "Packed footprint and doorways",
+      "Component and return inventory"
+    ],
+    "faqs": [
+      {
+        "question": "Does portable mean one person can move it?",
+        "answer": "No. Handling depends on the selected fixture, its load and the route. Describe staffing and access for assessment."
+      }
+    ],
+    "categoryIds": [
+      "events"
+    ],
+    "productSlugs": [
+      "event-display-rack"
+    ],
+    "guideSlugs": [
+      "event-coat-racks"
+    ],
+    "sources": [
+      {
+        "label": "Aurora local context",
+        "url": "https://www.aurora.ca/business"
+      }
+    ]
+  },
+  {
+    "slug": "oakville",
+    "name": "Oakville",
+    "province": "Ontario",
+    "title": "Oakville: office network changes in occupied premises",
+    "description": "Office network changes in occupied premises. Prepare a rack and storage enquiry for Oakville with the right dimensions, access details and handling questions.",
+    "intent": "Office network changes in occupied premises",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Oakville’s economic profile is a starting point for business-space planning. For an occupied office, the rack enquiry should account for access to the network room while people continue working.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Identify existing devices and their mounting documents before planning a replacement enclosure. Record where cables enter, which connections must remain reachable and whether the door swings into a working area. Describe the planned sequence of the office change, including who is responsible for disconnecting and recommissioning equipment; a rack quote does not establish an IT migration service."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "A wall enclosure can preserve floor space but adds a supporting-wall assessment. A floor cabinet uses a different delivery route and service envelope. Compare the full installed weight and usable depth, not just external dimensions. Let the property contact confirm permitted fixing locations and access hours."
+      }
+    ],
+    "checklist": [
+      "Existing device and cable schedule",
+      "Wall or floor support conditions",
+      "Work sequence and access hours"
+    ],
+    "faqs": [
+      {
+        "question": "Does changing the cabinet include reconnecting the network?",
+        "answer": "Do not assume it does. Identify the responsible IT team and request any additional scope explicitly."
+      }
+    ],
+    "categoryIds": [
+      "technology"
+    ],
+    "productSlugs": [
+      "wall-enclosure"
+    ],
+    "guideSlugs": [
+      "server-rack-sizing"
+    ],
+    "sources": [
+      {
+        "label": "Oakville local context",
+        "url": "https://invest.oakville.ca/why-oakville/strong-economy/"
+      }
+    ]
+  },
+  {
+    "slug": "burlington",
+    "name": "Burlington",
+    "province": "Ontario",
+    "title": "Burlington: clean-technology service parts kept separate from returned equipment",
+    "description": "Clean-technology service parts kept separate from returned equipment. Prepare a rack and storage enquiry for Burlington with the right dimensions, access details and handling questions.",
+    "intent": "Clean-technology service parts kept separate from returned equipment",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Burlington identifies clean water technology among its industry areas. A service-parts store can distinguish new components from equipment returning for examination.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "For a maintenance team, list sealed replacement parts separately from returned assemblies. Record which containers can be handled manually and which need mechanical assistance. Explain how a returned item is identified and released, and whether the facility defines isolation or cleaning requirements. A storage shelf should support the process without being treated as evidence of contamination control."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare industrial shelving for boxed parts with pallet storage for larger assemblies. Provide actual container dimensions and weights, including awkward fittings or projecting connections. Map the inspection handoff so returned goods do not simply occupy the nearest free shelf. Any special environmental performance requires specific product evidence."
+      }
+    ],
+    "checklist": [
+      "New versus returned components",
+      "Inspection and release process",
+      "Container weights and projections"
+    ],
+    "faqs": [
+      {
+        "question": "Can a general shelf establish a clean storage zone?",
+        "answer": "No. The facility must define segregation and cleaning. The selected equipment then needs review against those requirements."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Burlington local context",
+        "url": "https://investburlington.ca/our-key-industries/"
+      }
+    ]
+  },
+  {
+    "slug": "milton",
+    "name": "Milton",
+    "province": "Ontario",
+    "title": "Milton: stockroom relocation with phased receiving",
+    "description": "Stockroom relocation with phased receiving. Prepare a rack and storage enquiry for Milton with the right dimensions, access details and handling questions.",
+    "intent": "Stockroom relocation with phased receiving",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Milton’s economic development strategy provides context for business growth. For a business moving stockrooms, sequencing the move can matter as much as the final shelf arrangement.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Create separate inventories for stock that must remain accessible during the move and items that can be packed early. Record the destination receiving route and where incoming containers will wait while shelving is assembled. Number storage zones so unpacking does not depend on memory. A drawing of the final room alone does not describe these temporary movements."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare reusable shelf arrangements with any new pallet positions according to the actual handling method. Existing rack identification and installation documentation should accompany relocation questions; do not assume components can be reassembled in a different configuration without review. Include disposal of packaging and responsibility for unloading in the brief."
+      }
+    ],
+    "checklist": [
+      "Move sequence and essential stock",
+      "Receiving and temporary staging",
+      "Existing equipment identification"
+    ],
+    "faqs": [
+      {
+        "question": "Can existing shelving simply be moved and expanded?",
+        "answer": "Compatibility, condition and the proposed configuration need review. Supply documentation and identify additional components separately."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Milton local context",
+        "url": "https://www.milton.ca/en/business-and-development/economic-development-strategy.aspx"
+      }
+    ]
+  },
+  {
+    "slug": "cambridge",
+    "name": "Cambridge",
+    "province": "Ontario",
+    "title": "Cambridge: separating fabrication stock from completed assemblies",
+    "description": "Separating fabrication stock from completed assemblies. Prepare a rack and storage enquiry for Cambridge with the right dimensions, access details and handling questions.",
+    "intent": "Separating fabrication stock from completed assemblies",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Cambridge identifies advanced manufacturing as a local sector. Fabrication storage needs to distinguish long raw materials from assemblies that change shape as work progresses.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List bar, tube and sheet stock by length and handling method. Track offcuts separately: they may need more identification and different retrieval than full-length material. Describe where material is measured and released to production. A rack arrangement that supports the longest item is not automatically convenient for short reusable offcuts."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare cantilever supports for long loads with shelf or pallet arrangements for finished assemblies. Include packaging and temporary supports used between operations. Ask for the proposed support spacing and load arrangement to be evaluated for the actual materials; this page supplies no structural design or capacity."
+      }
+    ],
+    "checklist": [
+      "Full lengths and reusable offcuts",
+      "Handling and cutting handoff",
+      "Assembly supports and packaging"
+    ],
+    "faqs": [
+      {
+        "question": "Should offcuts share the same positions as full lengths?",
+        "answer": "Compare support, identification and retrieval first. Mixed lengths can change the support and access task."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "cantilever-rack"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Cambridge local context",
+        "url": "https://www.cambridge.ca/business-building-development/economic-development/advanced-manufacturing/"
+      }
+    ]
+  },
+  {
+    "slug": "guelph",
+    "name": "Guelph",
+    "province": "Ontario",
+    "title": "Guelph: agri-food development sample storage and traceability",
+    "description": "Agri-food development sample storage and traceability. Prepare a rack and storage enquiry for Guelph with the right dimensions, access details and handling questions.",
+    "intent": "Agri-food development sample storage and traceability",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Guelph’s agri-food value proposition describes a food-related knowledge base. A sample-storage brief can focus on identification and environment rather than treating all containers as ordinary stock.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "For a product-development workspace, record container formats, labels and the sequence of sample intake and retrieval. Separate ambient stock from anything requiring controlled temperature or facility-defined handling. Explain how retained samples are identified and released. Do not assume a general shelving family establishes food-contact suitability or controlled storage performance."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelf surfaces around the container bases and cleaning procedure. Small sample vessels may need trays rather than direct support on open wire. Include the space needed to read labels and remove one container without moving adjacent samples. Required sanitation evidence should come from the facility before a configuration is selected."
+      }
+    ],
+    "checklist": [
+      "Container bases and identification",
+      "Environment and retention process",
+      "Cleaning and required documentation"
+    ],
+    "faqs": [
+      {
+        "question": "Does a kitchen category approve storage for samples?",
+        "answer": "No. State the specific use and ask the facility reviewer to assess the proposed equipment and evidence."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "productSlugs": [
+      "kitchen-shelving"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving"
+    ],
+    "sources": [
+      {
+        "label": "Guelph local context",
+        "url": "https://www.guelph.ca/wp-content/uploads/Agri_Food_Value_Prop_Final.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "niagara-falls",
+    "name": "Niagara Falls",
+    "province": "Ontario",
+    "title": "Niagara Falls: guest-room luggage supports and housekeeping turnover",
+    "description": "Guest-room luggage supports and housekeeping turnover. Prepare a rack and storage enquiry for Niagara Falls with the right dimensions, access details and handling questions.",
+    "intent": "Guest-room luggage supports and housekeeping turnover",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Niagara Falls identifies tourism among its business sectors. For accommodation spaces, a luggage-support enquiry benefits from considering housekeeping and room circulation together.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List the room types rather than assuming one arrangement fits every room. Measure the usable space with doors, furniture and accessible routes in mind. If supports fold, identify where they are stored during cleaning and whether staff must carry them between floors. Record cleaning products and contact surfaces for assessment."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare the open and folded dimensions of the proposed support. A visually compact fixture may still obstruct a door or wardrobe. Specify the luggage use separately from any linen or back-of-house shelving so those requirements are not blended into one generic capacity. Quantities and delivery arrangements need a room-by-room brief."
+      }
+    ],
+    "checklist": [
+      "Room types and circulation",
+      "Open and folded storage space",
+      "Cleaning and movement between rooms"
+    ],
+    "faqs": [
+      {
+        "question": "Can one size serve every room?",
+        "answer": "Only if its dimensions and use fit each layout. Include constrained rooms and the storage position in the review."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "productSlugs": [
+      "luggage-rack"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving"
+    ],
+    "sources": [
+      {
+        "label": "Niagara Falls local context",
+        "url": "https://niagarafalls.ca/building-planning-and-business/business-resources-economic-development"
+      }
+    ]
+  },
+  {
+    "slug": "st-catharines",
+    "name": "St. Catharines",
+    "province": "Ontario",
+    "title": "St. Catharines: maintenance spares organized by machine and revision",
+    "description": "Maintenance spares organized by machine and revision. Prepare a rack and storage enquiry for St. Catharines with the right dimensions, access details and handling questions.",
+    "intent": "Maintenance spares organized by machine and revision",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "St. Catharines lists manufacturing among its industries. Maintenance stores need retrieval by the machine and part revision, not simply by whatever shelf is empty.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "For a maintenance stockroom, identify which spares are interchangeable and which belong to a specific machine. Record packaging, small-part containers and any heavy or awkward assemblies. Provide an identification method for obsolete or awaiting-review parts. A storage expansion should not mix unverified replacements with ready-to-use stock."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelf-based bins with pallet positions for larger spares. Include the path to the workshop and where a mechanic checks a part before taking it to the machine. The rack enquiry should state actual weights and container dimensions; technical approval of replacement parts remains with the equipment owner."
+      }
+    ],
+    "checklist": [
+      "Machine and revision identification",
+      "Heavy versus hand-picked spares",
+      "Review and issue location"
+    ],
+    "faqs": [
+      {
+        "question": "Can shelving solve obsolete-part control?",
+        "answer": "It can support distinct zones, but the identification and release procedure must be defined by the operation."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "St. Catharines local context",
+        "url": "https://www.stcatharines.ca/business-and-economic-development/community-profile/industries/"
+      }
+    ]
+  },
+  {
+    "slug": "kingston",
+    "name": "Kingston",
+    "province": "Ontario",
+    "title": "Kingston: shared equipment stores with booking and return checks",
+    "description": "Shared equipment stores with booking and return checks. Prepare a rack and storage enquiry for Kingston with the right dimensions, access details and handling questions.",
+    "intent": "Shared equipment stores with booking and return checks",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Kingston’s economic development organization provides industry-sector information. For a shared equipment room, the practical storage question is how items leave, return and become available again.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Group equipment by handling and case size rather than department alone. Record whether items return with missing accessories or need a check before reissue. Separate returned equipment from ready-to-use sets and identify who updates its status. A shelf count cannot capture the space needed to open a case and inspect its contents."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelves supporting complete cases with smaller bins for cables and accessories. Keep the checking surface outside the storage footprint in the layout. Include the doorway and cart turning space for the largest case. Any sensitive-device protection must be established from equipment requirements and the selected supports."
+      }
+    ],
+    "checklist": [
+      "Case dimensions and complete sets",
+      "Return inspection and release",
+      "Cart access and checking space"
+    ],
+    "faqs": [
+      {
+        "question": "Should returned equipment go straight back on its shelf?",
+        "answer": "Use the organization’s checking procedure. If inspection is needed, plan a distinct holding position."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Kingston local context",
+        "url": "https://www.investkingston.ca/industry-sectors/"
+      }
+    ]
+  },
+  {
+    "slug": "belleville",
+    "name": "Belleville",
+    "province": "Ontario",
+    "title": "Belleville: trade vehicle loading across mixed daily jobs",
+    "description": "Trade vehicle loading across mixed daily jobs. Prepare a rack and storage enquiry for Belleville with the right dimensions, access details and handling questions.",
+    "intent": "Trade vehicle loading across mixed daily jobs",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Belleville’s municipal history describes its trade and manufacturing connections. For a present-day trade vehicle, the useful brief is the equipment mix carried between jobs.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Record the truck make, model, year and bed configuration, including a cover or toolbox. List the long items carried regularly separately from occasional loads. Explain whether the bed still needs forklift or side access. The rack must be assessed with existing accessories rather than selected from a truck name alone."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare a bed-mounted arrangement with roof-based transport only after checking the vehicle documentation. Include loading height, tie-down access and the route used by workers around the truck. Retention, payload and fitting requirements need confirmation for the proposed combination; no capacity follows from the general rack type."
+      }
+    ],
+    "checklist": [
+      "Truck and accessory configuration",
+      "Regular versus occasional long items",
+      "Bed access and loading routine"
+    ],
+    "faqs": [
+      {
+        "question": "Will a bed cover fit under any truck rack?",
+        "answer": "No. Provide the cover and mounting details so compatibility can be assessed before selecting equipment."
+      }
+    ],
+    "categoryIds": [
+      "automotive"
+    ],
+    "productSlugs": [
+      "truck-bed-rack"
+    ],
+    "guideSlugs": [
+      "roof-rack-fit"
+    ],
+    "sources": [
+      {
+        "label": "Belleville local context",
+        "url": "https://www.belleville.ca/learn-and-play/history/"
+      }
+    ]
+  },
+  {
+    "slug": "oshawa",
+    "name": "Oshawa",
+    "province": "Ontario",
+    "title": "Oshawa: service vans sharing exterior access with interior equipment",
+    "description": "Service vans sharing exterior access with interior equipment. Prepare a rack and storage enquiry for Oshawa with the right dimensions, access details and handling questions.",
+    "intent": "Service vans sharing exterior access with interior equipment",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Oshawa’s economic development strategy includes automotive activity. A service-van rack plan should consider the full upfit and the way technicians retrieve equipment.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Document the van’s roof, body length and existing interior arrangement. List ladders separately from long tools and explain which door the technician uses for each. A roof support can change overall height, while interior storage can block access to other equipment. Include the actual parking and loading conditions used during the workday."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare fixed exterior, lowering and interior arrangements by the retrieval task. A lowering mechanism needs operating space beside the vehicle. Ask for compatibility and retention documentation for the complete installation. Vehicle payload and all carried equipment belong in the assessment, not just the ladder weight."
+      }
+    ],
+    "checklist": [
+      "Exact van and upfit",
+      "Door and side operating space",
+      "Loaded height and equipment inventory"
+    ],
+    "faqs": [
+      {
+        "question": "Is roof storage always better than interior storage?",
+        "answer": "Neither is universal. Compare access, cargo space, vehicle fit and the user’s routine."
+      }
+    ],
+    "categoryIds": [
+      "automotive"
+    ],
+    "productSlugs": [
+      "ladder-rack"
+    ],
+    "guideSlugs": [
+      "van-ladder-racks"
+    ],
+    "sources": [
+      {
+        "label": "Oshawa local context",
+        "url": "https://www.oshawa.ca/media/wvep1fyh/oshawa-economic-development-strategy-oeds-executive-summary-strategies-november-2023-compressed-final-ua.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "whitby",
+    "name": "Whitby",
+    "province": "Ontario",
+    "title": "Whitby: downtown shop display changes without losing replenishment access",
+    "description": "Downtown shop display changes without losing replenishment access. Prepare a rack and storage enquiry for Whitby with the right dimensions, access details and handling questions.",
+    "intent": "Downtown shop display changes without losing replenishment access",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Whitby’s business profile includes downtown activity alongside technology and manufacturing. For a shop changing its display, the stock-to-shelf route is a useful planning focus.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List merchandise that stays on display and stock that only appears during replenishment. Measure the route from the backroom while accounting for customers browsing. Explain how often the layout changes and where fixtures wait when removed. Display area gained at the expense of replenishment access may create daily handling problems."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare stable shelving with mobile display pieces around the merchandise format. A wheeled fixture needs a parking location and a reviewed loaded-movement method. Record the largest packages and where they are opened. Confirm any wall fixing and circulation restrictions with the premises contact."
+      }
+    ],
+    "checklist": [
+      "Merchandise and replenishment packages",
+      "Customer and staff routes",
+      "Off-display fixture parking"
+    ],
+    "faqs": [
+      {
+        "question": "Does a mobile fixture remove the need for a layout?",
+        "answer": "No. It still needs a safe operating and parking area, including during busy periods."
+      }
+    ],
+    "categoryIds": [
+      "retail"
+    ],
+    "productSlugs": [
+      "display-shelving"
+    ],
+    "guideSlugs": [
+      "retail-fixtures"
+    ],
+    "sources": [
+      {
+        "label": "Whitby local context",
+        "url": "https://www.whitby.ca/business-and-economy/economic-development/why-whitby/"
+      }
+    ]
+  },
+  {
+    "slug": "ajax",
+    "name": "Ajax",
+    "province": "Ontario",
+    "title": "Ajax: automation supply assemblies with irregular pallet footprints",
+    "description": "Automation supply assemblies with irregular pallet footprints. Prepare a rack and storage enquiry for Ajax with the right dimensions, access details and handling questions.",
+    "intent": "Automation supply assemblies with irregular pallet footprints",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Ajax lists advanced manufacturing, including automation, among its key sectors. An assembly store can include loads that do not behave like standard boxed pallets.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Record the base and overhang of each assembly, any restraints and the handling equipment used to move it. Identify which items are awaiting integration and which are ready to ship. An irregular machine component may need different support or packaging before it belongs in a rack. Provide drawings or photographs without treating them as engineering approval."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare pallet positions with floor staging or shelving only after the actual load support is understood. Include retrieval order and whether attachments are removed during storage. Ask qualified reviewers to assess the load and system combination; a standard bay size alone cannot settle suitability."
+      }
+    ],
+    "checklist": [
+      "Assembly base and overhang",
+      "Restraints and handling equipment",
+      "Integration status and retrieval order"
+    ],
+    "faqs": [
+      {
+        "question": "Can an irregular assembly use ordinary pallet positions?",
+        "answer": "That requires review of the support, load and handling arrangement. Describe the actual assembly and its packaging."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "pallet-racking"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Ajax local context",
+        "url": "https://ajax.ca/build-invest/for-businesses-investors/business/key-sectors/"
+      }
+    ]
+  },
+  {
+    "slug": "windsor",
+    "name": "Windsor",
+    "province": "Ontario",
+    "title": "Windsor: automobility prototype parts with changing revisions",
+    "description": "Automobility prototype parts with changing revisions. Prepare a rack and storage enquiry for Windsor with the right dimensions, access details and handling questions.",
+    "intent": "Automobility prototype parts with changing revisions",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Invest WindsorEssex describes automobility and innovation activity. Prototype parts storage benefits from revision control and space for items whose packaging changes during development.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Separate current-build parts, superseded pieces and components awaiting review. Record whether parts arrive in reusable containers, protective cases or loose fixtures. Explain how the engineering team identifies a revision before issue. Storage hardware supports this process but cannot establish that a component is approved for a build."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelf and bin layouts by actual part size, not just part count. Allow a checking area for opening packaging and verifying labels. Heavy fixtures need their own handling and support assessment. Ask for flexibility only within documented configurations rather than assuming shelves can be moved to any height."
+      }
+    ],
+    "checklist": [
+      "Revision and build status",
+      "Protective containers and fixtures",
+      "Checking area and release responsibility"
+    ],
+    "faqs": [
+      {
+        "question": "Can all revisions share a bin?",
+        "answer": "Use the organization’s identification and release rules. Separate positions may help prevent confusion but do not replace those rules."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Windsor local context",
+        "url": "https://www.investwindsoressex.com/how-we-help/automobility-and-innovation/"
+      }
+    ]
+  },
+  {
+    "slug": "sarnia",
+    "name": "Sarnia",
+    "province": "Ontario",
+    "title": "Sarnia: fabricated lengths and fittings awaiting assembly",
+    "description": "Fabricated lengths and fittings awaiting assembly. Prepare a rack and storage enquiry for Sarnia with the right dimensions, access details and handling questions.",
+    "intent": "Fabricated lengths and fittings awaiting assembly",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Sarnia-Lambton identifies advanced manufacturing and fabrication in its sector information. Long fabricated items need storage planning that includes projections and surface protection.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List lengths, weights and support points for pipe, profiles or fabricated pieces. Record flanges, brackets or coatings that change the usable footprint. Separate finished items from raw stock so retrieval does not damage surfaces or obscure identification. Explain whether slings, forks or manual handling are used at each step."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare cantilever storage for long items with shelving for fittings and pallet positions for bundled goods. Support spacing and protection depend on the load, not the city or category label. Include room for handling attachments and a clear route to assembly; have the proposed structure and loading reviewed."
+      }
+    ],
+    "checklist": [
+      "Lengths and projecting fittings",
+      "Surface protection and identification",
+      "Handling attachments and assembly route"
+    ],
+    "faqs": [
+      {
+        "question": "Can the same arms hold every fabricated length?",
+        "answer": "Not automatically. Length, load distribution and support requirements need a configuration-specific assessment."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "cantilever-rack"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Sarnia local context",
+        "url": "https://www.sarnialambton.on.ca/advanced-manufacturing"
+      }
+    ]
+  },
+  {
+    "slug": "sudbury",
+    "name": "Sudbury",
+    "province": "Ontario",
+    "title": "Sudbury: mining service exchange components separated by condition",
+    "description": "Mining service exchange components separated by condition. Prepare a rack and storage enquiry for Sudbury with the right dimensions, access details and handling questions.",
+    "intent": "Mining service exchange components separated by condition",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Sudbury identifies mining supply and services as a key sector. An exchange-component store needs clear distinctions between incoming cores, inspected parts and ready units.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Record the packaging and weight of each exchange unit, including residues or handling restrictions defined by the facility. Explain how a unit changes status after inspection. Keep returned cores distinct from release-ready replacements in the storage brief. A rack can organize locations but does not certify the condition of a component."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare pallet access for heavy units with shelves for associated kits. Include lifting attachments, staging space and the path to inspection. Actual supports, floor conditions and loading need review. If special containment is required, specify that separately and request evidence for the selected arrangement."
+      }
+    ],
+    "checklist": [
+      "Component status and inspection flow",
+      "Weights, supports and attachments",
+      "Containment or handling requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Does a rack provide containment for returned components?",
+        "answer": "A generic rack makes no such claim. Define any containment requirement and have the proposed system assessed."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "pallet-racking"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Sudbury local context",
+        "url": "https://investsudbury.ca/key-sectors/mining-supply-and-services/"
+      }
+    ]
+  },
+  {
+    "slug": "north-bay",
+    "name": "North Bay",
+    "province": "Ontario",
+    "title": "North Bay: aviation support stores preserving identification and packaging",
+    "description": "Aviation support stores preserving identification and packaging. Prepare a rack and storage enquiry for North Bay with the right dimensions, access details and handling questions.",
+    "intent": "Aviation support stores preserving identification and packaging",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "North Bay’s investment information includes aerospace, aviation and transportation. A support-store enquiry can focus on packaging and traceability without implying any aviation approval for generic shelving.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List packaged supplies separately from serialized equipment and items awaiting technical release. Record container dimensions and the handling instructions provided by the owner. Explain how labels remain visible and how staff prevent unrelated materials from sharing a location. Shelf selection does not replace an organization’s quality or release procedures."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelving for protective cases with smaller bin arrangements for ordinary consumables. Include a checking area outside the storage positions and access for the largest case. Ask the responsible facility reviewer to define any special environmental, documentation or material requirements before choosing a configuration."
+      }
+    ],
+    "checklist": [
+      "Identification and release status",
+      "Protective case dimensions",
+      "Facility requirements and checking area"
+    ],
+    "faqs": [
+      {
+        "question": "Is a general shelf approved for aviation parts?",
+        "answer": "No approval is implied. The organization must define and review the requirements for the exact stored items."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "North Bay local context",
+        "url": "https://www.investinnorthbay.ca/industry/aerospace-aviation-transportation/"
+      }
+    ]
+  },
+  {
+    "slug": "kelowna",
+    "name": "Kelowna",
+    "province": "British Columbia",
+    "title": "Kelowna: mixed material lengths in a growing fabrication workshop",
+    "description": "Mixed material lengths in a growing fabrication workshop. Prepare a rack and storage enquiry for Kelowna with the right dimensions, access details and handling questions.",
+    "intent": "Mixed material lengths in a growing fabrication workshop",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Central Okanagan economic development information includes manufacturing. A workshop handling different material formats needs a storage brief that distinguishes flexible, rigid and packaged stock.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Record stock lengths and whether material can bend or needs continuous support. Separate incoming bundles from pieces opened for individual retrieval. Explain how workers identify usable remnants and where cut material waits before assembly. The longest item is only one part of the choice; frequency of retrieval and handling equipment also matter."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare cantilever arrangements for suitable long loads with shelves for boxed fittings. Include any protective wrapping and the space used to remove it. Request an assessment of support spacing and load distribution for the actual materials. Do not infer performance from a visually similar rack in another workshop."
+      }
+    ],
+    "checklist": [
+      "Material rigidity and packaging",
+      "Opened bundles and remnants",
+      "Retrieval frequency and handling"
+    ],
+    "faqs": [
+      {
+        "question": "Does one long-material rack suit wood and composite stock equally?",
+        "answer": "The material, support and handling requirements may differ. Describe each load family for review."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "cantilever-rack"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Kelowna local context",
+        "url": "https://www.investkelowna.com/"
+      }
+    ]
+  },
+  {
+    "slug": "nanaimo",
+    "name": "Nanaimo",
+    "province": "British Columbia",
+    "title": "Nanaimo: tourism accommodation storage through seasonal room changes",
+    "description": "Tourism accommodation storage through seasonal room changes. Prepare a rack and storage enquiry for Nanaimo with the right dimensions, access details and handling questions.",
+    "intent": "Tourism accommodation storage through seasonal room changes",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Nanaimo identifies tourism among its key industries. Seasonal room changes can require luggage supports and housekeeping supplies to move between active rooms and storage.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Count rooms by layout and identify which fixtures are stored between uses. Measure the path to the storage room, including any lift and door restrictions. Explain how supports are cleaned and checked before returning to a guest room. A folded footprint matters only if the stored units can be retrieved without obstructing staff access."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare luggage supports by open use, folded storage and handling. Keep linen or supply shelving as a separate requirement because its environment and load differ. Include the proposed receiving route and quantity per room type. Availability, freight and timing require project confirmation."
+      }
+    ],
+    "checklist": [
+      "Room layouts and seasonal changes",
+      "Storage-room retrieval route",
+      "Cleaning and return-to-use checks"
+    ],
+    "faqs": [
+      {
+        "question": "Should spare supports be stacked wherever space is free?",
+        "answer": "Use the selected product’s storage instructions and preserve access. Describe the intended storage method in the enquiry."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "productSlugs": [
+      "luggage-rack"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving"
+    ],
+    "sources": [
+      {
+        "label": "Nanaimo local context",
+        "url": "https://www.nanaimo.ca/doing-business/economic-development/business/key-industries/tourism"
+      }
+    ]
+  },
+  {
+    "slug": "abbotsford",
+    "name": "Abbotsford",
+    "province": "British Columbia",
+    "title": "Abbotsford: farm packing supplies separated from washdown zones",
+    "description": "Farm packing supplies separated from washdown zones. Prepare a rack and storage enquiry for Abbotsford with the right dimensions, access details and handling questions.",
+    "intent": "Farm packing supplies separated from washdown zones",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Abbotsford’s municipal information addresses agriculture. For a packing operation, separate dry packaging supplies from areas subject to water or facility-defined cleaning.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List empty cartons, reusable containers and packed goods as different storage tasks. Record where packaging is opened and where containers return after use. Describe the cleaning routine and the boundary between dry and wet areas. A general shelf type does not establish food-contact or washdown suitability."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare solid and open shelf surfaces around the container base and cleaning method. Pallet quantities of packaging may require a different arrangement from hand-picked supplies. Include actual loaded weights and access during replenishment. Ask the facility reviewer to define material and sanitation evidence before selection."
+      }
+    ],
+    "checklist": [
+      "Dry packaging and wet-zone boundaries",
+      "Container return process",
+      "Cleaning and material requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Can dry-store shelves be moved into a wash area?",
+        "answer": "Suitability must be checked for the exact environment and cleaning process; do not assume the same configuration applies."
+      }
+    ],
+    "categoryIds": [
+      "hospitality"
+    ],
+    "productSlugs": [
+      "kitchen-shelving"
+    ],
+    "guideSlugs": [
+      "commercial-kitchen-shelving"
+    ],
+    "sources": [
+      {
+        "label": "Abbotsford local context",
+        "url": "https://www.abbotsford.ca/business-development/agriculture"
+      }
+    ]
+  },
+  {
+    "slug": "chilliwack",
+    "name": "Chilliwack",
+    "province": "British Columbia",
+    "title": "Chilliwack: agricultural maintenance tools and seasonal spare kits",
+    "description": "Agricultural maintenance tools and seasonal spare kits. Prepare a rack and storage enquiry for Chilliwack with the right dimensions, access details and handling questions.",
+    "intent": "Agricultural maintenance tools and seasonal spare kits",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Chilliwack’s agricultural commission provides local agricultural context. A seasonal maintenance store can organize complete repair kits separately from general workshop stock.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "List kits by the equipment they serve and identify which pieces must stay together. Record bulky tools, consumables and replacement assemblies separately. Explain how a kit is checked after use and when seasonal equipment returns to service. Storage positions should make missing items visible rather than conceal them in a large mixed container."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare shelf-supported kits with smaller bins for replenishment parts. Include the heaviest container and the cart or lifting method used to retrieve it. Keep any chemicals or materials with special storage requirements in a separately assessed scope; generic shelving does not establish hazardous-material suitability."
+      }
+    ],
+    "checklist": [
+      "Equipment-specific kits",
+      "Return checks and seasonal schedule",
+      "Container weights and retrieval method"
+    ],
+    "faqs": [
+      {
+        "question": "Can a kit shelf also hold chemicals?",
+        "answer": "Only after the specific materials and storage requirements are assessed. Do not treat a general workshop shelf as approval."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Chilliwack local context",
+        "url": "https://www.businessinchilliwack.com/chilliwack-agricultural-commission/"
+      }
+    ]
+  },
+  {
+    "slug": "red-deer",
+    "name": "Red Deer",
+    "province": "Alberta",
+    "title": "Red Deer: mobile work crews changing equipment between assignments",
+    "description": "Mobile work crews changing equipment between assignments. Prepare a rack and storage enquiry for Red Deer with the right dimensions, access details and handling questions.",
+    "intent": "Mobile work crews changing equipment between assignments",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Red Deer’s municipal moving information introduces the community. For a mobile work crew, a rack brief should explain how the truck load changes between assignments.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Record the truck configuration and accessories, then list the regular load separately from occasional bulky equipment. Explain who loads the truck and whether equipment must be retrieved from either side. Include any bed cover and toolbox that may compete for mounting space. A vehicle model alone does not define the complete fit."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare bed and roof arrangements against the vehicle documentation and actual loading routine. Record loaded height, retention needs and access to the remaining bed space. Confirm the selected system and installation requirements rather than relying on a generic capacity or a similar-looking setup."
+      }
+    ],
+    "checklist": [
+      "Truck, cover and toolbox details",
+      "Regular and occasional loads",
+      "Loading side and retention needs"
+    ],
+    "faqs": [
+      {
+        "question": "Can the rack be transferred to another crew truck?",
+        "answer": "Only after compatibility is checked for the destination vehicle and configuration. Keep the original fitting documentation."
+      }
+    ],
+    "categoryIds": [
+      "automotive"
+    ],
+    "productSlugs": [
+      "truck-bed-rack"
+    ],
+    "guideSlugs": [
+      "roof-rack-fit"
+    ],
+    "sources": [
+      {
+        "label": "Red Deer local context",
+        "url": "https://secure.reddeer.ca/about-red-deer/moving-to-red-deer/"
+      }
+    ]
+  },
+  {
+    "slug": "lethbridge",
+    "name": "Lethbridge",
+    "province": "Alberta",
+    "title": "Lethbridge: agricultural supply inventory with bulky seasonal replenishment",
+    "description": "Agricultural supply inventory with bulky seasonal replenishment. Prepare a rack and storage enquiry for Lethbridge with the right dimensions, access details and handling questions.",
+    "intent": "Agricultural supply inventory with bulky seasonal replenishment",
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Lethbridge’s economic development material includes agriculture. A supply warehouse can experience different storage tasks for bulk seasonal receipts and daily order picking.",
+    "sections": [
+      {
+        "title": "Plan the actual workflow",
+        "body": "Separate reserve pallets from containers opened for partial orders. Record the packaging dimensions, retrieval order and any products with special storage requirements defined by the operation. Explain when replenishment and customer order preparation overlap. A peak inventory count alone does not show the movements needed to keep picking positions available."
+      },
+      {
+        "title": "Compare the storage arrangement",
+        "body": "Compare selective pallet access with shelving for split quantities. Identify where empty packaging and returned containers wait so they do not occupy working aisles. Load support, handling equipment and the building require review before settling the layout. Special material or environmental needs must be specified separately."
+      }
+    ],
+    "checklist": [
+      "Reserve versus split quantities",
+      "Seasonal receiving and picking overlap",
+      "Packaging return and special requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Should peak inventory determine every shelf position?",
+        "answer": "Use peak quantities alongside access and replenishment patterns. Some stock may need a different handling arrangement from daily picking."
+      }
+    ],
+    "categoryIds": [
+      "industrial"
+    ],
+    "productSlugs": [
+      "pallet-racking"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "Lethbridge local context",
+        "url": "https://business.chooselethbridge.ca/agriculture/"
+      }
+    ]
   }
 ]

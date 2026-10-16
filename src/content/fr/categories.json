@@ -1,0 +1,186 @@
+[
+  {
+    "id": "industrial",
+    "slug": "entreposage-industriel",
+    "name": "Entrepôts et industrie",
+    "title": "Entrepôts et industrie",
+    "intro": "Distinguez les palettes, les matériaux longs et les articles prélevés à la main. Le mode de manutention et les mouvements de stock guident le choix du système.",
+    "description": "Un entrepôt organisé autour de vos charges. Distinguez les palettes, les matériaux longs et les articles prélevés à la main. Le mode de manutention et les mouvements de stock guident le choix du système.",
+    "checklist": [
+      "Construction, dimensions et poids des palettes",
+      "Longueur et poids des matériaux",
+      "Dimensions des bacs ou cartons"
+    ],
+    "sections": [
+      {
+        "title": "Un entrepôt organisé autour de vos charges.",
+        "body": "Distinguez les palettes, les matériaux longs et les articles prélevés à la main. Le mode de manutention et les mouvements de stock guident le choix du système."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "automotive",
+    "slug": "vehicules-et-flottes",
+    "name": "Véhicules et flottes",
+    "title": "Véhicules et flottes",
+    "intro": "Décrivez le véhicule, ses points de fixation et le matériel transporté. Les accessoires déjà installés et la méthode de chargement font partie de l’évaluation.",
+    "description": "Le bon support pour votre véhicule. Décrivez le véhicule, ses points de fixation et le matériel transporté. Les accessoires déjà installés et la méthode de chargement font partie de l’évaluation.",
+    "checklist": [
+      "Marque, modèle et année du véhicule",
+      "Type de toit et fixations existantes",
+      "Camionnette, année et longueur de caisse"
+    ],
+    "sections": [
+      {
+        "title": "Le bon support pour votre véhicule.",
+        "body": "Décrivez le véhicule, ses points de fixation et le matériel transporté. Les accessoires déjà installés et la méthode de chargement font partie de l’évaluation."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "garage",
+    "slug": "garage-et-maison",
+    "name": "Garage et maison",
+    "title": "Garage et maison",
+    "intro": "Séparez les objets saisonniers des équipements utilisés chaque semaine. Choisissez une hauteur et une méthode d’accès adaptées aux personnes qui utilisent le garage.",
+    "description": "Retrouver de l’espace au quotidien. Séparez les objets saisonniers des équipements utilisés chaque semaine. Choisissez une hauteur et une méthode d’accès adaptées aux personnes qui utilisent le garage.",
+    "checklist": [
+      "Matériau du mur et emplacement des montants",
+      "Hauteur et structure du plafond",
+      "Nombre, poids et dimensions des vélos"
+    ],
+    "sections": [
+      {
+        "title": "Retrouver de l’espace au quotidien.",
+        "body": "Séparez les objets saisonniers des équipements utilisés chaque semaine. Choisissez une hauteur et une méthode d’accès adaptées aux personnes qui utilisent le garage."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "retail",
+    "slug": "commerce-et-presentation",
+    "name": "Commerce et présentation",
+    "title": "Commerce et présentation",
+    "intro": "Organisez la vente, le réapprovisionnement et les changements de collection. Les dimensions de la marchandise et les déplacements prévus permettent de comparer les solutions.",
+    "description": "Une présentation adaptée à vos produits. Organisez la vente, le réapprovisionnement et les changements de collection. Les dimensions de la marchandise et les déplacements prévus permettent de comparer les solutions.",
+    "checklist": [
+      "Longueur des vêtements et largeur des cintres",
+      "Format et poids des marchandises",
+      "Produits et accessoires de présentation"
+    ],
+    "sections": [
+      {
+        "title": "Une présentation adaptée à vos produits.",
+        "body": "Organisez la vente, le réapprovisionnement et les changements de collection. Les dimensions de la marchandise et les déplacements prévus permettent de comparer les solutions."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "fitness",
+    "slug": "entrainement-et-sport",
+    "name": "Entraînement et sport",
+    "title": "Entraînement et sport",
+    "intro": "Prévoyez l’espace de pratique, le retour des poids et la circulation. Les exercices et les équipements réels comptent davantage qu’une surface de pièce seule.",
+    "description": "Du rangement autour de l’entraînement. Prévoyez l’espace de pratique, le retour des poids et la circulation. Les exercices et les équipements réels comptent davantage qu’une surface de pièce seule.",
+    "checklist": [
+      "Dimensions de la pièce et hauteur libre",
+      "Types et dimensions des poids",
+      "Ballons, tapis et équipements à ranger"
+    ],
+    "sections": [
+      {
+        "title": "Du rangement autour de l’entraînement.",
+        "body": "Prévoyez l’espace de pratique, le retour des poids et la circulation. Les exercices et les équipements réels comptent davantage qu’une surface de pièce seule."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "hospitality",
+    "slug": "restauration-et-hotellerie",
+    "name": "Restauration et hôtellerie",
+    "title": "Restauration et hôtellerie",
+    "intro": "Séparez réserve sèche, lavage, séchage et espaces d’accueil. Décrivez les matériaux exigés et les méthodes de nettoyage avant de choisir un équipement.",
+    "description": "Du rangement qui suit le service. Séparez réserve sèche, lavage, séchage et espaces d’accueil. Décrivez les matériaux exigés et les méthodes de nettoyage avant de choisir un équipement.",
+    "checklist": [
+      "Température, humidité et nettoyage",
+      "Formats des paniers et de la vaisselle",
+      "Format des bagages et espace libre"
+    ],
+    "sections": [
+      {
+        "title": "Du rangement qui suit le service.",
+        "body": "Séparez réserve sèche, lavage, séchage et espaces d’accueil. Décrivez les matériaux exigés et les méthodes de nettoyage avant de choisir un équipement."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "technology",
+    "slug": "informatique-et-reseaux",
+    "name": "Informatique et réseaux",
+    "title": "Informatique et réseaux",
+    "intro": "La hauteur en U, la profondeur, les connecteurs et la ventilation doivent être examinés ensemble. Ajoutez les contraintes d’accès et de sécurité du local.",
+    "description": "Prévoir l’espace derrière les équipements. La hauteur en U, la profondeur, les connecteurs et la ventilation doivent être examinés ensemble. Ajoutez les contraintes d’accès et de sécurité du local.",
+    "checklist": [
+      "Hauteur en unités U et profondeur réelle",
+      "Appareils, rails et profondeur",
+      "Structure du mur et masse des équipements"
+    ],
+    "sections": [
+      {
+        "title": "Prévoir l’espace derrière les équipements.",
+        "body": "La hauteur en U, la profondeur, les connecteurs et la ventilation doivent être examinés ensemble. Ajoutez les contraintes d’accès et de sécurité du local."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  },
+  {
+    "id": "events",
+    "slug": "evenements-et-location",
+    "name": "Événements et location",
+    "title": "Événements et location",
+    "intro": "Décrivez les dates, le lieu, les quantités et le transport. Les portants, vestiaires et présentoirs temporaires doivent aussi être pratiques entre deux événements.",
+    "description": "Prêt pour le montage et le rangement. Décrivez les dates, le lieu, les quantités et le transport. Les portants, vestiaires et présentoirs temporaires doivent aussi être pratiques entre deux événements.",
+    "checklist": [
+      "Nombre de manteaux et longueur des vêtements",
+      "Longueur et volume des costumes",
+      "Objets exposés et supports nécessaires"
+    ],
+    "sections": [
+      {
+        "title": "Prêt pour le montage et le rangement.",
+        "body": "Décrivez les dates, le lieu, les quantités et le transport. Les portants, vestiaires et présentoirs temporaires doivent aussi être pratiques entre deux événements."
+      },
+      {
+        "title": "Une soumission selon votre situation",
+        "body": "Indiquez le lieu, les dimensions disponibles et le calendrier souhaité. L’approvisionnement, la livraison, l’installation et la location, lorsqu’elle est pertinente, dépendent de la configuration, des conditions du site et des ressources disponibles."
+      }
+    ]
+  }
+]

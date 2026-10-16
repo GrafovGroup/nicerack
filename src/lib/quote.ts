@@ -2,7 +2,7 @@ import {z} from 'zod';
 import {categories,products,provinces} from '../content/en/catalogue';
 const text=(min:number,max:number)=>z.string().trim().min(min).max(max);
 export const quoteSchema=z.object({
- name:text(2,100),company:text(0,150).default(''),email:z.string().trim().email().max(254),
+ locale:z.enum(['en','fr']).optional(),name:text(2,100),company:text(0,150).default(''),email:z.string().trim().email().max(254),
  phone:z.string().trim().max(40).refine(v=>v.replace(/\D/g,'').length>=7&&v.replace(/\D/g,'').length<=15,'Enter a valid phone number.'),
  province:z.enum(provinces),city:text(2,100),category:z.string().refine(v=>categories.some(c=>c.id===v),'Choose a category.'),
  product:z.string().max(100).default(''),quantity:z.number().int().min(1).max(100000).optional(),details:text(20,5000),

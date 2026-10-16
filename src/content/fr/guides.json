@@ -1,0 +1,314 @@
+[
+  {
+    "enSlug": "choosing-pallet-racking",
+    "slug": "choisir-un-palettier",
+    "title": "Choisir un palettier",
+    "intro": "Commencez par les marchandises et l’ordre de prélèvement. Décrivez l’entrée des palettes, leur durée de stockage et leur sortie.",
+    "description": "Commencez par les marchandises et l’ordre de prélèvement. Décrivez l’entrée des palettes, leur durée de stockage et leur sortie.",
+    "sections": [
+      {
+        "title": "Comparer les modes d’accès",
+        "body": "Un palettier sélectif donne accès à chaque position depuis une allée. Les systèmes à accumulation regroupent les palettes en profondeur; les systèmes dynamiques ou à gravité modifient aussi leur déplacement. Il s’agit de modes de manutention différents. Relevez les références, le nombre de palettes par référence et l’ordre de sortie avant de chercher une densité maximale."
+      },
+      {
+        "title": "Documenter les charges",
+        "body": "Notez la construction, les dimensions, l’état et le poids chargé des palettes. Signalez les débords et les charges instables. Identifiez le chariot et fournissez le plan existant. Un simple nombre de travées peut cacher un écart entre les appuis prévus et les marchandises."
+      },
+      {
+        "title": "Faire évaluer le site",
+        "body": "Le plancher, la structure, les ancrages et la circulation nécessitent une évaluation appropriée. Incluez le réapprovisionnement, les retours et l’expédition. Conservez les plans et l’identification du système existant. Ne mélangez pas des composants et ne déplacez pas des lisses en vous fondant sur leur seule apparence."
+      }
+    ],
+    "checklist": [
+      "Palettes et charges réelles",
+      "Références et ordre de sortie",
+      "Chariot et plans du site"
+    ],
+    "faqs": [
+      {
+        "question": "Le rangement le plus dense est-il toujours préférable?",
+        "answer": "Non. L’accès, le réapprovisionnement et la rotation des stocks peuvent primer sur le nombre de positions."
+      }
+    ],
+    "categoryId": "industrial",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.interlakemecalux.com/catalogs"
+      }
+    ]
+  },
+  {
+    "enSlug": "van-ladder-racks",
+    "slug": "supports-a-echelles-pour-fourgonnettes",
+    "title": "Choisir un support à échelles pour fourgonnette",
+    "intro": "Le support à échelles se choisit avec le véhicule et son usage. Indiquez la fourgonnette exacte, les échelles et la fréquence de retrait.",
+    "description": "Le support à échelles se choisit avec le véhicule et son usage. Indiquez la fourgonnette exacte, les échelles et la fréquence de retrait.",
+    "sections": [
+      {
+        "title": "Identifier le véhicule",
+        "body": "Fournissez marque, modèle, année, longueur de carrosserie, configuration du toit et aménagement existant. Signalez les équipements sur le toit et les restrictions d’accès. La compatibilité des points de montage doit être confirmée pour cette configuration précise."
+      },
+      {
+        "title": "Comparer les méthodes de retrait",
+        "body": "Un support extérieur fixe, un mécanisme abaissable et un rangement intérieur répondent à des tâches différentes. Un dispositif abaissable utilise de l’espace à côté du véhicule. Le rangement intérieur occupe une partie de la zone de chargement et exige un chemin de retrait dégagé. Décrivez le travail quotidien et les dimensions de l’échelle."
+      },
+      {
+        "title": "Vérifier l’ensemble transporté",
+        "body": "La charge utile, la retenue des échelles, les verrous et les fixations doivent être examinés ensemble. Incluez les autres équipements et la hauteur du véhicule chargé. Suivez les instructions du système retenu et conservez sa documentation; ce guide ne donne ni procédure de montage ni capacité de charge."
+      }
+    ],
+    "checklist": [
+      "Véhicule et toit exacts",
+      "Échelles et fréquence de retrait",
+      "Aménagement et restrictions d’accès"
+    ],
+    "faqs": [
+      {
+        "question": "Un rangement intérieur est-il toujours plus pratique?",
+        "answer": "Non. Il utilise de l’espace de chargement et demande un parcours de retrait adapté. Comparez ces contraintes à celles du transport extérieur."
+      }
+    ],
+    "categoryId": "automotive",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.adriansteel.com/products/truck-equipment/ladder-racks/interior-ladder-storage/"
+      }
+    ]
+  },
+  {
+    "enSlug": "overhead-garage-racks",
+    "slug": "rangement-suspendu-au-garage",
+    "title": "Planifier le rangement suspendu au garage",
+    "intro": "Le rangement suspendu libère le plancher, mais change la façon de récupérer les objets. Choisissez les articles et faites évaluer la structure avant de retenir une configuration.",
+    "description": "Le rangement suspendu libère le plancher, mais change la façon de récupérer les objets. Choisissez les articles et faites évaluer la structure avant de retenir une configuration.",
+    "sections": [
+      {
+        "title": "Trier par fréquence d’accès",
+        "body": "Séparez les bacs saisonniers des outils quotidiens. Mesurez les contenants chargés et relevez leur poids réel. Soulever régulièrement un objet encombrant peut rendre cette solution peu pratique. Le mur ou le plancher peut mieux convenir aux objets utilisés souvent."
+      },
+      {
+        "title": "Mesurer les dégagements mobiles",
+        "body": "Relevez la porte, son moteur, les conduits, les luminaires et le véhicule stationné. Vérifiez toute la trajectoire de la porte, et pas seulement sa position fermée. Les photos aident à expliquer le lieu, mais les mesures et les renseignements sur la construction restent nécessaires."
+      },
+      {
+        "title": "Évaluer les fixations",
+        "body": "La structure, les assemblages et les instructions du produit déterminent le montage. Le fini du plafond ne prouve pas la présence d’un support suffisant. Faites évaluer l’installation et conservez ses renseignements pour les changements futurs. Aucune capacité ni méthode d’ancrage ne peut être déduite de ce guide."
+      }
+    ],
+    "checklist": [
+      "Bacs chargés et poids",
+      "Porte et obstacles au plafond",
+      "Structure et méthode de récupération"
+    ],
+    "faqs": [
+      {
+        "question": "La capacité du support suffit-elle à approuver le plafond?",
+        "answer": "Non. La structure porteuse et les fixations doivent aussi convenir à la configuration réelle."
+      }
+    ],
+    "categoryId": "garage",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.ccohs.ca/oshanswers/hsprograms/checklist/list_mft.html"
+      }
+    ]
+  },
+  {
+    "enSlug": "garment-racks",
+    "slug": "choisir-un-portant-a-vetements",
+    "title": "Choisir un portant à vêtements",
+    "intro": "Un portant pour magasiner et un portant de coulisses ont des priorités différentes. Décrivez les vêtements, les utilisateurs et leur parcours.",
+    "description": "Un portant pour magasiner et un portant de coulisses ont des priorités différentes. Décrivez les vêtements, les utilisateurs et leur parcours.",
+    "sections": [
+      {
+        "title": "Distinguer présentation et manutention",
+        "body": "Un présentoir à plusieurs faces peut mettre des vêtements en valeur; une tringle en coulisses peut privilégier le classement et le retrait rapide. Les manteaux volumineux, vêtements longs et articles emballés demandent des dégagements différents. Incluez l’espace utilisé par la personne qui choisit une pièce."
+      },
+      {
+        "title": "Examiner les déplacements",
+        "body": "Mesurez les portes, seuils et emplacements de stationnement. Des roulettes ne garantissent pas le déplacement sécuritaire d’un portant chargé ni son transport routier. Demandez les conditions de répartition et de retenue des charges. Pour un présentoir fixe, la stabilité et l’accès peuvent compter davantage que le pliage."
+      },
+      {
+        "title": "Prévoir le retour",
+        "body": "En boutique, décrivez le réapprovisionnement depuis la réserve. En événement, expliquez l’identification et le retour des vêtements. Un vestiaire de visiteurs diffère d’une collection de costumes préparée à l’avance. Prévoyez la circulation et les règles du lieu sans déduire une capacité ou une disponibilité du nom du produit."
+      }
+    ],
+    "checklist": [
+      "Formats et regroupement des vêtements",
+      "Usage fixe ou mobile",
+      "Présentation, distribution et retour"
+    ],
+    "faqs": [
+      {
+        "question": "Une tringle plus longue offre-t-elle toujours plus de places?",
+        "answer": "Non. Le volume des vêtements, les appuis et l’accès déterminent l’utilisation réelle. Fournissez un inventaire plutôt qu’un nombre estimé par longueur."
+      }
+    ],
+    "categoryId": "retail",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.storesupply.com/"
+      }
+    ]
+  },
+  {
+    "enSlug": "power-vs-squat-racks",
+    "slug": "cage-ou-support-a-squats",
+    "title": "Cage de musculation ou support à squats",
+    "intro": "La cage de musculation et le support à squats organisent différemment le poste d’entraînement. Comparez l’espace de mouvement, les sécurités compatibles et le montage prévu.",
+    "description": "La cage de musculation et le support à squats organisent différemment le poste d’entraînement. Comparez l’espace de mouvement, les sécurités compatibles et le montage prévu.",
+    "sections": [
+      {
+        "title": "Comparer l’espace d’entraînement",
+        "body": "La cage entoure la zone de levage, tandis que le support à squats offre une configuration ouverte. Les demi-cages et modèles muraux ajoutent d’autres possibilités. Évaluez le mouvement complet, le banc et l’accès pour charger la barre, plutôt que la seule base. Aucun de ces noms n’établit une capacité."
+      },
+      {
+        "title": "Vérifier le système complet",
+        "body": "La barre, le banc, les supports, les sécurités et les accessoires doivent être compatibles. Les éléments d’une autre gamme ne sont pas automatiquement interchangeables. Décrivez les exercices et les dégagements au sol et au plafond. Prévoyez le rangement des poids à l’extérieur de la zone de mouvement."
+      },
+      {
+        "title": "Respecter le montage prévu",
+        "body": "L’ancrage et les configurations permises dépendent du modèle. Faites réaliser l’évaluation nécessaire et suivez les instructions du fabricant. Tous les supports ne sont pas autoportants. Ce guide aide à préparer un achat; il ne remplace ni les consignes d’exercice ni une vérification de sécurité."
+      }
+    ],
+    "checklist": [
+      "Exercices et équipements",
+      "Dégagements au sol et au plafond",
+      "Sécurités et installation compatibles"
+    ],
+    "faqs": [
+      {
+        "question": "Une sécurité peut-elle convenir à toutes les cages?",
+        "answer": "Non. Des dimensions d’interface semblables ne prouvent pas la compatibilité. Utilisez les accessoires autorisés pour le système exact."
+      }
+    ],
+    "categoryId": "fitness",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.roguefitness.com/theindex/gear-how-tos/how-to-use-a-rogue-rack-safely-effectively"
+      }
+    ]
+  },
+  {
+    "enSlug": "commercial-kitchen-shelving",
+    "slug": "etageres-de-cuisine-commerciale",
+    "title": "Choisir des étagères de cuisine commerciale",
+    "intro": "Le terme inoxydable ne suffit pas à définir une étagère. Décrivez les contenants, l’environnement et le nettoyage, puis demandez les preuves adaptées à l’usage.",
+    "description": "Le terme inoxydable ne suffit pas à définir une étagère. Décrivez les contenants, l’environnement et le nettoyage, puis demandez les preuves adaptées à l’usage.",
+    "sections": [
+      {
+        "title": "Décrire l’environnement",
+        "body": "Distinguez les réserves sèches, les zones humides et les espaces à température contrôlée. Indiquez les produits et méthodes de nettoyage définis par l’établissement. Un matériau ne garantit pas sa résistance à tous les produits chimiques ou à toutes les températures. Précisez la documentation sanitaire exigée."
+      },
+      {
+        "title": "Adapter les appuis aux contenants",
+        "body": "Une tablette grillagée, une surface pleine et des glissières soutiennent les objets différemment. Les petits contenants et les plateaux rigides n’ont pas les mêmes besoins. Fournissez les dimensions et les poids chargés. Un support pour plaques n’est pas automatiquement conçu pour entrer dans un four."
+      },
+      {
+        "title": "Préserver l’accès pour le travail",
+        "body": "Incluez nettoyage, réapprovisionnement et retour des contenants vides. Les unités fixes et mobiles présentent des contraintes de circulation différentes. Vérifiez l’ensemble, y compris roulettes et accessoires. La séparation du propre et du retourné dépend aussi des procédures de l’établissement."
+      }
+    ],
+    "checklist": [
+      "Contenants et poids chargés",
+      "Milieu sec, humide ou réfrigéré",
+      "Nettoyage et preuves requises"
+    ],
+    "faqs": [
+      {
+        "question": "L’acier inoxydable garantit-il l’aptitude sanitaire?",
+        "answer": "Non. Il faut vérifier le matériau exact, la construction, le nettoyage et les exigences de l’usage prévu."
+      }
+    ],
+    "categoryId": "hospitality",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://metro.com/blog/metros-ultimate-commercial-shelving-buying-guide-/"
+      }
+    ]
+  },
+  {
+    "enSlug": "server-rack-sizing",
+    "slug": "dimensions-d-un-bati-informatique",
+    "title": "Dimensionner un bâti informatique",
+    "intro": "La hauteur en unités U n’est qu’une partie du dimensionnement. Ajoutez profondeur, appuis, raccordements, chaleur et accès pour l’entretien.",
+    "description": "La hauteur en unités U n’est qu’une partie du dimensionnement. Ajoutez profondeur, appuis, raccordements, chaleur et accès pour l’entretien.",
+    "sections": [
+      {
+        "title": "Dresser la liste des équipements",
+        "body": "Relevez les exigences de montage, la profondeur, le poids et les raccordements de chaque appareil dans sa documentation. Ajoutez les tablettes et accessoires. Distinguez la profondeur de montage de la dimension extérieure de l’armoire. Décrivez les extensions prévues comme des besoins concrets."
+      },
+      {
+        "title": "Comparer accès et fermeture",
+        "body": "Un bâti ouvert peut convenir lorsque le local contrôle déjà les accès. Une armoire fermée exige une planification du câblage et de la ventilation. Les modèles muraux nécessitent une évaluation du mur; les cadres pivotants ou coulissants demandent de l’espace de mouvement et des câbles adaptés. Une appellation ne garantit aucune performance thermique."
+      },
+      {
+        "title": "Examiner les interfaces du local",
+        "body": "Incluez l’accès avant et arrière, les portes, la livraison et les besoins électriques et thermiques à faire examiner par les spécialistes responsables. Vérifiez rails, tablettes et accessoires ensemble. Les batteries peuvent demander une évaluation supplémentaire. Une largeur nominale commune ne prouve pas la compatibilité."
+      }
+    ],
+    "checklist": [
+      "Documentation et interfaces de montage",
+      "Profondeur et raccordements arrière",
+      "Local, alimentation et chaleur"
+    ],
+    "faqs": [
+      {
+        "question": "La profondeur extérieure est-elle la profondeur utile?",
+        "answer": "Pas nécessairement. Vérifiez la plage de montage et les dégagements pour les connecteurs, les portes et la ventilation."
+      }
+    ],
+    "categoryId": "technology",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.startech.com/en-us/server-management/4postrack42"
+      }
+    ]
+  },
+  {
+    "enSlug": "event-coat-racks",
+    "slug": "organiser-un-vestiaire-evenementiel",
+    "title": "Organiser un vestiaire événementiel",
+    "intro": "Un vestiaire événementiel est un processus de récupération. Décrivez arrivées, identification, départs et espace du personnel avant de fixer les quantités.",
+    "description": "Un vestiaire événementiel est un processus de récupération. Décrivez arrivées, identification, départs et espace du personnel avant de fixer les quantités.",
+    "sections": [
+      {
+        "title": "Estimer les articles réels",
+        "body": "Le nombre de participants ne détermine pas seul l’espace: saison, manteaux volumineux, sacs et type d’événement influencent le contenu. Indiquez les incertitudes. Ne transformez pas une longueur de tringle en capacité garantie; chaque configuration doit être évaluée pour ses charges."
+      },
+      {
+        "title": "Séparer arrivée et récupération",
+        "body": "Les manteaux peuvent arriver progressivement et repartir presque tous ensemble. Décrivez les files, l’accès du personnel et les étiquettes. Gardez distincts le parcours du public et celui de récupération. Examinez les sorties, l’accessibilité et les exigences avec le responsable du lieu."
+      },
+      {
+        "title": "Inclure les heures hors événement",
+        "body": "Précisez le rangement avant et après l’activité, le parcours jusqu’à la salle et les déplacements chargés. Portes, seuils et ascenseurs peuvent déterminer la faisabilité d’un portant mobile. Location, livraison et montage dépendent des dates, du lieu et de la disponibilité confirmée."
+      }
+    ],
+    "checklist": [
+      "Articles et rythme d’arrivée",
+      "Identification et récupération",
+      "Accès, dates et rangement"
+    ],
+    "faqs": [
+      {
+        "question": "Puis-je demander une location?",
+        "answer": "Oui. Indiquez les dates et vos besoins. L’approvisionnement en location et les services associés dépendent du lieu, de la configuration et de la disponibilité confirmée."
+      }
+    ],
+    "categoryId": "events",
+    "sources": [
+      {
+        "label": "Documentation de référence",
+        "url": "https://www.storesupply.com/"
+      }
+    ]
+  }
+]

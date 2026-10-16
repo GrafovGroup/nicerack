@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Montréal",
+    "slug": "montreal",
+    "categoryId": "retail",
+    "title": "Montréal : réaménager une boutique et coordonner la réception par arrondissement",
+    "description": "Réaménager une boutique et coordonner la réception par arrondissement à Montréal. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Montréal publie des renseignements sur le stationnement et les restrictions selon le lieu. La réception de présentoirs doit partir de l’adresse réelle et des consignes de l’immeuble.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Distinguez l’entrée de livraison de l’entrée des clients. Mesurez les portes, les escaliers et les ascenseurs, puis prévoyez un endroit pour les composants avant montage. Expliquez si le travail se déroule pendant les heures d’ouverture. La surface de présentation souhaitée ne suffit pas à choisir entre un meuble autonome et un système mural."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez les supports mobiles et les systèmes muraux selon la marchandise et les fixations permises. Les accessoires doivent être compatibles avec le système retenu. Coordonnez la réception avec le responsable du bâtiment et les consignes municipales à jour. Précisez aussi la langue requise pour les documents d’achat."
+      }
+    ],
+    "checklist": [
+      "Adresse et entrée de réception",
+      "Accès pendant les heures d’ouverture",
+      "Documents et espace de montage"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Montréal",
+        "url": "https://montreal.ca/stationnement"
+      }
+    ],
+    "enSlug": "montreal",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Québec",
+    "slug": "quebec",
+    "categoryId": "technology",
+    "title": "Québec : préparer les équipements d’optique et d’électronique pour leur intégration",
+    "description": "Préparer les équipements d’optique et d’électronique pour leur intégration à Québec. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Québec International présente l’électronique et l’optique-photonique parmi les industries régionales. Le rangement doit distinguer les composants emballés des appareils délicats préparés pour des essais.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez les appareils qui se montent dans un bâti et ceux qui restent en étui ou sur un plateau. Relevez les connecteurs, les consignes de manutention et l’identification. Une tablette ordinaire ne constitue pas automatiquement un appui adapté à un instrument sensible. Faites définir les exigences environnementales par l’équipe technique."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez un petit ensemble de montage avec un bâti au sol selon l’accès d’entretien. Séparez l’entreposage de composants du montage des appareils. Prévoyez le dégagement arrière et le parcours jusqu’au poste de travail. Toute performance contre les vibrations, l’électricité statique ou l’environnement exige des preuves propres au système."
+      }
+    ],
+    "checklist": [
+      "Appareils et étuis de protection",
+      "Exigences de manutention",
+      "Accès aux raccordements"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Québec",
+        "url": "https://www.quebecinternational.ca/en/choose-quebec/quebec-industries/electronics-and-optics-photonics"
+      }
+    ],
+    "enSlug": "quebec-city",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Laval",
+    "slug": "laval",
+    "categoryId": "hospitality",
+    "title": "Laval : organiser les fournitures selon les exigences de nettoyage de l’établissement",
+    "description": "Organiser les fournitures selon les exigences de nettoyage de l’établissement à Laval. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Le portrait économique de Laval comprend les sciences de la vie, la fabrication et l’agroalimentaire. Une réserve de soutien gagne à séparer les fournitures emballées des articles destinés à un usage contrôlé.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez les emballages fermés séparément des objets qui entrent dans des zones contrôlées. Décrivez les contenants et le nettoyage défini par l’établissement. Un rayonnage général ne garantit pas l’aptitude à une salle propre, à un usage stérile ou réglementé. Fournissez les documents exigés avant la sélection."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez des tablettes pour contenants avec un classement par bacs selon la procédure autorisée. Les matériaux des contenants et leur nettoyage restent à évaluer. Identifiez la personne qui approuve la configuration et le parcours de réapprovisionnement. Ajoutez les exigences linguistiques des documents techniques au même dossier."
+      }
+    ],
+    "checklist": [
+      "Fournitures emballées ou contrôlées",
+      "Nettoyage et preuves requises",
+      "Approbation et réapprovisionnement"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Laval",
+        "url": "https://www.laval.ca/organisation-municipale/portrait-ville-laval/cartes-statistiques/laval-ville-entrepreneuriale/"
+      }
+    ],
+    "enSlug": "laval",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Longueuil",
+    "slug": "longueuil",
+    "categoryId": "industrial",
+    "title": "Longueuil : classer les pièces de soutien aéronautique par statut et emballage",
+    "description": "Classer les pièces de soutien aéronautique par statut et emballage à Longueuil. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Longueuil présente sa zone d’innovation en aérospatiale. Dans une réserve de soutien, l’identification et l’état de libération des pièces comptent autant que la place disponible.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Séparez les consommables ordinaires des équipements identifiés et des pièces en attente de vérification. Mesurez les étuis et les emballages protecteurs, puis décrivez la façon de lire les étiquettes sans déplacer tout le contenu. Une étagère ne confère aucune approbation aéronautique aux articles rangés."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez les tablettes pour ensembles complets aux bacs de petits articles. Prévoyez un espace de contrôle hors des positions de rangement. Les exigences de qualité et d’environnement doivent être définies par le responsable du site; demandez ensuite les preuves adaptées à la configuration proposée."
+      }
+    ],
+    "checklist": [
+      "Statut des pièces",
+      "Étuis et étiquettes",
+      "Espace de contrôle"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Longueuil",
+        "url": "https://www.longueuil.quebec/fr/services/zone-dinnovation-en-aerospatiale"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Gatineau",
+    "slug": "gatineau",
+    "categoryId": "technology",
+    "title": "Gatineau : séparer les essais informatiques du réseau en service",
+    "description": "Séparer les essais informatiques du réseau en service à Gatineau. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "ID Gatineau présente des activités d’entreprises et de technologies. Pour une équipe qui teste du matériel, le rangement temporaire et le réseau en service n’ont pas les mêmes accès.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Dressez la liste des appareils d’essai et des appareils installés en permanence. Relevez la profondeur, les rails et l’emplacement des connexions. Expliquez qui change les appareils et où les équipements retirés attendent. L’accès arrière fréquent peut orienter le choix autrement qu’une simple hauteur en U."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez bâti ouvert et armoire selon le contrôle d’accès du local. Prévoyez le rayon de courbure des câbles et le mouvement des portes. Les besoins électriques et thermiques relèvent de l’équipe responsable. Une armoire n’établit pas à elle seule la sécurité ou la performance du réseau."
+      }
+    ],
+    "checklist": [
+      "Appareils d’essai et permanents",
+      "Connexions et rails",
+      "Accès et dégagements"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Gatineau",
+        "url": "https://idgatineau.ca/blogue/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Sherbrooke",
+    "slug": "sherbrooke",
+    "categoryId": "industrial",
+    "title": "Sherbrooke : distinguer les objets à réparer des pièces prêtes au réemploi",
+    "description": "Distinguer les objets à réparer des pièces prêtes au réemploi à Sherbrooke. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Le plan de gestion des matières résiduelles de Sherbrooke aborde le réemploi. Pour un atelier de réparation, le rangement doit rendre visible le statut de chaque objet.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Séparez les objets reçus, ceux en diagnostic et ceux prêts à repartir. Relevez les dimensions des bacs et les éléments qui doivent rester ensemble. Une étagère remplie sans identification peut masquer des pièces manquantes. Décrivez le poste où un objet est ouvert et vérifié avant sa remise en place."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez tablettes pour ensembles complets et petits contenants pour accessoires. Les objets lourds demandent leur propre moyen de manutention. Prévoyez une zone pour les retours incomplets et indiquez qui autorise leur réemploi. Le rayonnage aide à organiser le processus sans certifier l’état des objets."
+      }
+    ],
+    "checklist": [
+      "Statut de réparation",
+      "Ensembles et accessoires",
+      "Contrôle avant remise en service"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Sherbrooke",
+        "url": "https://www.sherbrooke.ca/Fichiers/3337a882-4a53-e611-80ea-00155d09650f/Sites/333ceda8-915d-e611-80ea-00155d09650f/Documents/Environnement/PGMR/PGMR%202023-2030_VF.pdf"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Trois-Rivières",
+    "slug": "trois-rivieres",
+    "categoryId": "industrial",
+    "title": "Trois-Rivières : organiser les transferts entre réception et expédition",
+    "description": "Organiser les transferts entre réception et expédition à Trois-Rivières. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Innovation et Développement économique Trois-Rivières présente la logistique et le transport comme pôle de développement. Un entrepôt de transfert doit distinguer stockage et attente de départ.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez les palettes qui restent en réserve et celles qui repartent après regroupement. Décrivez leur identification, les changements de transporteur et les moments où réception et expédition se chevauchent. Une position de palettier ne remplace pas nécessairement une zone de contrôle ou de préparation au sol."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez accès direct aux palettes et rangement manuel pour colis fractionnés. Incluez le chariot, les emballages irréguliers et l’ordre de sortie. Les allées, les appuis et la structure nécessitent une évaluation du site. Ajoutez le traitement des emballages vides pour éviter qu’ils occupent les zones de travail."
+      }
+    ],
+    "checklist": [
+      "Réserve ou transfert",
+      "Ordre de sortie",
+      "Manutention et emballages"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Trois-Rivières",
+        "url": "https://www.idetr.com/fr/poles-de-developpement/logistique-et-transport"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Lévis",
+    "slug": "levis",
+    "categoryId": "industrial",
+    "title": "Lévis : entreposer des pièces longues avec des éléments en saillie",
+    "description": "Entreposer des pièces longues avec des éléments en saillie à Lévis. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Les documents économiques de Lévis abordent notamment la construction navale et les espaces industriels. Pour un atelier de fabrication, les pièces finies peuvent demander d’autres appuis que les matières brutes.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Relevez longueurs, poids et saillies: brides, supports ou revêtements peuvent changer l’encombrement. Séparez les pièces finies des matériaux bruts et indiquez comment les surfaces sont protégées. Expliquez si le déplacement utilise des fourches, des élingues ou une manutention manuelle."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez porte-à-faux pour charges longues et tablettes pour raccords. L’espacement des appuis dépend des matériaux réels. Prévoyez l’espace pour les accessoires de levage et la sortie vers l’assemblage. Faites examiner la structure et la répartition des charges avant de retenir une configuration."
+      }
+    ],
+    "checklist": [
+      "Longueurs et saillies",
+      "Protection des surfaces",
+      "Appuis et manutention"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Lévis",
+        "url": "https://www.ville.levis.qc.ca/fileadmin/documents/Images/actualites/economique/006_ANNEXE_ConsultationsPrebudgetaires2024-2025.pdf"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Saguenay",
+    "slug": "saguenay",
+    "categoryId": "fitness",
+    "title": "Saguenay : ranger le matériel de plein air après son retour",
+    "description": "Ranger le matériel de plein air après son retour à Saguenay. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Promotion Saguenay présente le tourisme et le plein air dans ses secteurs clés. Le retour de matériel sportif demande de distinguer le rangement sec des étapes de vérification et de séchage.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez les équipements par format et par activité. Décrivez ce qui revient humide, ce qui doit être inspecté et ce qui peut être remis immédiatement en circulation. Le nombre d’articles ne montre pas l’espace occupé par les objets volumineux ou leurs accessoires."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez tablettes, supports et contenants selon les équipements réels. Prévoyez une zone de contrôle avant le rangement final. Les matériaux et l’aération doivent être adaptés à l’usage prévu; un support générique ne garantit pas un séchage particulier. Incluez les portes et le déplacement des chariots."
+      }
+    ],
+    "checklist": [
+      "Formats par activité",
+      "Retour humide ou sec",
+      "Vérification et remise en circulation"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Saguenay",
+        "url": "https://promotion.saguenay.ca/fr/choisir-saguenay/nos-secteurs-cles/tourisme"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Drummondville",
+    "slug": "drummondville",
+    "categoryId": "industrial",
+    "title": "Drummondville : suivre les composants entre deux étapes de fabrication",
+    "description": "Suivre les composants entre deux étapes de fabrication à Drummondville. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Drummond économique présente les activités industrielles et commerciales du territoire. Les composants en cours de fabrication demandent un classement différent des produits prêts à expédier.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Décrivez les contenants utilisés à chaque étape et les conditions de transfert vers le poste suivant. Séparez les pièces retenues pour contrôle des pièces disponibles. Notez le temps d’attente et les changements de série. Une réserve de longue durée ne doit pas être confondue avec la file de travail du prochain quart."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez palettes pour ensembles lourds et tablettes pour contenants manuels. Prévoyez le retour des bacs vides et l’identification des lots. Les dimensions, charges et moyens de manutention permettent d’évaluer le système; un nombre de travées seul ne suffit pas."
+      }
+    ],
+    "checklist": [
+      "Étapes et contenants",
+      "Contrôle et libération",
+      "Retours de bacs"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Drummondville",
+        "url": "https://www.drummondeconomique.ca/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Granby",
+    "slug": "granby",
+    "categoryId": "industrial",
+    "title": "Granby : organiser les pièces de maintenance par machine",
+    "description": "Organiser les pièces de maintenance par machine à Granby. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Granby Industriel documente le tissu industriel local. Une réserve de maintenance doit permettre de retrouver la bonne pièce sans mélanger les versions ou les composants en attente de contrôle.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Associez chaque ensemble à la machine concernée et relevez les emballages, dimensions et poids. Identifiez les pièces obsolètes ou non vérifiées. Décrivez le lieu où un technicien ouvre un contenant avant d’emporter une pièce; cet espace de contrôle ne doit pas disparaître dans le calcul des tablettes."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez bacs pour petites pièces et positions adaptées aux assemblages lourds. Prévoyez le trajet jusqu’à l’atelier et les moyens de levage. La validation technique d’une pièce de remplacement reste du ressort du propriétaire de l’équipement; le rangement ne prouve pas sa compatibilité."
+      }
+    ],
+    "checklist": [
+      "Machine et version",
+      "Pièces lourdes ou manuelles",
+      "Contrôle avant utilisation"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Granby",
+        "url": "https://granby-industriel.com/granby-en-chiffres/profil-du-tissu-industriel/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Saint-Hyacinthe",
+    "slug": "saint-hyacinthe",
+    "categoryId": "hospitality",
+    "title": "Saint-Hyacinthe : séparer emballages secs et contenants à nettoyer",
+    "description": "Séparer emballages secs et contenants à nettoyer à Saint-Hyacinthe. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Saint-Hyacinthe Technopole présente le secteur agroalimentaire. Une réserve d’emballages et un retour de contenants lavables ne constituent pas le même environnement de rangement.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez cartons neufs, contenants réutilisables et produits emballés séparément. Décrivez le point d’ouverture des emballages et le retour après utilisation. Indiquez les limites entre zones sèches et humides ainsi que le nettoyage défini par l’établissement. Le nom d’un matériau ne prouve pas son aptitude sanitaire."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez surfaces pleines, grillagées et supports de plateaux selon la base des contenants. Les quantités sur palette peuvent exiger une autre solution que les fournitures prélevées à la main. Fournissez les poids chargés et les documents exigés par le responsable du site."
+      }
+    ],
+    "checklist": [
+      "Emballages et retours",
+      "Limites sec et humide",
+      "Nettoyage et documentation"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Saint-Hyacinthe",
+        "url": "https://st-hyacinthetechnopole.qc.ca/agroalimentaire/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Saint-Jérôme",
+    "slug": "saint-jerome",
+    "categoryId": "industrial",
+    "title": "Saint-Jérôme : distinguer les composants de mobilité selon leur version",
+    "description": "Distinguer les composants de mobilité selon leur version à Saint-Jérôme. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "La stratégie économique de Saint-Jérôme aborde l’électrification des transports. Pour un atelier de développement, les pièces en cours d’évolution doivent rester identifiables par version.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Séparez les pièces de la version actuelle, les prototypes et les composants en attente de décision. Relevez les étuis et les supports nécessaires. Prévoyez un espace pour vérifier les étiquettes sans exposer des pièces voisines. Les batteries et tout matériau exigeant des conditions particulières doivent faire l’objet d’un besoin distinct."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez tablettes pour ensembles protégés et bacs pour accessoires ordinaires. L’approbation d’un composant relève du processus technique, pas de son emplacement. Toute protection électrique, environnementale ou contre l’incendie exige une évaluation spécifique; une étagère générale ne la garantit pas."
+      }
+    ],
+    "checklist": [
+      "Version et statut",
+      "Étuis et accessoires",
+      "Exigences particulières séparées"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Saint-Jérôme",
+        "url": "https://www.vsj.ca/wp-content/uploads/2022/12/Strategie-de-developpement-economique-2030_sommaire.pdf"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne",
+    "slug": "terrebonne",
+    "categoryId": "fitness",
+    "title": "Terrebonne : préparer les ensembles sportifs pour les activités extérieures",
+    "description": "Préparer les ensembles sportifs pour les activités extérieures à Terrebonne. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Terrebonne publie des renseignements sur ses parcs et espaces récréatifs. Pour une organisation qui utilise du matériel de sport, le rangement peut suivre les ensembles nécessaires à chaque activité.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Regroupez le matériel par activité et identifiez les pièces qui doivent partir ensemble. Distinguez distribution, retour et inspection. Mesurez les objets volumineux et les portes de la réserve. Un contenant très grand peut cacher des éléments manquants plutôt que simplifier la préparation."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez supports ouverts et contenants étiquetés selon le format du matériel. Prévoyez le stationnement du chariot et la place nécessaire au contrôle des retours. Le matériel humide peut demander un traitement avant rangement; définissez cette étape avec le responsable des équipements."
+      }
+    ],
+    "checklist": [
+      "Ensembles par activité",
+      "Contrôle des retours",
+      "Chariot et portes de réserve"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Terrebonne",
+        "url": "https://terrebonne.ca/parcs-et-espaces-recreatifs/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  },
+  {
+    "name": "Brossard",
+    "slug": "brossard",
+    "categoryId": "retail",
+    "title": "Brossard : changer les présentations sans bloquer le réapprovisionnement",
+    "description": "Changer les présentations sans bloquer le réapprovisionnement à Brossard. Préparez les dimensions, les accès et les besoins de manutention pour votre soumission.",
+    "intro": "Brossard présente ses commerces dans ses outils municipaux. Pour une boutique, le changement de collection doit préserver le parcours entre réserve, déballage et présentation.",
+    "sections": [
+      {
+        "title": "Décrire le fonctionnement",
+        "body": "Listez les marchandises exposées et les cartons utilisés pour les réapprovisionner. Mesurez le parcours lorsque des clients circulent. Indiquez où les présentoirs retirés sont stationnés et à quelle fréquence la disposition change. Une surface de vente supplémentaire ne doit pas masquer les besoins de manutention."
+      },
+      {
+        "title": "Comparer les solutions",
+        "body": "Comparez étagères stables et présentoirs mobiles selon les produits. Une base à roulettes nécessite encore une méthode de déplacement chargé et un emplacement libre. Précisez les fixations permises et les contraintes d’accès avec le responsable du local."
+      }
+    ],
+    "checklist": [
+      "Marchandises et cartons",
+      "Parcours clients et personnel",
+      "Stationnement hors présentation"
+    ],
+    "sources": [
+      {
+        "label": "Contexte local de Brossard",
+        "url": "https://brossard.ca/en/news/new-interactive-map-on-bciti-nearly-1500-businesses-to-discover-now/"
+      }
+    ],
+    "enSlug": "",
+    "faqs": [
+      {
+        "question": "La présence de cette page garantit-elle un service local?",
+        "answer": "Non. Indiquez l’adresse, les accès et les travaux souhaités. L’approvisionnement, la livraison et l’installation sont évalués selon le projet et la disponibilité confirmée."
+      }
+    ]
+  }
+]

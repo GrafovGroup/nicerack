@@ -27,3 +27,15 @@ New pages emit existing Organization and BreadcrumbList data only. They do not c
 Run catalogue validation, lint, typecheck, tests, production build, then `python3 scripts/audit-site.py http://127.0.0.1:3000`. Inspect 320/390px and desktop pages, mobile menus, city quote prefill, guide-to-type navigation and catalogue regression flows. Local preview must keep quote delivery disabled; no real email/call is required for editorial QA.
 
 Use a feature branch and PR; publish the phase report and matrix to main and verify remote contents. Hosting deployment is separate and requires explicit authorization. The current WHC release is Phase 1D.
+
+## French content and route mapping (Phase 2C)
+
+French content lives in `src/content/fr/` and has no English body-copy fallback. `products.json` keeps the original product ID and English slug alongside a localized slug. Categories keep stable division IDs. The initial French selection is 24 types, eight divisions, eight guides and 15 Quebec cities.
+
+`src/lib/locale.ts` contains the small explicit route map used by the switcher and SEO. When adding a translation, update its mapping only if it is a real equivalent, plus `frenchPaths`. Do not map an untranslated product to a hub as hreflang; the switcher's hub fallback is navigation only. Run the locale tests and full HTTP audit. City slugs remain ASCII; accented city spellings redirect permanently to the same canonical page. Separate document roots under `(en)` and `fr` keep correct HTML language without making every page request-dependent.
+
+French form fields submit to the existing `/api/quote` handler, using stable English category/product IDs and an optional validated `locale: fr` field. Inbox field labels remain English, with explicit language context. No recipient is accepted from the client. The same origin, size, honeypot and rate controls apply. French success/error text is selected by HTTP status, never copied from an English backend response.
+
+The language suggestion reads the browser's preferred language and remembers explicit choices/dismissal in local storage. It does not collect location or perform IP lookup. The pure policy helper accepts coarse province context if an approved source is already available, but the current UI has no such source. There are no forced redirects. A saved FR choice suppresses prompts; it does not silently reroute a visitor who deliberately opens an English URL.
+
+Before WHC publication, obtain competent Quebec French/consumer-law review of the French copy, consent, privacy and terms. Code checks are not a legal or linguistic certification. Keep this operational review in project documentation, not customer-facing warning banners.
