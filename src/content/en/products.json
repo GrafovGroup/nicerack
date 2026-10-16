@@ -1,0 +1,554 @@
+[
+  {
+    "id": "type-pallet-racking",
+    "slug": "pallet-racking",
+    "name": "Selective pallet racking",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Direct-access pallet storage for warehouse layout planning.",
+    "detailedDescription": "Direct-access pallet storage for warehouse layout planning. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Pallet handling",
+      "Warehouse storage"
+    ],
+    "features": [
+      "Pallet dimensions and handling equipment",
+      "Aisle layout and access requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-cantilever-rack",
+    "slug": "cantilever-rack",
+    "name": "Cantilever racks",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-long-materials",
+    "shortDescription": "Storage planning for long stock such as pipe, profiles and timber.",
+    "detailedDescription": "Storage planning for long stock such as pipe, profiles and timber. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Long materials",
+      "Warehouse storage"
+    ],
+    "features": [
+      "Stock lengths and retrieval method",
+      "Arm configuration and site assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-industrial-shelving",
+    "slug": "industrial-shelving",
+    "name": "Industrial shelving",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-shelving",
+    "shortDescription": "Shelf-based organization for cartons, parts and hand-picked items.",
+    "detailedDescription": "Shelf-based organization for cartons, parts and hand-picked items. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Parts storage",
+      "Warehouse storage"
+    ],
+    "features": [
+      "Container sizes and picking access",
+      "Shelf layout and fixing requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-ladder-rack",
+    "slug": "ladder-rack",
+    "name": "Vehicle ladder racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-ladder-transport",
+    "shortDescription": "Carrying long equipment, subject to vehicle and mounting compatibility.",
+    "detailedDescription": "Carrying long equipment, subject to vehicle and mounting compatibility. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Ladder transport",
+      "Fleet equipment"
+    ],
+    "features": [
+      "Vehicle make, model and year",
+      "Mounting points and equipment dimensions"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-roof-rack",
+    "slug": "roof-rack",
+    "name": "Vehicle roof racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-roof-storage",
+    "shortDescription": "Roof-mounted carrying systems matched to the vehicle and intended cargo.",
+    "detailedDescription": "Roof-mounted carrying systems matched to the vehicle and intended cargo. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Roof cargo",
+      "Fleet equipment"
+    ],
+    "features": [
+      "Roof geometry and mounting system",
+      "Vehicle-specific carrying limits"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-truck-bed-rack",
+    "slug": "truck-bed-rack",
+    "name": "Truck bed racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-truck-storage",
+    "shortDescription": "Cargo support above a pickup bed, with fitment assessed for each vehicle.",
+    "detailedDescription": "Cargo support above a pickup bed, with fitment assessed for each vehicle. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Truck cargo",
+      "Fleet equipment"
+    ],
+    "features": [
+      "Bed dimensions and accessories",
+      "Cargo shape and securing arrangements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-wall-storage",
+    "slug": "wall-storage",
+    "name": "Garage wall storage",
+    "categoryId": "garage",
+    "subcategoryId": "garage-wall-storage",
+    "shortDescription": "Wall-mounted organization for tools and equipment with suitable mounting assessment.",
+    "detailedDescription": "Wall-mounted organization for tools and equipment with suitable mounting assessment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Tools",
+      "Garage organization"
+    ],
+    "features": [
+      "Wall construction and fixing locations",
+      "Tool sizes and everyday access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-overhead-storage",
+    "slug": "overhead-storage",
+    "name": "Overhead garage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-ceiling-storage",
+    "shortDescription": "Planning elevated storage for seasonal equipment in a garage.",
+    "detailedDescription": "Planning elevated storage for seasonal equipment in a garage. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Seasonal storage",
+      "Garage organization"
+    ],
+    "features": [
+      "Ceiling construction and door clearance",
+      "Safe access and installation assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-bicycle-storage",
+    "slug": "bicycle-storage",
+    "name": "Bicycle storage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-bicycle-storage",
+    "shortDescription": "Organizing bicycles around available wall or floor space.",
+    "detailedDescription": "Organizing bicycles around available wall or floor space. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Bicycles",
+      "Garage organization"
+    ],
+    "features": [
+      "Bicycle dimensions and wheel styles",
+      "Access spacing and mounting preferences"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-garment-rack",
+    "slug": "garment-rack",
+    "name": "Rolling garment racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-garment-display",
+    "shortDescription": "Movable garment storage and display planning for shops and changing layouts.",
+    "detailedDescription": "Movable garment storage and display planning for shops and changing layouts. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Clothing",
+      "Retail displays"
+    ],
+    "features": [
+      "Garment lengths and rail layout",
+      "Movement routes and floor surfaces"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-display-shelving",
+    "slug": "display-shelving",
+    "name": "Retail display shelving",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Shelving layouts shaped around merchandise and customer access.",
+    "detailedDescription": "Shelving layouts shaped around merchandise and customer access. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Merchandise",
+      "Retail displays"
+    ],
+    "features": [
+      "Product sizes and shelf arrangement",
+      "Customer circulation and sight lines"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-portable-display",
+    "slug": "portable-display",
+    "name": "Portable display racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-portable-displays",
+    "shortDescription": "Reconfigurable display planning for pop-ups and changing retail spaces.",
+    "detailedDescription": "Reconfigurable display planning for pop-ups and changing retail spaces. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Pop-up shops",
+      "Retail displays"
+    ],
+    "features": [
+      "Assembly and transport requirements",
+      "Merchandise presentation and footprint"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-power-rack",
+    "slug": "power-rack",
+    "name": "Power racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-training-racks",
+    "shortDescription": "Training-space planning around equipment compatibility and installation.",
+    "detailedDescription": "Training-space planning around equipment compatibility and installation. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Strength training",
+      "Fitness spaces"
+    ],
+    "features": [
+      "Bar and accessory compatibility",
+      "Clearance and anchoring assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-weight-storage",
+    "slug": "weight-storage",
+    "name": "Weight storage racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-weight-storage",
+    "shortDescription": "Organization for weight plates and free-weight equipment.",
+    "detailedDescription": "Organization for weight plates and free-weight equipment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Weight organization",
+      "Fitness spaces"
+    ],
+    "features": [
+      "Plate and equipment dimensions",
+      "Access and floor-space requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-sports-storage",
+    "slug": "sports-storage",
+    "name": "Sports equipment racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-sports-storage",
+    "shortDescription": "Storage layouts for balls, training accessories and sports equipment.",
+    "detailedDescription": "Storage layouts for balls, training accessories and sports equipment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Sports equipment",
+      "Fitness spaces"
+    ],
+    "features": [
+      "Equipment shapes and quantities",
+      "Access needs and storage zones"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-kitchen-shelving",
+    "slug": "kitchen-shelving",
+    "name": "Kitchen shelving",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-kitchen-storage",
+    "shortDescription": "Storage configurations for kitchen dimensions and operating conditions.",
+    "detailedDescription": "Storage configurations for kitchen dimensions and operating conditions. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Kitchen supplies",
+      "Hospitality storage"
+    ],
+    "features": [
+      "Wet or dry environment",
+      "Material and cleaning requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-dish-storage",
+    "slug": "dish-storage",
+    "name": "Dish storage racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-dish-storage",
+    "shortDescription": "Dish organization planned around item dimensions and handling routines.",
+    "detailedDescription": "Dish organization planned around item dimensions and handling routines. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Dishware",
+      "Hospitality storage"
+    ],
+    "features": [
+      "Plate and container sizes",
+      "Cleaning workflow and drainage needs"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-luggage-rack",
+    "slug": "luggage-rack",
+    "name": "Luggage racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-luggage-storage",
+    "shortDescription": "Luggage support and storage planning for guest accommodation.",
+    "detailedDescription": "Luggage support and storage planning for guest accommodation. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Guest luggage",
+      "Hospitality storage"
+    ],
+    "features": [
+      "Room footprint and luggage sizes",
+      "Folding or fixed configuration"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-server-cabinet",
+    "slug": "server-cabinet",
+    "name": "Server cabinets",
+    "categoryId": "technology",
+    "subcategoryId": "technology-enclosed-racks",
+    "shortDescription": "Equipment housing with cable access, usable depth and ventilation planning.",
+    "detailedDescription": "Equipment housing with cable access, usable depth and ventilation planning. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "IT equipment",
+      "Network infrastructure"
+    ],
+    "features": [
+      "Equipment depth and rack units",
+      "Ventilation, security and cable routing"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-network-rack",
+    "slug": "network-rack",
+    "name": "Open network racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-open-racks",
+    "shortDescription": "Open-frame equipment organization with access and cabling requirements.",
+    "detailedDescription": "Open-frame equipment organization with access and cabling requirements. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "IT equipment",
+      "Network infrastructure"
+    ],
+    "features": [
+      "Equipment mounting compatibility",
+      "Access, cable management and stability"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-wall-enclosure",
+    "slug": "wall-enclosure",
+    "name": "Wall-mounted network enclosures",
+    "categoryId": "technology",
+    "subcategoryId": "technology-wall-enclosures",
+    "shortDescription": "Compact equipment housing assessed for wall structure and service access.",
+    "detailedDescription": "Compact equipment housing assessed for wall structure and service access. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "IT equipment",
+      "Network infrastructure"
+    ],
+    "features": [
+      "Wall construction and equipment weight",
+      "Cable entry and ventilation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-event-coat-rack",
+    "slug": "event-coat-rack",
+    "name": "Event coat racks",
+    "categoryId": "events",
+    "subcategoryId": "events-coat-storage",
+    "shortDescription": "Temporary garment storage planned around guest numbers and event location.",
+    "detailedDescription": "Temporary garment storage planned around guest numbers and event location. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Guest coats",
+      "Event organization"
+    ],
+    "features": [
+      "Guest count and garment lengths",
+      "Dates, handling and available floor area"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-event-garment-rack",
+    "slug": "event-garment-rack",
+    "name": "Backstage garment racks",
+    "categoryId": "events",
+    "subcategoryId": "events-backstage-storage",
+    "shortDescription": "Garment organization for productions, performances and changing areas.",
+    "detailedDescription": "Garment organization for productions, performances and changing areas. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Costumes",
+      "Event organization"
+    ],
+    "features": [
+      "Costume lengths and access needs",
+      "Movement between preparation areas"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-event-display-rack",
+    "slug": "event-display-rack",
+    "name": "Event display racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-displays",
+    "shortDescription": "Display layouts for temporary venues and exhibition spaces.",
+    "detailedDescription": "Display layouts for temporary venues and exhibition spaces. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "applications": [
+      "Exhibitions",
+      "Event organization"
+    ],
+    "features": [
+      "Displayed items and venue requirements",
+      "Transport, setup and access routes"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  }
+]

@@ -25,3 +25,8 @@ test('blank queries return all items and long input is bounded', () => {
   assert.equal(searchCatalogue({q:'   '}).results.length, products.length);
   assert.equal(searchCatalogue({q:'x'.repeat(500)}).q.length, 120);
 });
+test('subcategory and application facets narrow the correct division',()=>{
+ assert.equal(searchCatalogue({category:'industrial',subcategory:'industrial-long-materials'}).results[0].slug,'cantilever-rack');
+ assert.equal(searchCatalogue({category:'industrial',application:'Warehouse storage'}).results.length,3);
+ assert.equal(searchCatalogue({category:'industrial',subcategory:'garage-wall-storage',application:'Bicycles'}).results.length,3);
+});

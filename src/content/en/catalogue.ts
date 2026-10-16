@@ -1,3 +1,5 @@
+import productData from './products.json';
+import {productSchema,type CatalogueProduct} from '@/lib/product-schema';
 export type Category = { id: string; slug: string; name: string; short: string; description: string; applications: string[]; questions: string[]; icon: string };
 export const categories: Category[] = [
  {id:'industrial',slug:'warehouse-industrial',name:'Warehouse & Industrial',short:'Make room for more.',description:'Plan storage around your operation, from pallet handling and long materials to everyday picking. Explore racking layouts that work with your stock, equipment and available space.',applications:['Pallet racking','Cantilever racks','Industrial shelving','Rack protection'],questions:['What are you storing, and how is it handled?','What floor area, clear height and access aisles are available?','Do you have drawings or existing rack documentation?'],icon:'warehouse'},
@@ -9,15 +11,129 @@ export const categories: Category[] = [
  {id:'technology',slug:'it-technology',name:'IT & Technology',short:'Structure for your systems.',description:'Plan equipment storage with server cabinets, network racks and wall enclosures. Share equipment sizes, ventilation needs and cable access requirements to narrow the configuration.',applications:['Server cabinets','Network racks','Wall enclosures','Cable management'],questions:['What equipment depth and rack units are needed?','What ventilation and cable access are required?','Is wall mounting or floor standing preferred?'],icon:'server'},
  {id:'events',slug:'events-rentals',name:'Events & Rentals',short:'Ready for a change of scene.',description:'Explore portable garment, coat and display racks for events and temporary spaces. Rental options depend on the event dates, quantity, location and local availability.',applications:['Coat racks','Portable garment racks','Event displays','Temporary storage'],questions:['What are the event dates and location?','How many racks or garments are involved?','Is delivery, setup or collection required?'],icon:'events'},
 ];
-export type Product = {id:string;slug:string;name:string;categoryId:string;summary:string;status:'example-type';sku?:string;supplier?:string;dimensions?:string;loadRating?:string;images?:string[];leadTime?:string;availability?:string};
-export const products: Product[] = [
- ['pallet-racking','Selective pallet racking','industrial','A starting point for discussing direct-access pallet storage and warehouse layouts.'],
- ['ladder-rack','Vehicle ladder racks','automotive','A starting point for carrying long equipment, subject to vehicle and mounting compatibility.'],
- ['wall-storage','Garage wall storage','garage','Explore wall-mounted organization for tools and equipment with suitable mounting assessment.'],
- ['garment-rack','Rolling garment racks','retail','Explore movable garment storage and displays for shops and changing floor layouts.'],
- ['power-rack','Power racks','fitness','Discuss training-space requirements, equipment compatibility and the intended installation.'],
- ['kitchen-shelving','Kitchen shelving','hospitality','Explore storage configurations for the dimensions and conditions of your kitchen.'],
- ['server-cabinet','Server cabinets','technology','Discuss equipment housing, cable access, usable depth and ventilation requirements.'],
- ['event-coat-rack','Event coat racks','events','Plan temporary garment storage around guest numbers, dates and the event location.'],
-].map(([slug,name,categoryId,summary])=>({id:`type-${slug}`,slug,name,categoryId,summary,status:'example-type'}));
+export const subcategories = [
+  {
+    "id": "industrial-pallet-storage",
+    "categoryId": "industrial",
+    "name": "Pallet storage"
+  },
+  {
+    "id": "industrial-long-materials",
+    "categoryId": "industrial",
+    "name": "Long materials"
+  },
+  {
+    "id": "industrial-shelving",
+    "categoryId": "industrial",
+    "name": "Shelving"
+  },
+  {
+    "id": "automotive-ladder-transport",
+    "categoryId": "automotive",
+    "name": "Ladder transport"
+  },
+  {
+    "id": "automotive-roof-storage",
+    "categoryId": "automotive",
+    "name": "Roof storage"
+  },
+  {
+    "id": "automotive-truck-storage",
+    "categoryId": "automotive",
+    "name": "Truck storage"
+  },
+  {
+    "id": "garage-wall-storage",
+    "categoryId": "garage",
+    "name": "Wall storage"
+  },
+  {
+    "id": "garage-ceiling-storage",
+    "categoryId": "garage",
+    "name": "Ceiling storage"
+  },
+  {
+    "id": "garage-bicycle-storage",
+    "categoryId": "garage",
+    "name": "Bicycle storage"
+  },
+  {
+    "id": "retail-garment-display",
+    "categoryId": "retail",
+    "name": "Garment display"
+  },
+  {
+    "id": "retail-shelf-displays",
+    "categoryId": "retail",
+    "name": "Shelf displays"
+  },
+  {
+    "id": "retail-portable-displays",
+    "categoryId": "retail",
+    "name": "Portable displays"
+  },
+  {
+    "id": "fitness-training-racks",
+    "categoryId": "fitness",
+    "name": "Training racks"
+  },
+  {
+    "id": "fitness-weight-storage",
+    "categoryId": "fitness",
+    "name": "Weight storage"
+  },
+  {
+    "id": "fitness-sports-storage",
+    "categoryId": "fitness",
+    "name": "Sports storage"
+  },
+  {
+    "id": "hospitality-kitchen-storage",
+    "categoryId": "hospitality",
+    "name": "Kitchen storage"
+  },
+  {
+    "id": "hospitality-dish-storage",
+    "categoryId": "hospitality",
+    "name": "Dish storage"
+  },
+  {
+    "id": "hospitality-luggage-storage",
+    "categoryId": "hospitality",
+    "name": "Luggage storage"
+  },
+  {
+    "id": "technology-enclosed-racks",
+    "categoryId": "technology",
+    "name": "Enclosed racks"
+  },
+  {
+    "id": "technology-open-racks",
+    "categoryId": "technology",
+    "name": "Open racks"
+  },
+  {
+    "id": "technology-wall-enclosures",
+    "categoryId": "technology",
+    "name": "Wall enclosures"
+  },
+  {
+    "id": "events-coat-storage",
+    "categoryId": "events",
+    "name": "Coat storage"
+  },
+  {
+    "id": "events-backstage-storage",
+    "categoryId": "events",
+    "name": "Backstage storage"
+  },
+  {
+    "id": "events-event-displays",
+    "categoryId": "events",
+    "name": "Event displays"
+  }
+];
+export type Product = CatalogueProduct & {summary:string};
+const parsedProducts = productSchema.array().parse(productData);
+export const products: Product[] = parsedProducts.filter(p=>p.published).map(p=>({...p,summary:p.shortDescription}));
 export const provinces = ['Alberta','British Columbia','Manitoba','New Brunswick','Newfoundland and Labrador','Northwest Territories','Nova Scotia','Nunavut','Ontario','Prince Edward Island','Quebec','Saskatchewan','Yukon'] as const;

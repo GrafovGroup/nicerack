@@ -1,6 +1,6 @@
 # NiceRack.ca
 
-Phase 1A implementation of `PHASE_1A_CODEX_BRIEF.md`. Next.js App Router, TypeScript, Tailwind CSS, locally structured English content, and reusable UI. No checkout.
+Phase 1A foundation and Phase 1B catalogue implementation based on `PHASE_1A_CODEX_BRIEF.md`. Next.js App Router, TypeScript, Tailwind CSS, locally structured English content, and reusable UI. No checkout.
 
 ## Run locally
 
@@ -16,7 +16,7 @@ Open the localhost URL printed by Next.js. Checks: `pnpm lint`, `pnpm typecheck`
 
 ## Structure
 
-- `src/content/en/catalogue.ts`: eight categories and eight general rack product types. Optional SKU, supplier, dimensions, load rating, image, lead-time and availability fields remain absent until verified.
+- `src/content/en/catalogue.ts`: eight categories and 24 general rack product types. Optional SKU, supplier, dimensions, load rating, image, lead-time and availability fields remain absent until verified.
 - `src/components`: shared navigation, cards, breadcrumbs, CTA and quote form.
 - `src/app`: homepage, category/product routes, supporting pages, quote API, sitemap and robots.
 - `src/lib/quote.ts`: shared client/server validation. Stable category/product IDs and page/UTM lead source.
@@ -30,4 +30,4 @@ The quote endpoint validates origin, JSON, the honeypot and required fields. Whe
 
 Set `LEAD_DATA_DIR` outside the document root and enable `QUOTE_DELIVERY_ENABLED=true` only after the destination and delivery have been verified. The user confirmed forwarding is handled automatically; retain info@nicerack.ca as the recipient. The WHC application is deployed and responds HTTP 200 when addressed directly with the domain Host header. QUOTE_DELIVERY_ENABLED=true and the private data path are configured on WHC. Inbox receipt has not been tested. Public DNS still delegates to Spaceship while WHC reports parking1.whc.ca and parking2.whc.ca. WHC’s A record is 51.161.57.68 (TTL 300). Valid HTTPS remains pending; do not claim a completed public launch.
 
-Production metadata permits indexing. Product pages describe general rack types; no unverified stock, SKU, load ratings or completed-project claims are supplied. Phase 1B adds server-rendered keyword search, category filters and name sorting on /products using shareable GET query parameters. Verified supplier enrichment, comparisons, checkout, CRM, supplier operations, translations and city pages remain deferred. The standard phone placeholder is (833) 696-9996 and has not been verified as a NiceRack business line.
+Production metadata permits indexing. Product pages describe general rack types; no unverified stock, SKU, load ratings or completed-project claims are supplied. Phase 1B adds 24 structured rack types, subcategories, application facets, keyword search, name sorting, shareable URLs, detailed product pages and same-division comparison for up to three types. See [catalogue editing instructions](docs/CATALOGUE_EDITING.md) and [Phase 1B report](PHASE_1B_REPORT.md). Verified supplier enrichment, checkout, CRM, supplier operations, translations and city pages remain deferred. The standard phone placeholder is (833) 696-9996 and has not been verified as a NiceRack business line.
