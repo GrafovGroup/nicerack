@@ -1,0 +1,114 @@
+{
+  "industrial": {
+    "title": "Choose by handling method, not just storage density.",
+    "guidance": "Compare individual pallet access with grouped lanes; compare hand-picking shelves with pallet handling. Include stock rotation and replenishment routes before narrowing the layout.",
+    "faqs": [
+      {
+        "question": "Should I choose selective or deep-lane racking?",
+        "answer": "Start with the number of stock lines, pallets per line and retrieval order. Selective access and grouped lanes solve different problems; handling equipment and site conditions need review before a layout is chosen."
+      },
+      {
+        "question": "Can an existing rack be extended?",
+        "answer": "Provide the original system identification and drawings if available. Similar-looking uprights and beams are not evidence of compatibility. Extensions, repairs and changed loads require appropriate assessment."
+      }
+    ]
+  },
+  "automotive": {
+    "title": "Start with the vehicle and its mounting system.",
+    "guidance": "A roof base, bicycle carrier and ladder rack are not interchangeable. Identify the vehicle, existing mounting points and cargo, then compare carrier types for that combination.",
+    "faqs": [
+      {
+        "question": "What details establish vehicle fit?",
+        "answer": "Include make, model, year, body or roof type and existing accessories. For utility bodies and trailers, include their separate construction details. Fit must be checked against the actual vehicle and rack documentation."
+      },
+      {
+        "question": "Does a roof rack include cargo restraints?",
+        "answer": "A base rack and a cargo-specific carrier are different parts of a carrying setup. State what will be transported and request confirmation of compatible attachments and restraints; do not assume they are included."
+      }
+    ]
+  },
+  "garage": {
+    "title": "Plan around retrieval as well as storage.",
+    "guidance": "Frequently used tools need different access from seasonal items overhead. Compare dedicated holders with mixed storage and identify wall or ceiling construction before requesting mounted options.",
+    "faqs": [
+      {
+        "question": "Is overhead storage suitable for any garage?",
+        "answer": "No. Ceiling construction, door travel, vehicle clearance and access all matter. Describe the building and the proposed stored items so attachment and use can be assessed."
+      },
+      {
+        "question": "Should I use a general wall rail or dedicated holders?",
+        "answer": "A rail can organize a mixture of compatible accessories. Dedicated holders address particular shapes such as clamps or garden tools. Start with an item list and confirm each accessory fits the chosen system."
+      }
+    ]
+  },
+  "retail": {
+    "title": "Separate merchandising from reserve-stock storage.",
+    "guidance": "Customer reach, visibility and browsing space guide display fixtures. Backroom racks instead prioritize carton handling and replenishment. Describe both tasks if the project spans the shop floor and stockroom.",
+    "faqs": [
+      {
+        "question": "Are gridwall and slatwall accessories interchangeable?",
+        "answer": "They use different attachment patterns. Identify the panel system and accessories before requesting additions; apparent fit is not sufficient to establish compatibility or permitted loading."
+      },
+      {
+        "question": "Which garment display is the best starting point?",
+        "answer": "A straight rail supports linear hanging and handling, while round and four-way fixtures organize browsing around a centre. Consider garment length, merchandise grouping and the space customers need around the fixture."
+      }
+    ]
+  },
+  "fitness": {
+    "title": "Separate training frames from equipment storage.",
+    "guidance": "Power racks, stands and half racks support different training arrangements. Storage racks are selected around the shape and retrieval of the actual equipment, not the number of tiers alone.",
+    "faqs": [
+      {
+        "question": "Can accessories move between training rack systems?",
+        "answer": "Do not assume compatibility from similar holes or tubing. Identify the rack and accessory documentation and have the proposed combination checked before use."
+      },
+      {
+        "question": "What should a mixed-weight storage enquiry include?",
+        "answer": "List dumbbells, plates, kettlebells and other equipment separately, with their shapes and sizes. Note who retrieves them and the circulation space so shelf and holder arrangements can be compared."
+      }
+    ]
+  },
+  "hospitality": {
+    "title": "Match the rack to the workflow and environment.",
+    "guidance": "Dry stock, washed utensils, bakery pans and guest luggage need different supports. Distinguish storage, drying, transport and customer presentation before choosing a configuration.",
+    "faqs": [
+      {
+        "question": "Can a pan rack go into an oven?",
+        "answer": "Not unless the actual product documentation permits it for that oven and temperature. A generic pan-storage or transport rack does not imply oven compatibility."
+      },
+      {
+        "question": "Does kitchen shelving imply a sanitation certification?",
+        "answer": "No. State applicable food-service, material and cleaning requirements in your enquiry. Any certification or suitability claim must be checked against the selected product and its documentation."
+      }
+    ]
+  },
+  "technology": {
+    "title": "Check mounting geometry and service access together.",
+    "guidance": "Rack units alone do not establish fit. Device depth, rails, cable exits, ventilation and the route for maintenance determine whether open, enclosed, wall or slide-out arrangements are appropriate.",
+    "faqs": [
+      {
+        "question": "Is rack-unit height enough to choose a cabinet?",
+        "answer": "No. Include equipment depth, mounting rails, connectors, ventilation needs and front/rear service space. Door clearance and cable routes can be limiting even when the nominal rack height fits."
+      },
+      {
+        "question": "Can equipment be mounted vertically or on a wall?",
+        "answer": "Only where the equipment and support documentation allow the proposed orientation and installation. Provide device details and wall information; do not infer suitability from a standard rack-mount front panel."
+      }
+    ]
+  },
+  "events": {
+    "title": "Distinguish equipment in use from equipment in storage.",
+    "guidance": "Cloakroom rails and visitor displays serve an event; chair, table, sign and stage-deck racks organize dismantled equipment. Include setup routes, storage rooms and handling methods as separate requirements.",
+    "faqs": [
+      {
+        "question": "Does an event rack imply rental availability?",
+        "answer": "No. Dates, quantity, location and delivery or collection requirements must be assessed for each enquiry. The catalogue describes types, not a confirmed rental inventory."
+      },
+      {
+        "question": "Can a storage rack support lighting or staging during a show?",
+        "answer": "A rack for dismantled equipment is not automatically an operating stage or overhead rig. State the intended use clearly and obtain the appropriate documented system and specialist assessment."
+      }
+    ]
+  }
+}

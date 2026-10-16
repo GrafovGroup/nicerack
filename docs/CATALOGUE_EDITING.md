@@ -4,7 +4,7 @@ The public source is `src/content/en/products.json`. Category and subcategory de
 
 ## Generic rack types
 
-Use `status: "example-type"` and honest descriptions of a general type. These records appear publicly as GENERAL RACK TYPE. Do not add SKU, material, capacity, dimensions, availability, lead time or technical specifications to a generic record. The initial catalogue contains 24 types across eight divisions, not supplier-backed stock listings.
+Use `status: "example-type"` and honest descriptions of a general type. These records appear publicly as GENERAL RACK TYPE. Do not add SKU, material, capacity, dimensions, availability, lead time or technical specifications to a generic record. The catalogue contains 88 general types, eleven in each division, rather than supplier-backed stock listings. The original 24 IDs and slugs are protected by a regression fixture.
 
 ## Verified products
 
@@ -37,3 +37,13 @@ Example commands: `pnpm catalogue:validate`, `pnpm dev`, `pnpm build`, `pnpm sta
 `/products` accepts `q`, `category`, `subcategory`, `application` and `sort=name|featured`. Invalid facets fall back to valid available options; queries are limited to 120 characters. GET forms support bookmarked URLs and search without JavaScript. Campaign parameters are retained in the filter form and ordinary client navigation into product/quote flows.
 
 `/compare?ids=type-pallet-racking,type-cantilever-rack,type-industrial-shelving` accepts up to three unique published IDs in the same division. Mixed divisions, unknown IDs and more than three are rejected. One/zero selections show guidance. Comparison covers application differences, not engineering interchangeability. Unknown values show Contact us. No Product structured data is emitted for these generic types; comparison pages are noindex with canonical /compare.
+
+## Phase 2A editorial controls
+
+Before adding a page, identify a distinct support arrangement, handling method or customer task. A synonym, finish, colour or unverified size variant does not warrant another URL. Existing broad entry points remain available; their descriptions direct readers toward the more specific types. Retail display, household storage and backstage use must be explained distinctly when their equipment families overlap.
+
+Each description should explain the use, distinguish it from a neighbouring type, state practical information needed for a quotation, and identify relevant limitations. Avoid padding with repeated paragraphs. Manufacturer category references are terminology checks only, not evidence of an active supply relationship, availability, certification or permission to reuse photographs. See `docs/CATALOGUE_RESEARCH.md`.
+
+Category buying guidance and two substantive questions per division live in `src/content/en/category-guidance.json`. The page uses the division name in its H1; FAQs do not emit unsupported rich-result schema. Related products rank the same subcategory first, then shared application labels, remaining within the division. Keep application labels consistent when the use is actually shared.
+
+The expansion adds ten subcategories without changing existing IDs. All 88 detail pages use the same validation, quote-context and no-price rules. Search and filtering remain shareable GET URLs. The full catalogue is rendered without pagination so comparison selection stays intact; reassess pagination if measured payload or interaction costs justify it.

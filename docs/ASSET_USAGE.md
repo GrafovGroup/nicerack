@@ -13,3 +13,5 @@ Current-site duplicate check: one raster asset, one placement. No exact or visua
 SHA-256 (WebP): `316eff8366656124dd48a975afdefc12a473c25551e71bdd059d268b330fdb32`.
 
 Phase 1B: no new photographic assets or reused image placements were added. The 24 generic product records have empty image lists. The product-detail gallery supports approved unique images; it never inserts a shared fallback. Gallery tests reference fixture names only and do not publish fixture assets. Supplier imagery requires source/permission and placement review before publication.
+
+Phase 2A: all 88 catalogue records retain empty image arrays. No photographic asset was added, copied, downloaded or assigned to another placement. Existing single hero and brand treatment remain unchanged. Approved product photography and rights evidence are still external inputs; no new portfolio-wide comparison is claimed.
