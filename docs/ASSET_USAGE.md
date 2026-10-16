@@ -11,3 +11,5 @@ Prompt: Use case: ads-marketing. Asset type: NiceRack.ca homepage single hero ph
 Current-site duplicate check: one raster asset, one placement. No exact or visual duplication within this site. On October 15, 2026, perceptual average-hash comparison against 873 accessible prior-site images under the local ChatGPT projects directory found no near-duplicate candidates. Inaccessible inventories and remote-only assets were not checked; portfolio-wide verification is not claimed. No reuse exception was used.
 
 SHA-256 (WebP): `316eff8366656124dd48a975afdefc12a473c25551e71bdd059d268b330fdb32`.
+
+Phase 1B: no new photographic assets or reused image placements were added. The 24 generic product records have empty image lists. The product-detail gallery supports approved unique images; it never inserts a shared fallback. Gallery tests reference fixture names only and do not publish fixture assets. Supplier imagery requires source/permission and placement review before publication.
