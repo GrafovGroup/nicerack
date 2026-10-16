@@ -1,0 +1,717 @@
+[
+  {
+    "slug": "choosing-pallet-racking",
+    "title": "Choosing pallet racking",
+    "description": "Individual pallet access versus grouped lanes. Practical questions and rack comparisons for a better quote.",
+    "intent": "Individual pallet access versus grouped lanes",
+    "categoryIds": [
+      "industrial"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Start with the goods and the picking pattern. A useful pallet-racking enquiry describes how pallets enter storage, how long they stay and how they are selected for dispatch.",
+    "sections": [
+      {
+        "title": "Compare access patterns",
+        "body": "Selective layouts give individual pallet positions an aisle face. Drive-in layouts group pallets in deeper lanes, changing the access pattern. Push-back and pallet-flow arrangements introduce moving supports or controlled travel. These are different handling systems, not interchangeable levels of quality. Start with stock lines, pallets per line and retrieval order before considering density."
+      },
+      {
+        "title": "Prepare a load and equipment brief",
+        "body": "Record actual pallet construction, dimensions, condition and loaded weights. Include overhang and unstable or unusual loads rather than assuming every pallet behaves the same way. Identify the handling equipment and provide existing layout information. A bay count without this information can hide a mismatch between the support arrangement and the goods."
+      },
+      {
+        "title": "Ask for a site-specific assessment",
+        "body": "Floor conditions, structural design, anchoring and circulation require appropriately qualified review. Include replenishment, returns and dispatch staging so the discussion covers the operation rather than isolated rows. For an existing system, retain identification and drawings. Do not mix components or change beam positions on the assumption that visual similarity establishes compatibility."
+      }
+    ],
+    "checklist": [
+      "Pallet and load information",
+      "Stock lines and retrieval order",
+      "Handling equipment and site drawings"
+    ],
+    "faqs": [
+      {
+        "question": "Is the densest layout always the best choice?",
+        "answer": "No. Access, replenishment and stock rotation can matter more than the number of positions. Compare those tasks before settling on a storage arrangement."
+      }
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "drive-in-racking",
+      "pallet-flow-racking"
+    ],
+    "guideSlugs": [
+      "cantilever-vs-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Pallet system terminology",
+        "url": "https://www.interlakemecalux.com/catalogs"
+      }
+    ]
+  },
+  {
+    "slug": "cantilever-vs-pallet-racking",
+    "title": "Cantilever versus pallet racking",
+    "description": "Long loose stock versus palletized goods. Practical questions and rack comparisons for a better quote.",
+    "intent": "Long loose stock versus palletized goods",
+    "categoryIds": [
+      "industrial"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "The first distinction is the load itself: long loose stock and palletized goods usually need different support and retrieval arrangements. Neither family is a universal substitute for the other.",
+    "sections": [
+      {
+        "title": "Separate the stored shapes",
+        "body": "Cantilever arrangements use projecting supports for long materials; pallet arrangements support unit loads in defined positions. A bundle of profiles, a sheet panel and a pallet of cartons are not equivalent loads. Record dimensions, weight distribution and how the goods are protected. Do not choose by the longest item alone."
+      },
+      {
+        "title": "Follow the retrieval movement",
+        "body": "Describe whether one piece, a bundle or a complete pallet is removed. Include the equipment that approaches the rack and the staging space needed after retrieval. A rack that holds an item still may not allow the intended handling movement. Panels can require a separate sheet-storage arrangement rather than a general long-stock layout."
+      },
+      {
+        "title": "Keep engineering out of guesswork",
+        "body": "Ask for the support spacing, restraints and structural suitability to be assessed for the actual materials and site. This guide does not provide load calculations or anchoring instructions. Existing components need identification and documentation before extension. Send a clear inventory and layout so the assessor is reviewing real loads rather than a broad label such as metal stock."
+      }
+    ],
+    "checklist": [
+      "Material shapes and packaging",
+      "Single-piece or bundle retrieval",
+      "Handling approach and staging"
+    ],
+    "faqs": [
+      {
+        "question": "Can loose lengths go onto a pallet rack?",
+        "answer": "Only a configuration assessed for those goods and supports can establish suitability. The presence of beams does not make a pallet rack an approved long-materials system."
+      }
+    ],
+    "productSlugs": [
+      "cantilever-rack",
+      "pallet-racking",
+      "sheet-material-rack"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking",
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Storage system families",
+        "url": "https://www.interlakemecalux.com/catalogs"
+      }
+    ]
+  },
+  {
+    "slug": "warehouse-layout-questions",
+    "title": "Warehouse layout questions before a quote",
+    "description": "Capture movements and constraints before positioning bays. Practical questions and rack comparisons for a better quote.",
+    "intent": "Capture movements and constraints before positioning bays",
+    "categoryIds": [
+      "industrial"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Before drawing rows of racks, describe the movements that the rows must accommodate. A useful layout brief shows where goods pause, change containers and move between people or equipment.",
+    "sections": [
+      {
+        "title": "Map more than stored stock",
+        "body": "List receiving, checking, reserve storage, replenishment, picking, packing and dispatch. Add returns, empty containers and goods awaiting a decision. These spaces are easy to omit when starting with a target number of pallet positions. Record which movements happen at the same time and where congestion already occurs."
+      },
+      {
+        "title": "Capture the physical constraints",
+        "body": "Provide a measured plan with doors, columns, changes in level and fixed equipment identified. Include the equipment used to handle goods and its documentation. Building access, fire protection, exits and floor conditions need review by the responsible professionals. Do not select aisle widths or structural details from an online example."
+      },
+      {
+        "title": "Plan a change around operations",
+        "body": "Explain whether the area can close during the work or must remain partly active. Identify temporary storage and how existing stock will be handled. Separate desired future growth from the current requirement so alternatives can be compared. Before accepting a proposal, check that its assumptions about loads, equipment and access match the brief you supplied."
+      }
+    ],
+    "checklist": [
+      "Movement sketch and busy periods",
+      "Measured plan and fixed obstructions",
+      "Phasing and temporary storage needs"
+    ],
+    "faqs": [
+      {
+        "question": "Should I send a target rack count first?",
+        "answer": "It can describe an ambition, but include the workflow and loads. The usable layout must be assessed against the operation and site rather than fitted around a count."
+      }
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "parts-bin-rack",
+      "longspan-shelving"
+    ],
+    "guideSlugs": [
+      "choosing-pallet-racking",
+      "rack-inspection-planning"
+    ],
+    "sources": [
+      {
+        "label": "CCOHS workplace inspection prompts",
+        "url": "https://www.ccohs.ca/oshanswers/hsprograms/checklist/list_mft.html"
+      }
+    ]
+  },
+  {
+    "slug": "rack-inspection-planning",
+    "title": "Planning rack inspections and documentation",
+    "description": "Observation, escalation and records without DIY certification. Practical questions and rack comparisons for a better quote.",
+    "intent": "Observation, escalation and records without DIY certification",
+    "categoryIds": [
+      "industrial"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Inspection planning starts with ownership, records and a clear escalation route. A general checklist can organize observations; it cannot certify a rack or replace a competent assessment.",
+    "sections": [
+      {
+        "title": "Gather the system record",
+        "body": "Collect manufacturer identification, drawings, approved load information, installation records and previous assessments where available. Record changes to beam positions, supports or the stored goods. A missing record is information to resolve, not permission to infer capacity from appearance. Identify who is responsible for keeping the records current."
+      },
+      {
+        "title": "Make reporting usable",
+        "body": "Set a site procedure for reporting impacts, missing components, visible damage or unexpected movement. Describe how the location is identified so a report points to the correct bay. Inspection arrangements should be established by the responsible competent people using the system and workplace requirements. This guide does not set a universal inspection interval or acceptance threshold."
+      },
+      {
+        "title": "Escalate rather than improvise",
+        "body": "If damage or instability is suspected, follow the site’s safety procedure and involve the responsible qualified person before further use. Do not straighten, weld, unload an unstable system or substitute components based on this guide. Preserve the observation and assessment record so corrective work and any return-to-use decision can be traced."
+      }
+    ],
+    "checklist": [
+      "System identification and drawings",
+      "Change and impact records",
+      "Named reporting and assessment contacts"
+    ],
+    "faqs": [
+      {
+        "question": "Can photos establish the remaining load capacity?",
+        "answer": "No. Photos can help describe an observation, but capacity and return-to-use decisions require the appropriate assessment and records for the actual system."
+      }
+    ],
+    "productSlugs": [
+      "pallet-racking",
+      "cantilever-rack",
+      "industrial-shelving"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions",
+      "choosing-pallet-racking"
+    ],
+    "sources": [
+      {
+        "label": "CCOHS workplace inspections",
+        "url": "https://www.ccohs.ca/topics/programs/programs/inspections"
+      }
+    ]
+  },
+  {
+    "slug": "van-ladder-racks",
+    "title": "Choosing commercial van ladder racks",
+    "description": "Vehicle fit and ladder retrieval method. Practical questions and rack comparisons for a better quote.",
+    "intent": "Vehicle fit and ladder retrieval method",
+    "categoryIds": [
+      "automotive"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "A commercial ladder rack should be discussed as a vehicle-and-equipment combination. The best starting point is the exact van, the ladder and how often the user needs to retrieve it.",
+    "sections": [
+      {
+        "title": "Identify the vehicle completely",
+        "body": "Provide make, model, year, body length, roof configuration and any existing upfit. Record roof equipment and access restrictions rather than assuming a model name describes the whole vehicle. Ask for compatibility of the proposed mounting system to be confirmed. A rack intended for one body configuration is not automatically suitable for another."
+      },
+      {
+        "title": "Compare the retrieval methods",
+        "body": "A fixed exterior rack, a drop-down support and an interior ladder holder solve different access tasks. A drop-down arrangement needs operating space beside the vehicle. Interior storage uses cargo space and needs a clear removal path. Describe the actual ladder and work routine so the choice reflects access, not just storage length."
+      },
+      {
+        "title": "Confirm the complete travel arrangement",
+        "body": "Vehicle payload, ladder retention, travel locks and mounting requirements belong in the configuration review. Include other carried equipment and the loaded vehicle height where relevant to your route. Follow the selected system’s instructions; this guide provides no installation or load-setting procedure. Keep fit documentation with the vehicle when the upfit is completed."
+      }
+    ],
+    "checklist": [
+      "Exact vehicle and roof details",
+      "Ladder dimensions and retrieval frequency",
+      "Cargo layout and access restrictions"
+    ],
+    "faqs": [
+      {
+        "question": "Is an interior holder always easier to use?",
+        "answer": "Not necessarily. It consumes cargo space and needs a suitable unloading path. Compare those constraints with exterior retrieval and vehicle height before choosing."
+      }
+    ],
+    "productSlugs": [
+      "ladder-rack",
+      "drop-down-ladder-rack",
+      "interior-ladder-rack"
+    ],
+    "guideSlugs": [
+      "roof-rack-fit"
+    ],
+    "sources": [
+      {
+        "label": "Interior ladder arrangement example",
+        "url": "https://www.adriansteel.com/products/truck-equipment/ladder-racks/interior-ladder-storage/"
+      }
+    ]
+  },
+  {
+    "slug": "roof-rack-fit",
+    "title": "Checking roof rack fit",
+    "description": "Vehicle, base system and carrier compatibility. Practical questions and rack comparisons for a better quote.",
+    "intent": "Vehicle, base system and carrier compatibility",
+    "categoryIds": [
+      "automotive"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Roof bars, a vehicle fit kit and a cargo-specific carrier perform different jobs. Check the complete combination instead of treating the word universal as a fit decision.",
+    "sections": [
+      {
+        "title": "Start with the roof configuration",
+        "body": "Provide the vehicle make, model, year and roof type, including existing rails or mounting points. Identify any factory equipment already fitted. A manufacturer fit guide can help check a specific combination, but a generic rack page cannot establish compatibility. Keep a record of the exact system being proposed."
+      },
+      {
+        "title": "Add the cargo-specific attachment",
+        "body": "Bicycle, kayak and ski carriers contact and retain different equipment. Supply the actual equipment dimensions and manufacturer guidance. Check the carrier-to-bar interface as well as vehicle fit. Clearance around a hatch or other moving part matters, and the complete loaded height needs consideration for the places where the vehicle will travel."
+      },
+      {
+        "title": "Use the governing instructions",
+        "body": "Confirm the limits and instructions for the vehicle, base rack and carrier together, including the weight of the system itself. Do not apply one product’s rating to a different combination. Loading, restraint and ongoing checks must follow the selected equipment documentation. A quote request should identify uncertainties instead of estimating an allowable load."
+      }
+    ],
+    "checklist": [
+      "Vehicle and roof type",
+      "Existing bar or rail identification",
+      "Exact carried equipment"
+    ],
+    "faqs": [
+      {
+        "question": "Does a compatible bar prove every carrier will fit?",
+        "answer": "No. The carrier interface, cargo and vehicle clearances still need checking. Compatibility must cover the whole proposed combination."
+      }
+    ],
+    "productSlugs": [
+      "roof-rack",
+      "roof-bike-rack",
+      "kayak-carrier"
+    ],
+    "guideSlugs": [
+      "van-ladder-racks"
+    ],
+    "sources": [
+      {
+        "label": "Manufacturer vehicle fit workflow",
+        "url": "https://www.thule.com/en-us/buyers-guide-info"
+      }
+    ]
+  },
+  {
+    "slug": "overhead-garage-racks",
+    "title": "Planning overhead garage storage",
+    "description": "Access frequency and mounting assessment. Practical questions and rack comparisons for a better quote.",
+    "intent": "Access frequency and mounting assessment",
+    "categoryIds": [
+      "garage"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Overhead storage trades floor space for a different access task. Decide what belongs above you, how it will be retrieved and whether the actual structure can support the selected installation.",
+    "sections": [
+      {
+        "title": "Choose items by access frequency",
+        "body": "List seasonal containers separately from tools or equipment used every day. Record container dimensions and actual loaded weights. Repeatedly lifting awkward items overhead may be a poor match for the task even when the footprint appears attractive. Consider wall or floor storage for items that need frequent access."
+      },
+      {
+        "title": "Document the moving clearances",
+        "body": "Record the garage door and opener arrangement, ceiling services, lighting and the space occupied by a parked vehicle. Include the complete door movement, not just its closed position. A photo can communicate the layout, but measurements and construction information are needed to assess a proposed rack. Keep the retrieval route part of the brief."
+      },
+      {
+        "title": "Get mounting suitability assessed",
+        "body": "The structure, connection details and selected product instructions determine installation requirements. Do not assume ceiling finishes reveal structural members or adequate support. Obtain an appropriate assessment and follow the product-specific instructions. This guide gives no anchoring schedule or load capacity. Preserve installation information for future changes to the stored items."
+      }
+    ],
+    "checklist": [
+      "Loaded container dimensions and weights",
+      "Door movement and ceiling obstructions",
+      "Structure information and retrieval method"
+    ],
+    "faqs": [
+      {
+        "question": "Can the published rack capacity alone approve my ceiling?",
+        "answer": "No. The supporting structure and installation must also be suitable for the actual configuration. Ask for those conditions to be assessed."
+      }
+    ],
+    "productSlugs": [
+      "overhead-storage",
+      "wall-storage",
+      "pantry-rack"
+    ],
+    "guideSlugs": [
+      "bicycle-storage"
+    ],
+    "sources": [
+      {
+        "label": "General storage and support checks",
+        "url": "https://www.ccohs.ca/oshanswers/hsprograms/checklist/list_mft.html"
+      }
+    ]
+  },
+  {
+    "slug": "bicycle-storage",
+    "title": "Choosing bicycle storage for shared spaces",
+    "description": "Floor, wall and lifting access tradeoffs. Practical questions and rack comparisons for a better quote.",
+    "intent": "Floor, wall and lifting access tradeoffs",
+    "categoryIds": [
+      "garage"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Bicycle storage should fit both the bicycles and the people retrieving them. A compact parking arrangement is only useful if users can reach their own bicycle without an awkward lift or blocked aisle.",
+    "sections": [
+      {
+        "title": "List the real bicycle mix",
+        "body": "Record tire widths, wheel sizes, handlebars, accessories and any unusually heavy bicycles. Include how often each is used. A frame or wheel contact that suits one bicycle may not suit another, and fenders or child seats can change the clearance needed. Ask for compatibility rather than assuming one holder suits all bikes."
+      },
+      {
+        "title": "Compare floor and wall access",
+        "body": "Floor parking can avoid lifting but uses a different footprint. Wall arrangements may free floor area while requiring lifting and suitable wall support. Assess the entire retrieval movement, including handlebars passing adjacent bicycles. In shared spaces, include users who cannot comfortably lift their bicycle and identify an accessible alternative in the layout."
+      },
+      {
+        "title": "Keep parking and security distinct",
+        "body": "A place to stand or hang a bicycle does not automatically provide a suitable locking point or theft protection. Describe any security requirement separately and confirm the selected product’s intended use. Vehicle bicycle carriers are for a different task and should not be treated as indoor parking systems without manufacturer support."
+      }
+    ],
+    "checklist": [
+      "Bicycle dimensions and accessories",
+      "User lifting and access needs",
+      "Parking and locking requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Can a vehicle bike carrier serve as permanent room storage?",
+        "answer": "That is a different use. Confirm the manufacturer’s intended application and suitable support rather than assuming transport equipment is an approved room fixture."
+      }
+    ],
+    "productSlugs": [
+      "bicycle-storage",
+      "wall-storage"
+    ],
+    "guideSlugs": [
+      "overhead-garage-racks"
+    ],
+    "sources": [
+      {
+        "label": "Equipment compatibility principle",
+        "url": "https://www.thule.com/en-us/buyers-guide-info"
+      }
+    ]
+  },
+  {
+    "slug": "garment-racks",
+    "title": "Choosing garment racks for shops and events",
+    "description": "Display browsing versus backstage handling. Practical questions and rack comparisons for a better quote.",
+    "intent": "Display browsing versus backstage handling",
+    "categoryIds": [
+      "retail"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "A garment rack for browsing and a rack for handling a wardrobe have different priorities. Start with who uses the rail, what hangs on it and how garments move through the space.",
+    "sections": [
+      {
+        "title": "Separate display from handling",
+        "body": "A four-way or round rack can present selected garments to shoppers; a straight backstage rail may prioritize grouping and rapid retrieval. Long garments, bulky outerwear and packaged stock need different clearance. Describe garment formats and grouping rather than estimating capacity from rail length alone. Include the space used while customers or staff select an item."
+      },
+      {
+        "title": "Evaluate movement honestly",
+        "body": "If racks move, record door widths, thresholds and where they will park. A wheeled base does not automatically establish safe loaded movement or road transport. Ask about the selected configuration, load distribution and retention. If the fixture stays in one place, a stable browsing layout may matter more than folding or compact storage."
+      },
+      {
+        "title": "Plan the return path",
+        "body": "For events, explain how garments are identified and returned; for shops, describe replenishment from the stockroom. Separate coats arriving from guests from a backstage wardrobe prepared in advance. Include accessible circulation and the venue or store requirements. Do not infer a garment count, availability or rental service from a general catalogue type."
+      }
+    ],
+    "checklist": [
+      "Garment formats and groupings",
+      "Static or moving use",
+      "Issue, browsing and return route"
+    ],
+    "faqs": [
+      {
+        "question": "Does a longer rail always mean more usable storage?",
+        "answer": "No. Garment bulk, access, support and the selected configuration affect the usable arrangement. Supply an inventory and handling plan rather than a guessed count."
+      }
+    ],
+    "productSlugs": [
+      "garment-rack",
+      "four-way-clothing-rack",
+      "event-garment-rack"
+    ],
+    "guideSlugs": [
+      "retail-fixtures",
+      "event-coat-racks"
+    ],
+    "sources": [
+      {
+        "label": "Retail fixture families",
+        "url": "https://www.storesupply.com/"
+      }
+    ]
+  },
+  {
+    "slug": "retail-fixtures",
+    "title": "Comparing retail display fixtures",
+    "description": "Gondola, gridwall and slatwall layouts. Practical questions and rack comparisons for a better quote.",
+    "intent": "Gondola, gridwall and slatwall layouts",
+    "categoryIds": [
+      "retail"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Choose a display fixture around how merchandise is seen, reached and replenished. The same floor area can support very different browsing patterns depending on the fixture family.",
+    "sections": [
+      {
+        "title": "Compare fixture interfaces",
+        "body": "Gondola shelving creates shelf faces along a freestanding run. Gridwall and slatwall use compatible attachments to present different merchandise, with wall and freestanding arrangements depending on the selected system. Fittings are not interchangeable simply because they look similar. Supply the actual products and presentation method before choosing an interface."
+      },
+      {
+        "title": "Look beyond the stocked footprint",
+        "body": "Include the space customers use while selecting items, replenishment access and visibility across the store. A turning display needs an operating envelope, not just a base dimension. Describe whether staff can restock during opening hours and where extra cartons wait. Customer circulation should be reviewed against the premises and applicable requirements."
+      },
+      {
+        "title": "Distinguish the shop from the stockroom",
+        "body": "Backroom shelves may prioritize labelled reserve containers; display fixtures prioritize merchandise presentation. Specify each task separately if both are needed. Wall-based systems require suitable mounting assessment, while freestanding units require configuration-specific stability and loading review. A finish or retail label does not establish capacity, compatibility or suitability for every product."
+      }
+    ],
+    "checklist": [
+      "Merchandise dimensions and display method",
+      "Customer and replenishment circulation",
+      "Wall or freestanding conditions"
+    ],
+    "faqs": [
+      {
+        "question": "Can accessories be mixed across fixture systems?",
+        "answer": "Only where compatibility is confirmed. Identify the system and fitting instead of assuming a matching appearance establishes a safe interface."
+      }
+    ],
+    "productSlugs": [
+      "gondola-shelving",
+      "gridwall-display",
+      "slatwall-display"
+    ],
+    "guideSlugs": [
+      "garment-racks"
+    ],
+    "sources": [
+      {
+        "label": "Slatwall fixture terminology",
+        "url": "https://www.storesupply.com/retail-slatwall-displays"
+      }
+    ]
+  },
+  {
+    "slug": "power-vs-squat-racks",
+    "title": "Power racks versus squat stands",
+    "description": "Training envelope and compatible safety equipment. Practical questions and rack comparisons for a better quote.",
+    "intent": "Training envelope and compatible safety equipment",
+    "categoryIds": [
+      "fitness"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Power racks and squat stands organize a training position differently. The useful comparison includes the full exercise area, compatible safety equipment and the manufacturer’s intended setup.",
+    "sections": [
+      {
+        "title": "Compare the training envelope",
+        "body": "A power rack provides a frame around a lifting area, while a squat stand uses an open arrangement of supports. Half racks and folding wall racks add other layout options. Compare the complete movement, bench position and loading access rather than the base footprint alone. None of these labels establishes a suitable load for a particular product."
+      },
+      {
+        "title": "Check the system as a whole",
+        "body": "Bar dimensions, bench fit, supports, safeties and attachments must be compatible with the selected system. Equipment from another brand or range is not automatically interchangeable. Record intended exercises and the available floor and overhead space. Keep separate storage for loose equipment in the plan so it does not occupy the training area."
+      },
+      {
+        "title": "Follow installation and use requirements",
+        "body": "Mounting, anchoring and permitted configurations are product-specific. Obtain the required assessment and follow the manufacturer’s instructions; do not assume all stands are freestanding or all racks use the same fixings. This guide is for selection planning, not exercise technique or a safety certification. Arrange qualified help where setup or suitability is uncertain."
+      }
+    ],
+    "checklist": [
+      "Exercises and equipment to fit",
+      "Floor, ceiling and loading clearance",
+      "Compatible safeties and installation requirements"
+    ],
+    "faqs": [
+      {
+        "question": "Can any safety attachment fit any rack?",
+        "answer": "No. Interface dimensions alone may not establish compatibility. Use attachments approved for the exact system and follow its setup instructions."
+      }
+    ],
+    "productSlugs": [
+      "power-rack",
+      "squat-stand",
+      "half-rack"
+    ],
+    "guideSlugs": [],
+    "sources": [
+      {
+        "label": "Training frame distinctions",
+        "url": "https://www.roguefitness.com/theindex/gear-how-tos/how-to-use-a-rogue-rack-safely-effectively"
+      }
+    ]
+  },
+  {
+    "slug": "commercial-kitchen-shelving",
+    "title": "Choosing commercial kitchen shelving",
+    "description": "Cleaning, environment and container support. Practical questions and rack comparisons for a better quote.",
+    "intent": "Cleaning, environment and container support",
+    "categoryIds": [
+      "hospitality"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "The word stainless is not a complete shelving specification. Start with the stored containers, environment and cleaning process, then ask for evidence that the selected configuration suits the application.",
+    "sections": [
+      {
+        "title": "Describe the environment accurately",
+        "body": "Separate dry stock, wet cleaning areas and temperature-controlled storage in the brief. List cleaning products and procedures defined by the facility team. A finish or material name does not prove compatibility with chemicals, moisture or temperature. Provide required sanitation documentation rather than treating a general kitchen category as an approval."
+      },
+      {
+        "title": "Match supports to containers",
+        "body": "Open wire, solid shelves and pan runners support items differently. A small container base can behave differently from a rigid tray, and spill handling may influence the choice. Send container dimensions and actual loaded weights. A sheet-pan rack is not automatically an oven rack; use outside ordinary storage needs specific product confirmation."
+      },
+      {
+        "title": "Allow access for the routine work",
+        "body": "Include cleaning, replenishment and the movement of empty containers. A fixed unit and a mobile unit may need different circulation and stability arrangements. Confirm the complete configuration, including any casters or accessories, against the intended use. Keep clean and returned items separated according to the facility’s procedure rather than assuming the rack itself provides process control."
+      }
+    ],
+    "checklist": [
+      "Containers and loaded weights",
+      "Wet, dry or temperature-controlled use",
+      "Cleaning and required evidence"
+    ],
+    "faqs": [
+      {
+        "question": "Does stainless steel guarantee sanitation suitability?",
+        "answer": "No. The exact material, construction, cleaning compatibility and required approvals must be checked for the intended application."
+      }
+    ],
+    "productSlugs": [
+      "kitchen-shelving",
+      "sheet-pan-rack",
+      "cutting-board-rack"
+    ],
+    "guideSlugs": [
+      "event-coat-racks"
+    ],
+    "sources": [
+      {
+        "label": "Commercial shelving selection factors",
+        "url": "https://metro.com/blog/metros-ultimate-commercial-shelving-buying-guide-/"
+      }
+    ]
+  },
+  {
+    "slug": "server-rack-sizing",
+    "title": "Sizing a server or network rack",
+    "description": "Mounting depth, height and cable/airflow access. Practical questions and rack comparisons for a better quote.",
+    "intent": "Mounting depth, height and cable/airflow access",
+    "categoryIds": [
+      "technology"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Rack-unit height is only one part of equipment fit. A useful server or network rack brief includes mounting depth, support interfaces, connections, heat and the route used for servicing.",
+    "sections": [
+      {
+        "title": "Build an equipment list",
+        "body": "Record each device’s mounting requirements, depth, weight and connection locations from its documentation. Include shelves and accessories needed for equipment that does not mount directly. Distinguish usable mounting depth from the outside cabinet dimension. Planned expansion should be described as actual equipment needs rather than an arbitrary allowance that hides an underspecified fit."
+      },
+      {
+        "title": "Compare access and enclosure",
+        "body": "An open frame can offer access where the room already controls entry; an enclosure adds its own boundary but needs airflow and cable planning. Wall-mounted devices require suitable wall and mounting assessment. Swing-out and slide-out frames need movement space and compatible cable routing. No enclosure label establishes cooling or environmental performance by itself."
+      },
+      {
+        "title": "Review the full room interface",
+        "body": "Include front and rear service space, door swing, delivery route and electrical or cooling requirements for review by the responsible specialists. Confirm mounting rails, shelves and accessories as a system. Battery equipment can impose additional requirements and needs its own qualified assessment. Do not infer compatibility simply because two items share a nominal rack width."
+      }
+    ],
+    "checklist": [
+      "Device documentation and support interfaces",
+      "Mounting depth and rear connections",
+      "Room access, power and thermal needs"
+    ],
+    "faqs": [
+      {
+        "question": "Is outside cabinet depth the usable mounting depth?",
+        "answer": "Not necessarily. Check the specified mounting range and allowance for connections, doors and airflow for the actual equipment."
+      }
+    ],
+    "productSlugs": [
+      "server-cabinet",
+      "four-post-open-rack",
+      "swing-out-wall-rack"
+    ],
+    "guideSlugs": [
+      "warehouse-layout-questions"
+    ],
+    "sources": [
+      {
+        "label": "Mounting depth and accessory compatibility",
+        "url": "https://www.startech.com/en-us/server-management/4postrack42"
+      }
+    ]
+  },
+  {
+    "slug": "event-coat-racks",
+    "title": "Planning event coat rack storage",
+    "description": "Arrival queues, retrieval and off-event storage. Practical questions and rack comparisons for a better quote.",
+    "intent": "Arrival queues, retrieval and off-event storage",
+    "categoryIds": [
+      "events"
+    ],
+    "published": true,
+    "updatedAt": "2026-10-15",
+    "intro": "Event coat storage is a retrieval process, not just a collection of rails. Describe arrivals, identification, collection and the space used by staff before selecting rack quantities.",
+    "sections": [
+      {
+        "title": "Estimate the actual coat task",
+        "body": "Guest numbers alone do not define hanging space: season, garment bulk, bags and the event format affect what arrives. Provide an expected item mix and identify uncertainty. Avoid converting a rail length into a guaranteed guest count. The selected configuration needs its own support and loading review."
+      },
+      {
+        "title": "Plan arrival and collection separately",
+        "body": "Coats may arrive over a long period and be collected in a short rush. Describe queue space, staff access and the identification method used by the organizer. Keep the public route and staff retrieval route clear in the layout. Venue requirements, accessible circulation and exits must be reviewed with the responsible venue contact."
+      },
+      {
+        "title": "Include the non-event hours",
+        "body": "Explain where racks are stored before and after the event, how they reach the room and whether they move while loaded. Doorways, thresholds and lifts can decide whether a nominally portable rack works for the task. Rental, delivery and setup options require confirmation for the dates and location; a generic type does not establish availability."
+      }
+    ],
+    "checklist": [
+      "Item mix and arrival pattern",
+      "Identification and collection flow",
+      "Venue access, dates and storage"
+    ],
+    "faqs": [
+      {
+        "question": "Can I request rental from a general rack page?",
+        "answer": "You can include dates and requirements in the enquiry. Rental sourcing and any delivery or setup depend on the location, configuration and confirmed availability."
+      }
+    ],
+    "productSlugs": [
+      "event-coat-rack",
+      "event-garment-rack"
+    ],
+    "guideSlugs": [
+      "garment-racks"
+    ],
+    "sources": [
+      {
+        "label": "Garment fixture terminology",
+        "url": "https://www.storesupply.com/"
+      }
+    ]
+  }
+]

@@ -4,8 +4,8 @@ import seed from '../src/content/en/products.json';
 import {productSchema} from '../src/lib/product-schema';
 import {validateCatalogueImport} from '../src/lib/catalogue-import';
 const first=seed[0];
-test('all 88 generic types validate across eight divisions',()=>{
- const result=validateCatalogueImport(seed);assert.equal(result.length,88);assert.equal(new Set(result.map(p=>p.categoryId)).size,8);
+test('all 112 generic types validate across eight divisions',()=>{
+ const result=validateCatalogueImport(seed);assert.equal(result.length,112);assert.equal(new Set(result.map(p=>p.categoryId)).size,8);
  assert.ok(result.every(p=>p.status==='example-type'&&!p.capacity&&!p.availability));
 });
 test('generic types reject technical claims and supplier identifiers',()=>{
