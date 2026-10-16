@@ -34,3 +34,10 @@ Read PHASE_2B_REPORT.md, PHASE_2B_CODEX_BRIEF.md, PHASE_2A_REPORT.md, current ro
 
 ## Definition of done
 Meaningful French Canadian content and distinct regional city coverage, with preserved quote/call flows and trustworthy SEO, tested and published to GitHub.
+
+## Confirmed Quebec language preference
+- Suggest French to likely Quebec visitors on first visit, using browser language and, only if already available, coarse province context. Do not require precise location or intrusive tracking.
+- Offer a dismissible accessible prompt, not a forced redirect. Always show EN / FR switcher. Remember explicit selection; never override it based on location.
+- Use /fr/ only for actual translated pages, with reciprocal hreflang and self-canonicals. Preserve the equivalent page when switching, or navigate to an appropriate locale hub if unavailable.
+- French CTAs: DEMANDER UNE SOUMISSION and APPELEZ-NOUS. Preserve tel:+18336969996 and info@nicerack.ca.
+- Test French-browser/Quebec scenario, English-browser scenario, returning visitor, manual override, untranslated routes, keyboard and mobile UX.
