@@ -1,3 +1,4 @@
+import {PlacementImage} from '@/components/placement-image';
 import {Suspense} from 'react';
 import Link from 'next/link';
 import {notFound,permanentRedirect} from 'next/navigation';
@@ -23,6 +24,7 @@ export default async function FrenchPage({params}:{params:Promise<Params>}){cons
  if(section==='soumission'&&segments.length===1)return <div className="page-shell fr-page"><FrenchCrumbs title="Soumission" path={path}/><FrenchIntro title="Parlez-nous de votre projet." intro="Décrivez les objets à ranger, les dimensions disponibles et le lieu. Nous utiliserons ces renseignements pour examiner votre demande."/><div className="quote-layout"><Suspense fallback={<p>Chargement du formulaire…</p>}><FrenchQuoteForm/></Suspense><aside className="quote-aside"><h2>Les détails utiles</h2><ul><li>Dimensions et poids des objets</li><li>Lieu, accès et calendrier souhaité</li><li>Équipements et documents existants</li></ul><p>Les modalités et la disponibilité sont confirmées dans une soumission. Ne transmettez pas de renseignements sensibles.</p><a className="call-now" href="tel:+18336969996">APPELEZ-NOUS<br/>(833) 696-9996</a></aside></div></div>;
  const item=data(segments);if(!item)notFound();const title=titleOf(item);const category='categoryId'in item?item.categoryId:section==='categories'&&'id'in item?item.id:undefined;
  return <div className="page-shell fr-page"><FrenchCrumbs title={title} path={path} hub={slug?[hubs[section].title,'/fr/'+section]:undefined}/><FrenchIntro title={title} intro={item.intro}/>{!['confidentialite','conditions'].includes(section)&&<FrenchCTA path={path} category={category} product={section==='produits'&&'id'in item?item.id:undefined} city={section==='villes'&&'name'in item?item.name:undefined}/>}
+ {slug&&section==='produits'&&<PlacementImage placement={path}/>}
  {!slug&&section==='produits'&&<Suspense fallback={<p>Chargement des filtres…</p>}><FrenchCatalogue/></Suspense>}
  {!slug&&section==='categories'&&<FrenchCards items={categories.map(c=>({title:c.name,intro:c.intro,path:'/fr/categories/'+c.slug}))}/>}
  {!slug&&section==='guides'&&<FrenchCards items={guides.map(g=>({title:g.title,intro:g.intro,path:'/fr/guides/'+g.slug}))}/>}
