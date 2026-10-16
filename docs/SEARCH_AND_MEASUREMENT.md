@@ -1,6 +1,6 @@
 # Search ownership and measurement
 
-Phase 2D prepares search discovery; it does not claim search-account ownership, sitemap submission, indexing or ranking results.
+Search ownership and sitemap submissions were completed on October 16, 2026. See [the submission report](../SEARCH_INDEXING_REPORT.md) for verified results. Submission does not guarantee indexing or ranking.
 
 ## Google Search Console
 
@@ -12,7 +12,7 @@ Official instructions: [ownership verification](https://support.google.com/webma
 
 ## Bing Webmaster Tools
 
-In the owner's account, add `https://nicerack.ca/` and use Bing's supplied verification method, or import an already verified Search Console property with the owner's authorization. Submit `https://nicerack.ca/sitemap.xml` and check retrieval and URL inspection. No verification files, tokens, or account access were available or installed in this release.
+In the owner's account, add `https://nicerack.ca/` and use Bing's supplied verification method, or import an already verified Search Console property with the owner's authorization. Submit `https://nicerack.ca/sitemap.xml` and check retrieval and URL inspection. The property is now verified with `public/BingSiteAuth.xml`; retain this file in every deployment. Google uses `public/google4366093f64d8b6de.html` for its verified HTTPS URL-prefix property; retain that file too.
 
 Official instructions: [add and verify](https://www.bing.com/webmasters/help/add-and-verify-site-12184f8b), [sitemaps](https://www2.bing.com/webmasters/help/sitemaps-3b5cf6ed).
 
