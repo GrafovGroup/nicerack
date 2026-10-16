@@ -21,3 +21,17 @@
 5. Verify public pages, assets and responsive layout over HTTPS.
 
 Local validation: lint passed, 11 tests passed, production build passed. Production build uses indexable metadata and general product types without invented specifications. Local preview remains available on port 3000. GitHub publication is tracked in PHASE_1A_REPORT.md.
+
+## Phase 1C deployment handoff
+
+Phase 1C is published source only; no WHC redeployment, DNS mutation or live test email was performed. The deployment observations above are historical checks, not renewed confirmation. Before deploying the current build:
+
+1. Recheck registry delegation, public A/CNAME and MX records. Preserve the user's existing automatic forwarding. Resolve delegation with WHC if public DNS still points elsewhere.
+2. Verify trusted HTTPS for both apex and www, then canonical redirection. Do not bypass certificate validation.
+3. Deploy the tested build with the existing sendmail transport and fixed info@nicerack.ca recipient. Keep the rate directory outside the document root, writable only by the application account. No enquiry content is stored there.
+4. Counters now use hashed normalized email (5/hour) and, optionally, verified proxy IP (20/hour). Leave TRUSTED_CLIENT_IP_HEADER unset until WHC confirms the proxy overwrites that header; never trust arbitrary X-Forwarded-For. Email-only throttling can be bypassed by rotating addresses, so proxy verification and host-level abuse controls remain an operational check.
+5. Counters expire logically after one hour; files are not automatically deleted. During maintenance with workers stopped, remove obsolete counters and orphaned .lock/.tmp files. A worker crash can leave a lock and block that key until cleanup. Never remove active locks while workers are running.
+6. With explicit authorization, submit a uniquely identified enquiry and confirm receipt in the real info@nicerack.ca destination, Reply-To, context, spam placement and forwarding. A 200 response means sendmail accepted the message, not final inbox delivery. Reconcile uncertain timeout failures by reference/context before resubmitting to avoid duplicates.
+7. Verify public quote prefill, blank quantity, mobile layout, invalid-input handling and the email alternative. Enable delivery only after operational verification. The existing WHC environment was previously enabled; this phase does not alter it.
+
+No working business phone has been confirmed, so current source uses email CTAs. No new imagery was introduced.
