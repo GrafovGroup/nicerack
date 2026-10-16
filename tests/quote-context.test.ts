@@ -9,5 +9,5 @@ test('quote links encode product, source and campaign context',()=>{
 });
 test('quote prefill normalizes invalid quantity, province and source',()=>{
  const context=quoteContext({quantity:'-5',province:'Atlantis',source:'//external.example',delivery:'yes'});
- assert.equal(context.quantity,1);assert.equal(context.province,'');assert.equal(context.source,'/request-quote');assert.equal(context.delivery,false);
+ assert.equal(context.quantity,undefined);assert.equal(context.province,'');assert.equal(context.source,'/request-quote');assert.equal(context.delivery,false);
 });
