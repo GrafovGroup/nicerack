@@ -1,0 +1,22 @@
+{
+  "A": [
+    "51.161.57.68"
+  ],
+  "NS": [
+    "parking2.whc.ca.",
+    "parking1.whc.ca."
+  ],
+  "MX": [
+    "10 mx2.forwardemail.net.",
+    "10 mx1.forwardemail.net."
+  ],
+  "TXT": {
+    "spfPresent": true,
+    "forwardEmailVerificationPresent": true
+  },
+  "wwwCNAME": "nicerack.ca.",
+  "http://nicerack.ca/products/pallet-racking?quantity=2": "HTTP/1.1 308 Permanent Redirect\nConnection: Keep-Alive\nKeep-Alive: timeout=5, max=100\nDate: Fri, 16 Oct 2026 02:02:26 GMT\nServer: LiteSpeed\nLocation: https://nicerack.ca/products/pallet-racking?quantity=2\n\n",
+  "http://www.nicerack.ca/fr?utm_campaign=release": "HTTP/1.1 308 Permanent Redirect\nConnection: Keep-Alive\nKeep-Alive: timeout=5, max=100\nDate: Fri, 16 Oct 2026 02:02:27 GMT\nServer: LiteSpeed\nLocation: https://nicerack.ca/fr?utm_campaign=release\n\n",
+  "https://www.nicerack.ca/fr?utm_campaign=release": "HTTP/2 308 \ndate: Fri, 16 Oct 2026 02:02:27 GMT\nserver: LiteSpeed\nlocation: https://nicerack.ca/fr?utm_campaign=release\nalt-svc: h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000\n\n",
+  "https://nicerack.ca": "HTTP/2 200 \nvary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\nx-nextjs-cache: HIT\nx-nextjs-prerender: 1\nx-nextjs-stale-time: 300\ncache-control: s-maxage=31536000\netag: \"e0cm5e1zua199e\"\ncontent-type: text/html; charset=utf-8\ncontent-length: 58693\ndate: Fri, 16 Oct 2026 02:02:27 GMT\nserver: LiteSpeed\nalt-svc: h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000\n\n"
+}

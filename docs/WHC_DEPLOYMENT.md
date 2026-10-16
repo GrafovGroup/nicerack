@@ -56,3 +56,9 @@ In a controlled maintenance operation, move the current `.next` aside and restor
 ### Remaining operational verification
 
 The business phone is confirmed as (833) 696-9996; actual call routing has not been tested. Telephone structured data remains omitted. A live quote test and final receipt at info@nicerack.ca require separate authorization; no such message was sent. Existing transport enablement was preserved, but acceptance and receipt are not claimed verified. Proxy-header trust and rate-counter maintenance guidance above still applies.
+
+## Phase 2D — current public deployment (supersedes earlier status)
+
+Phases 2A–2C deployed October 15, 2026 with explicit user authorization. Current build `ykMepqQd3Y9KQEpmcjeNW`; 255 public sitemap pages and 540 internal targets passed audit. Archive `/home/nvfglyl5/nicerack-phase-2d.zip`, SHA-256 `8b1991f51af50bc7b7fc683754d2d8a4759b21976a2ba748c65a1c747df0d564`. Private stage `nicerack-stage-2d`; rollback backup `nicerack-backup-before-2d` contains Phase 1D app and domain routing. Runtime, environment, mail, DNS, certificates and private rate storage retained. Restore four app paths from this backup and restart Passenger for rollback; preserve runtime and mail configuration.
+
+Owner confirmed real phone and French review checks in chat. Owner declined test emails; receipt/forwarding/spam/Reply-To acceptance remains unverified. No test sent. This supersedes previous “not deployed” status in historical phase reports without rewriting their historical observations. Full evidence and limits: [Phase 2D report](../PHASE_2D_REPORT.md).
