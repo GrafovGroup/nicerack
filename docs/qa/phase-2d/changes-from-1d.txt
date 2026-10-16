@@ -1,0 +1,86 @@
+ PHASE_2A_CODEX_BRIEF.md                     |   49 +
+ PHASE_2A_REPORT.md                          |  156 ++
+ PHASE_2B_CODEX_BRIEF.md                     |   28 +
+ PHASE_2B_REPORT.md                          |  154 ++
+ PHASE_2C_CODEX_BRIEF.md                     |   43 +
+ PHASE_2C_REPORT.md                          |  153 ++
+ PHASE_2D_CODEX_BRIEF.md                     |   32 +
+ README.md                                   |   18 +-
+ docs/ASSET_USAGE.md                         |    8 +
+ docs/CATALOGUE_EDITING.md                   |   14 +-
+ docs/CATALOGUE_RESEARCH.md                  |   43 +
+ docs/EDITORIAL_EDITING.md                   |   41 +
+ docs/PHASE_2B_INTENT_MATRIX.md              |   81 +
+ docs/PHASE_2C_INTENT_MATRIX.md              |  163 ++
+ docs/qa/phase-2a/mobile-320-faq.png         |  Bin 0 -> 34417 bytes
+ docs/qa/phase-2a/product-desktop.png        |  Bin 0 -> 78695 bytes
+ docs/qa/phase-2b/city-mobile-390.png        |  Bin 0 -> 47368 bytes
+ docs/qa/phase-2b/comparison-mobile-390.png  |  Bin 0 -> 42265 bytes
+ docs/qa/phase-2b/guide-mobile-320.png       |  Bin 0 -> 41131 bytes
+ docs/qa/phase-2b/route-audit.json           |   31 +
+ docs/qa/phase-2b/toronto-desktop.png        |  Bin 0 -> 67281 bytes
+ docs/qa/phase-2c/aliases-and-404.json       |   32 +
+ docs/qa/phase-2c/browser-checks.md          |   14 +
+ docs/qa/phase-2c/build.txt                  |   65 +
+ docs/qa/phase-2c/french-home-desktop.png    |  Bin 0 -> 56784 bytes
+ docs/qa/phase-2c/lint.txt                   |    1 +
+ docs/qa/phase-2c/montreal-mobile-390.png    |  Bin 0 -> 45838 bytes
+ docs/qa/phase-2c/route-audit.json           |   33 +
+ docs/qa/phase-2c/tests.txt                  |   66 +
+ docs/qa/phase-2c/typecheck.txt              |    1 +
+ scripts/audit-site.py                       |   77 +
+ src/app/{ => (en)}/[page]/page.tsx          |    2 +-
+ src/app/(en)/categories/[slug]/page.tsx     |   12 +
+ src/app/{ => (en)}/categories/page.tsx      |    0
+ src/app/{ => (en)}/compare/page.tsx         |    0
+ src/app/(en)/guides/[slug]/page.tsx         |   11 +
+ src/app/(en)/guides/page.tsx                |    9 +
+ src/app/{ => (en)}/layout.tsx               |    4 +-
+ src/app/(en)/locations/[slug]/page.tsx      |   11 +
+ src/app/(en)/locations/page.tsx             |    8 +
+ src/app/{ => (en)}/not-found.tsx            |    0
+ src/app/{ => (en)}/page.tsx                 |    0
+ src/app/{ => (en)}/products/[slug]/page.tsx |    8 +-
+ src/app/{ => (en)}/products/page.tsx        |    0
+ src/app/{ => (en)}/request-quote/page.tsx   |    0
+ src/app/categories/[slug]/page.tsx          |   10 -
+ src/app/fr/[[...segments]]/page.tsx         |   37 +
+ src/app/fr/comparer/page.tsx                |    5 +
+ src/app/fr/layout.tsx                       |    7 +
+ src/app/fr/not-found.tsx                    |    2 +
+ src/app/globals.css                         |    9 +
+ src/app/sitemap.ts                          |    4 +-
+ src/components/catalogue/tracked-link.tsx   |    3 +-
+ src/components/editorial.tsx                |   27 +
+ src/components/fr-catalogue.tsx             |    9 +
+ src/components/fr-content.tsx               |    7 +
+ src/components/fr-header.tsx                |    7 +
+ src/components/fr-quote-form.tsx            |   16 +
+ src/components/header.tsx                   |    5 +-
+ src/components/language-control.tsx         |    8 +
+ src/content/en/catalogue.ts                 |    1 +
+ src/content/en/category-guidance.json       |  114 ++
+ src/content/en/editorial.ts                 |   39 +
+ src/content/en/guides.json                  |  717 +++++++++
+ src/content/en/locations.json               | 2204 +++++++++++++++++++++++++++
+ src/content/en/products.json                | 2160 +++++++++++++++++++++++++-
+ src/content/fr/categories.json              |  186 +++
+ src/content/fr/cities.json                  |  542 +++++++
+ src/content/fr/guides.json                  |  314 ++++
+ src/content/fr/info.json                    |    5 +
+ src/content/fr/products.json                |  578 +++++++
+ src/lib/french-form.ts                      |    2 +
+ src/lib/lead-delivery.ts                    |    2 +-
+ src/lib/locale.ts                           |   14 +
+ src/lib/quote.ts                            |    2 +-
+ src/lib/related-products.ts                 |    6 +
+ src/lib/site.ts                             |    3 +-
+ tests/catalogue-expansion.test.ts           |   15 +
+ tests/catalogue-schema.test.ts              |    4 +-
+ tests/catalogue-search.test.ts              |    7 +-
+ tests/editorial.test.ts                     |   13 +
+ tests/fixtures/phase-1b-routes.json         |  122 ++
+ tests/fixtures/phase-2a-routes.json         |  442 ++++++
+ tests/fixtures/phase-2b-routes.json         |  603 ++++++++
+ tests/locale.test.ts                        |   22 +
+ 85 files changed, 9586 insertions(+), 55 deletions(-)
