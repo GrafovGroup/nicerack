@@ -2718,5 +2718,39 @@
     "source": "Built-in image generation; original exec-54a22337-1e2d-4471-97d4-9b32ef1afe55.png",
     "original": "/Users/grafov/.codex/generated_images/01a141d8-6dcb-7500-bdaf-ebba24498672/exec-54a22337-1e2d-4471-97d4-9b32ef1afe55.png",
     "sha256": "efeb3a1cfd253f1435da525f20409cf50dfae22b884115258417a54e82aea570"
+  },
+  {
+    "key": "en-locations-directory",
+    "locale": "en",
+    "id": "en-locations-directory",
+    "route": "/locations",
+    "placement": "Location directory hero",
+    "output": "public/images/locations/en-directory.webp",
+    "alt": "Pallet racks beside a clear warehouse receiving aisle",
+    "prompt": "Use case: photorealistic-natural. Create one premium landscape 3:2 editorial photograph for the English Canadian locations directory of NiceRack.ca. A bright professional warehouse receiving area with blue upright steel shelving, orange beams, modest neatly boxed stock, a neatly parked unbranded pallet jack and a wide open receiving doorway showing a clean loading apron in soft morning light. Wide architectural composition, realistic construction and clear walking paths, no people, no logos, no text, no fake labels, no maps, no collage. Warm concrete and cool steel, restrained natural colour. This is a completely new scene exclusive to /locations, not a specific completed project.",
+    "src": "/images/locations/en-directory.webp",
+    "width": 1200,
+    "height": 800,
+    "source": "Built-in image generation; original exec-c0da266e-71c1-4557-b8fc-df8f8c4df301.png",
+    "original": "/Users/grafov/.codex/generated_images/01a141d8-6dcb-7500-bdaf-ebba24498672/exec-c0da266e-71c1-4557-b8fc-df8f8c4df301.png",
+    "sha256": "0e2f16061368fdf38bc606c62820f7a47f0ec76f92e009aa9920d5880189fdbb",
+    "website": "NiceRack.ca"
+  },
+  {
+    "key": "fr-locations-directory",
+    "locale": "fr",
+    "id": "fr-locations-directory",
+    "route": "/fr/villes",
+    "placement": "Location directory hero",
+    "output": "public/images/locations/fr-directory.webp",
+    "alt": "Étagères et bacs de pièces dans un atelier lumineux",
+    "prompt": "Use case: photorealistic-natural. One premium landscape 3:2 editorial photograph for French Canadian rack sourcing directory NiceRack.ca /fr/villes. A sunlit small commercial workshop receiving and assembly space, an unbranded mobile steel shelf with orderly component bins beside a freestanding gray longspan rack holding clean cardboard cartons, a closed broad loading door to the left and high clerestory windows. Eye-level diagonal composition, warm timber workbench at far right, realistic distinct equipment connections and ample clear floor. No people, words, signage, logos, maps, collage or watermark. Fresh original scene different from large warehouses and product studio shots. Generic environment, no claim of a real company project.",
+    "src": "/images/locations/fr-directory.webp",
+    "width": 1200,
+    "height": 800,
+    "source": "Built-in image generation; original exec-39ce8b44-3e59-4db6-a61d-5ae25159c606.png",
+    "original": "/Users/grafov/.codex/generated_images/01a141d8-6dcb-7500-bdaf-ebba24498672/exec-39ce8b44-3e59-4db6-a61d-5ae25159c606.png",
+    "sha256": "a8790ce5728c285d17d306f285e3627e8af123fb85e7cac023c86e639ab3cafe",
+    "website": "NiceRack.ca"
   }
 ]

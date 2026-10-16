@@ -1,0 +1,1308 @@
+[
+  {
+    "code": "BC",
+    "name": "British Columbia",
+    "nameFr": "Colombie-Britannique",
+    "slug": "british-columbia",
+    "slugFr": "colombie-britannique",
+    "heading": "Plan the final leg, not just the shipment.",
+    "headingFr": "Préparez la dernière étape de la livraison.",
+    "intro": "For island, coastal and interior destinations, include the complete receiving address and any ferry-dependent access. Separate unloading equipment from the crew needed to move and assemble the rack indoors.",
+    "introFr": "Pour les destinations insulaires, côtières et intérieures, indiquez l’adresse de réception complète et tout accès dépendant d’un traversier. Distinguez le déchargement du déplacement et du montage à l’intérieur.",
+    "checklist": [
+      "Island or mainland destination",
+      "Receiving equipment and indoor access",
+      "Shipment dimensions and assembly space"
+    ],
+    "checklistFr": [
+      "Destination insulaire ou continentale",
+      "Équipement de réception et accès intérieur",
+      "Dimensions de l’envoi et espace de montage"
+    ],
+    "cities": [
+      {
+        "name": "Vancouver",
+        "slug": "vancouver",
+        "nearby": [
+          "Richmond",
+          "Burnaby",
+          "North Vancouver",
+          "West Vancouver"
+        ]
+      },
+      {
+        "name": "Surrey",
+        "slug": "surrey",
+        "nearby": [
+          "Delta",
+          "Langley",
+          "White Rock",
+          "Coquitlam",
+          "Port Coquitlam",
+          "Port Moody",
+          "New Westminster",
+          "Maple Ridge",
+          "Pitt Meadows"
+        ]
+      },
+      {
+        "name": "Victoria",
+        "slug": "victoria",
+        "nearby": [
+          "Saanich",
+          "Langford",
+          "Colwood",
+          "Esquimalt",
+          "Sidney"
+        ]
+      },
+      {
+        "name": "Abbotsford",
+        "slug": "abbotsford",
+        "nearby": [
+          "Mission"
+        ]
+      },
+      {
+        "name": "Chilliwack",
+        "slug": "chilliwack",
+        "nearby": [
+          "Agassiz",
+          "Hope"
+        ]
+      },
+      {
+        "name": "Kelowna",
+        "slug": "kelowna",
+        "nearby": [
+          "West Kelowna",
+          "Lake Country",
+          "Peachland"
+        ]
+      },
+      {
+        "name": "Kamloops",
+        "slug": "kamloops",
+        "nearby": [
+          "Sun Peaks",
+          "Chase"
+        ]
+      },
+      {
+        "name": "Nanaimo",
+        "slug": "nanaimo",
+        "nearby": [
+          "Parksville",
+          "Qualicum Beach",
+          "Ladysmith"
+        ]
+      },
+      {
+        "name": "Prince George",
+        "slug": "prince-george",
+        "nearby": [
+          "Vanderhoof",
+          "Quesnel"
+        ]
+      },
+      {
+        "name": "Vernon",
+        "slug": "vernon",
+        "nearby": [
+          "Coldstream",
+          "Armstrong"
+        ]
+      },
+      {
+        "name": "Penticton",
+        "slug": "penticton",
+        "nearby": [
+          "Summerland",
+          "Osoyoos"
+        ]
+      },
+      {
+        "name": "Courtenay",
+        "slug": "courtenay",
+        "nearby": [
+          "Comox",
+          "Cumberland"
+        ]
+      },
+      {
+        "name": "Campbell River",
+        "slug": "campbell-river",
+        "nearby": [
+          "Port Hardy"
+        ]
+      },
+      {
+        "name": "Prince Rupert",
+        "slug": "prince-rupert",
+        "nearby": [
+          "Terrace",
+          "Kitimat"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AB",
+    "name": "Alberta",
+    "nameFr": "Alberta",
+    "slug": "alberta",
+    "slugFr": "alberta",
+    "heading": "Connect storage to the work around it.",
+    "headingFr": "Reliez le rangement aux activités de votre site.",
+    "intro": "For a city workshop or a site outside an urban centre, identify the receiving contact, site entrance and the longest item to store. Separate pallet storage, long materials and vehicle-mounted racks into their own requirements.",
+    "introFr": "Pour un atelier urbain ou un site éloigné du centre, précisez le contact de réception, l’entrée et l’objet le plus long à ranger. Décrivez séparément les palettes, les matériaux longs et les supports pour véhicules.",
+    "checklist": [
+      "Site address and gate instructions",
+      "Longest items and loaded weights",
+      "Delivery equipment and installation scope"
+    ],
+    "checklistFr": [
+      "Adresse et consignes d’entrée",
+      "Objets les plus longs et poids chargés",
+      "Équipement de livraison et travaux prévus"
+    ],
+    "cities": [
+      {
+        "name": "Calgary",
+        "slug": "calgary",
+        "nearby": [
+          "Airdrie",
+          "Cochrane",
+          "Okotoks",
+          "Chestermere",
+          "High River"
+        ]
+      },
+      {
+        "name": "Edmonton",
+        "slug": "edmonton",
+        "nearby": [
+          "St. Albert",
+          "Sherwood Park",
+          "Spruce Grove",
+          "Stony Plain",
+          "Leduc",
+          "Fort Saskatchewan",
+          "Beaumont"
+        ]
+      },
+      {
+        "name": "Red Deer",
+        "slug": "red-deer",
+        "nearby": [
+          "Lacombe",
+          "Blackfalds",
+          "Sylvan Lake"
+        ]
+      },
+      {
+        "name": "Lethbridge",
+        "slug": "lethbridge",
+        "nearby": [
+          "Coaldale",
+          "Taber"
+        ]
+      },
+      {
+        "name": "Medicine Hat",
+        "slug": "medicine-hat",
+        "nearby": [
+          "Redcliff"
+        ]
+      },
+      {
+        "name": "Grande Prairie",
+        "slug": "grande-prairie",
+        "nearby": [
+          "Clairmont",
+          "Beaverlodge"
+        ]
+      },
+      {
+        "name": "Fort McMurray",
+        "slug": "fort-mcmurray",
+        "nearby": [
+          "Anzac"
+        ]
+      },
+      {
+        "name": "Camrose",
+        "slug": "camrose",
+        "nearby": [
+          "Wetaskiwin"
+        ]
+      },
+      {
+        "name": "Lloydminster (Alberta)",
+        "slug": "lloydminster-alberta",
+        "nearby": [
+          "Vermilion",
+          "Wainwright"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SK",
+    "name": "Saskatchewan",
+    "nameFr": "Saskatchewan",
+    "slug": "saskatchewan",
+    "slugFr": "saskatchewan",
+    "heading": "Make rural receiving details part of the brief.",
+    "headingFr": "Précisez la réception en milieu rural.",
+    "intro": "Include a civic address or clear site directions for destinations outside town. A rack for parts picked by hand needs a different brief from pallet positions or long stock; identify the handling method before estimating a layout.",
+    "introFr": "Indiquez l’adresse ou des indications précises pour les sites hors ville. Le rangement de pièces prélevées à la main exige des détails différents de ceux des palettes ou des matériaux longs; précisez la manutention avant de prévoir la disposition.",
+    "checklist": [
+      "Civic address and site directions",
+      "Hand-loaded versus machine-handled stock",
+      "Available unloading and staging space"
+    ],
+    "checklistFr": [
+      "Adresse et indications d’accès",
+      "Chargement manuel ou mécanique",
+      "Déchargement et espace de préparation"
+    ],
+    "cities": [
+      {
+        "name": "Saskatoon",
+        "slug": "saskatoon",
+        "nearby": [
+          "Martensville",
+          "Warman",
+          "Delisle"
+        ]
+      },
+      {
+        "name": "Regina",
+        "slug": "regina",
+        "nearby": [
+          "White City",
+          "Emerald Park",
+          "Pilot Butte",
+          "Lumsden"
+        ]
+      },
+      {
+        "name": "Prince Albert",
+        "slug": "prince-albert",
+        "nearby": [
+          "Shellbrook"
+        ]
+      },
+      {
+        "name": "Moose Jaw",
+        "slug": "moose-jaw",
+        "nearby": [
+          "Caronport"
+        ]
+      },
+      {
+        "name": "Yorkton",
+        "slug": "yorkton",
+        "nearby": [
+          "Melville"
+        ]
+      },
+      {
+        "name": "Swift Current",
+        "slug": "swift-current",
+        "nearby": [
+          "Herbert"
+        ]
+      },
+      {
+        "name": "North Battleford",
+        "slug": "north-battleford",
+        "nearby": [
+          "Battleford"
+        ]
+      },
+      {
+        "name": "Estevan",
+        "slug": "estevan",
+        "nearby": [
+          "Weyburn"
+        ]
+      },
+      {
+        "name": "Lloydminster (Saskatchewan)",
+        "slug": "lloydminster-saskatchewan",
+        "nearby": [
+          "Maidstone"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MB",
+    "name": "Manitoba",
+    "nameFr": "Manitoba",
+    "slug": "manitoba",
+    "slugFr": "manitoba",
+    "heading": "Separate everyday access from bulk storage.",
+    "headingFr": "Distinguez les accès quotidiens de la réserve.",
+    "intro": "Describe how goods move between receiving, reserve stock and the picking area. For destinations outside the main urban centres, confirm the receiving arrangements and shipment schedule for the exact address.",
+    "introFr": "Décrivez le déplacement des marchandises entre la réception, la réserve et la préparation. Pour les destinations hors des grands centres, précisez les modalités de réception et le calendrier pour l’adresse exacte.",
+    "checklist": [
+      "Reserve stock and daily picking needs",
+      "Loaded containers and handling equipment",
+      "Receiving contact and destination schedule"
+    ],
+    "checklistFr": [
+      "Réserve et prélèvements quotidiens",
+      "Contenants chargés et manutention",
+      "Contact de réception et calendrier"
+    ],
+    "cities": [
+      {
+        "name": "Winnipeg",
+        "slug": "winnipeg",
+        "nearby": [
+          "Selkirk",
+          "Steinbach",
+          "Niverville",
+          "Oakbank",
+          "Stonewall"
+        ]
+      },
+      {
+        "name": "Brandon",
+        "slug": "brandon",
+        "nearby": [
+          "Shilo",
+          "Minnedosa"
+        ]
+      },
+      {
+        "name": "Portage la Prairie",
+        "slug": "portage-la-prairie",
+        "nearby": [
+          "Southport"
+        ]
+      },
+      {
+        "name": "Winkler",
+        "slug": "winkler",
+        "nearby": [
+          "Morden",
+          "Altona"
+        ]
+      },
+      {
+        "name": "Dauphin",
+        "slug": "dauphin",
+        "nearby": [
+          "Roblin"
+        ]
+      },
+      {
+        "name": "Thompson",
+        "slug": "thompson",
+        "nearby": [
+          "Gillam"
+        ]
+      },
+      {
+        "name": "The Pas",
+        "slug": "the-pas",
+        "nearby": [
+          "Flin Flon"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ON",
+    "name": "Ontario",
+    "nameFr": "Ontario",
+    "slug": "ontario",
+    "slugFr": "ontario",
+    "heading": "Work back from the receiving door.",
+    "headingFr": "Commencez par la porte de réception.",
+    "intro": "For shared commercial buildings, confirm door openings, loading appointments and any freight elevator. For larger sites and northern destinations, add the unloading method, internal route and schedule so the proposal covers the entire journey.",
+    "introFr": "Pour les immeubles commerciaux partagés, précisez les ouvertures, les rendez-vous de livraison et le monte-charge. Pour les grands sites et les destinations du nord, ajoutez le déchargement, le trajet intérieur et le calendrier.",
+    "checklist": [
+      "Doors, elevators and loading appointments",
+      "Destination postcode and site contact",
+      "Storage task and assembly clearance"
+    ],
+    "checklistFr": [
+      "Portes, monte-charge et rendez-vous",
+      "Code postal et contact sur place",
+      "Usage et dégagement pour le montage"
+    ],
+    "cities": [
+      {
+        "name": "Toronto",
+        "slug": "toronto",
+        "nearby": [
+          "Etobicoke",
+          "Scarborough",
+          "North York",
+          "East York",
+          "York"
+        ]
+      },
+      {
+        "name": "Mississauga",
+        "slug": "mississauga",
+        "nearby": [
+          "Brampton",
+          "Caledon"
+        ]
+      },
+      {
+        "name": "Vaughan",
+        "slug": "vaughan",
+        "nearby": [
+          "Richmond Hill",
+          "Markham",
+          "King City"
+        ]
+      },
+      {
+        "name": "Newmarket",
+        "slug": "newmarket",
+        "nearby": [
+          "Aurora",
+          "Bradford",
+          "East Gwillimbury"
+        ]
+      },
+      {
+        "name": "Oshawa",
+        "slug": "oshawa",
+        "nearby": [
+          "Whitby",
+          "Ajax",
+          "Pickering",
+          "Clarington"
+        ]
+      },
+      {
+        "name": "Hamilton",
+        "slug": "hamilton",
+        "nearby": [
+          "Burlington",
+          "Ancaster",
+          "Dundas",
+          "Stoney Creek"
+        ]
+      },
+      {
+        "name": "Oakville",
+        "slug": "oakville",
+        "nearby": [
+          "Milton",
+          "Halton Hills"
+        ]
+      },
+      {
+        "name": "Kitchener",
+        "slug": "kitchener",
+        "nearby": [
+          "Waterloo",
+          "Cambridge",
+          "Woolwich"
+        ]
+      },
+      {
+        "name": "Guelph",
+        "slug": "guelph",
+        "nearby": [
+          "Fergus",
+          "Elora"
+        ]
+      },
+      {
+        "name": "London",
+        "slug": "london",
+        "nearby": [
+          "St. Thomas",
+          "Strathroy",
+          "Woodstock"
+        ]
+      },
+      {
+        "name": "Windsor",
+        "slug": "windsor",
+        "nearby": [
+          "Tecumseh",
+          "LaSalle",
+          "Amherstburg",
+          "Lakeshore"
+        ]
+      },
+      {
+        "name": "Ottawa",
+        "slug": "ottawa",
+        "nearby": [
+          "Kanata",
+          "Nepean",
+          "Orléans",
+          "Stittsville",
+          "Carleton Place"
+        ]
+      },
+      {
+        "name": "Kingston",
+        "slug": "kingston",
+        "nearby": [
+          "Gananoque",
+          "Napanee"
+        ]
+      },
+      {
+        "name": "Belleville",
+        "slug": "belleville",
+        "nearby": [
+          "Quinte West",
+          "Prince Edward County"
+        ]
+      },
+      {
+        "name": "Peterborough",
+        "slug": "peterborough",
+        "nearby": [
+          "Kawartha Lakes",
+          "Cobourg",
+          "Port Hope"
+        ]
+      },
+      {
+        "name": "Barrie",
+        "slug": "barrie",
+        "nearby": [
+          "Innisfil",
+          "Orillia",
+          "Collingwood",
+          "Wasaga Beach"
+        ]
+      },
+      {
+        "name": "St. Catharines",
+        "slug": "st-catharines",
+        "nearby": [
+          "Niagara Falls",
+          "Welland",
+          "Thorold",
+          "Niagara-on-the-Lake"
+        ]
+      },
+      {
+        "name": "Brantford",
+        "slug": "brantford",
+        "nearby": [
+          "Paris"
+        ]
+      },
+      {
+        "name": "Sarnia",
+        "slug": "sarnia",
+        "nearby": [
+          "Point Edward"
+        ]
+      },
+      {
+        "name": "Greater Sudbury",
+        "slug": "greater-sudbury",
+        "nearby": [
+          "Val Caron",
+          "Chelmsford",
+          "Lively"
+        ]
+      },
+      {
+        "name": "North Bay",
+        "slug": "north-bay",
+        "nearby": [
+          "Callander",
+          "Sturgeon Falls"
+        ]
+      },
+      {
+        "name": "Thunder Bay",
+        "slug": "thunder-bay",
+        "nearby": [
+          "Oliver Paipoonge",
+          "Kakabeka Falls"
+        ]
+      },
+      {
+        "name": "Sault Ste. Marie",
+        "slug": "sault-ste-marie",
+        "nearby": [
+          "Echo Bay"
+        ]
+      },
+      {
+        "name": "Timmins",
+        "slug": "timmins",
+        "nearby": [
+          "Cochrane",
+          "Kapuskasing"
+        ]
+      },
+      {
+        "name": "Cornwall",
+        "slug": "cornwall",
+        "nearby": [
+          "South Stormont"
+        ]
+      },
+      {
+        "name": "Owen Sound",
+        "slug": "owen-sound",
+        "nearby": [
+          "Meaford",
+          "Hanover"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "QC",
+    "name": "Quebec",
+    "nameFr": "Québec",
+    "slug": "quebec",
+    "slugFr": "quebec",
+    "heading": "Build a clear brief in your preferred language.",
+    "headingFr": "Préparez une demande claire, dans votre langue.",
+    "intro": "Prepare dimensions, loaded weights and access instructions in English or French. For shared buildings, identify the person who coordinates receiving; for regional destinations, include the complete address and handling resources.",
+    "introFr": "Préparez les dimensions, les poids chargés et les consignes d’accès en français ou en anglais. Dans un immeuble partagé, identifiez le responsable de la réception; pour une destination régionale, ajoutez l’adresse complète et les moyens de manutention.",
+    "checklist": [
+      "Preferred language and project contact",
+      "Receiving route and loaded dimensions",
+      "Delivery and installation requested separately"
+    ],
+    "checklistFr": [
+      "Langue souhaitée et contact du projet",
+      "Trajet de réception et dimensions chargées",
+      "Livraison et installation précisées séparément"
+    ],
+    "cities": [
+      {
+        "name": "Montréal",
+        "slug": "montreal",
+        "nearby": [
+          "Dorval",
+          "Pointe-Claire",
+          "Kirkland",
+          "Beaconsfield",
+          "Westmount"
+        ]
+      },
+      {
+        "name": "Laval",
+        "slug": "laval",
+        "nearby": [
+          "Terrebonne",
+          "Blainville",
+          "Boisbriand",
+          "Mirabel",
+          "Rosemère"
+        ]
+      },
+      {
+        "name": "Longueuil",
+        "slug": "longueuil",
+        "nearby": [
+          "Brossard",
+          "Boucherville",
+          "Saint-Bruno-de-Montarville",
+          "Saint-Lambert"
+        ]
+      },
+      {
+        "name": "Québec",
+        "slug": "quebec",
+        "nearby": [
+          "Lévis",
+          "L’Ancienne-Lorette",
+          "Saint-Augustin-de-Desmaures"
+        ]
+      },
+      {
+        "name": "Gatineau",
+        "slug": "gatineau",
+        "nearby": [
+          "Chelsea",
+          "Cantley",
+          "Val-des-Monts"
+        ]
+      },
+      {
+        "name": "Sherbrooke",
+        "slug": "sherbrooke",
+        "nearby": [
+          "Magog",
+          "Orford"
+        ]
+      },
+      {
+        "name": "Trois-Rivières",
+        "slug": "trois-rivieres",
+        "nearby": [
+          "Shawinigan",
+          "Bécancour"
+        ]
+      },
+      {
+        "name": "Saguenay",
+        "slug": "saguenay",
+        "nearby": [
+          "Alma",
+          "Roberval",
+          "Saint-Félicien"
+        ]
+      },
+      {
+        "name": "Drummondville",
+        "slug": "drummondville",
+        "nearby": [
+          "Saint-Germain-de-Grantham"
+        ]
+      },
+      {
+        "name": "Granby",
+        "slug": "granby",
+        "nearby": [
+          "Bromont",
+          "Cowansville"
+        ]
+      },
+      {
+        "name": "Saint-Hyacinthe",
+        "slug": "saint-hyacinthe",
+        "nearby": [
+          "Beloeil",
+          "Mont-Saint-Hilaire"
+        ]
+      },
+      {
+        "name": "Saint-Jérôme",
+        "slug": "saint-jerome",
+        "nearby": [
+          "Prévost",
+          "Saint-Sauveur",
+          "Sainte-Adèle"
+        ]
+      },
+      {
+        "name": "Saint-Jean-sur-Richelieu",
+        "slug": "saint-jean-sur-richelieu",
+        "nearby": [
+          "Chambly",
+          "Carignan"
+        ]
+      },
+      {
+        "name": "Rimouski",
+        "slug": "rimouski",
+        "nearby": [
+          "Mont-Joli",
+          "Rivière-du-Loup"
+        ]
+      },
+      {
+        "name": "Victoriaville",
+        "slug": "victoriaville",
+        "nearby": [
+          "Princeville",
+          "Plessisville"
+        ]
+      },
+      {
+        "name": "Rouyn-Noranda",
+        "slug": "rouyn-noranda",
+        "nearby": [
+          "Val-d’Or",
+          "Amos"
+        ]
+      },
+      {
+        "name": "Sept-Îles",
+        "slug": "sept-iles",
+        "nearby": [
+          "Port-Cartier",
+          "Baie-Comeau"
+        ]
+      },
+      {
+        "name": "Joliette",
+        "slug": "joliette",
+        "nearby": [
+          "Repentigny",
+          "L’Assomption"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "NB",
+    "name": "New Brunswick",
+    "nameFr": "Nouveau-Brunswick",
+    "slug": "new-brunswick",
+    "slugFr": "nouveau-brunswick",
+    "heading": "Coordinate the shipment and the receiving team.",
+    "headingFr": "Coordonnez l’envoi et l’équipe de réception.",
+    "intro": "Share the delivery address, preferred language and receiving hours. Distinguish palletized goods from hand-carried components, and tell us whether unloading equipment is available before planning a shipment.",
+    "introFr": "Indiquez l’adresse de livraison, la langue souhaitée et les heures de réception. Distinguez les palettes des composants portés à la main et précisez les moyens de déchargement disponibles.",
+    "checklist": [
+      "Receiving hours and preferred language",
+      "Palletized or loose components",
+      "Unloading equipment and indoor route"
+    ],
+    "checklistFr": [
+      "Heures de réception et langue souhaitée",
+      "Palettes ou composants séparés",
+      "Déchargement et trajet intérieur"
+    ],
+    "cities": [
+      {
+        "name": "Moncton",
+        "slug": "moncton",
+        "nearby": [
+          "Dieppe",
+          "Riverview",
+          "Shediac"
+        ]
+      },
+      {
+        "name": "Saint John",
+        "slug": "saint-john",
+        "nearby": [
+          "Quispamsis",
+          "Rothesay",
+          "Grand Bay-Westfield"
+        ]
+      },
+      {
+        "name": "Fredericton",
+        "slug": "fredericton",
+        "nearby": [
+          "Oromocto",
+          "New Maryland"
+        ]
+      },
+      {
+        "name": "Miramichi",
+        "slug": "miramichi",
+        "nearby": [
+          "Rogersville"
+        ]
+      },
+      {
+        "name": "Bathurst",
+        "slug": "bathurst",
+        "nearby": [
+          "Beresford",
+          "Caraquet"
+        ]
+      },
+      {
+        "name": "Edmundston",
+        "slug": "edmundston",
+        "nearby": [
+          "Grand Falls",
+          "Woodstock"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "NS",
+    "name": "Nova Scotia",
+    "nameFr": "Nouvelle-Écosse",
+    "slug": "nova-scotia",
+    "slugFr": "nouvelle-ecosse",
+    "heading": "Check the route from delivery to storage.",
+    "headingFr": "Vérifiez le trajet jusqu’au rangement.",
+    "intro": "For a shop, hospitality space or workshop, include stairs, doorways and the final assembly area. Identify whether coastal exposure or a damp storage environment affects the materials needed for the proposed rack.",
+    "introFr": "Pour un commerce, un établissement d’accueil ou un atelier, décrivez les escaliers, les portes et la zone de montage. Précisez si l’exposition côtière ou l’humidité influence les matériaux recherchés.",
+    "checklist": [
+      "Doorways, stairs and assembly area",
+      "Indoor or exposed environment",
+      "Receiving address and schedule"
+    ],
+    "checklistFr": [
+      "Portes, escaliers et zone de montage",
+      "Environnement intérieur ou exposé",
+      "Adresse et calendrier de réception"
+    ],
+    "cities": [
+      {
+        "name": "Halifax",
+        "slug": "halifax",
+        "nearby": [
+          "Dartmouth",
+          "Bedford",
+          "Sackville",
+          "Timberlea",
+          "Tantallon"
+        ]
+      },
+      {
+        "name": "Sydney",
+        "slug": "sydney",
+        "nearby": [
+          "Glace Bay",
+          "North Sydney",
+          "New Waterford"
+        ]
+      },
+      {
+        "name": "Truro",
+        "slug": "truro",
+        "nearby": [
+          "Stewiacke"
+        ]
+      },
+      {
+        "name": "New Glasgow",
+        "slug": "new-glasgow",
+        "nearby": [
+          "Stellarton",
+          "Pictou"
+        ]
+      },
+      {
+        "name": "Kentville",
+        "slug": "kentville",
+        "nearby": [
+          "New Minas",
+          "Wolfville"
+        ]
+      },
+      {
+        "name": "Bridgewater",
+        "slug": "bridgewater",
+        "nearby": [
+          "Lunenburg",
+          "Mahone Bay"
+        ]
+      },
+      {
+        "name": "Yarmouth",
+        "slug": "yarmouth",
+        "nearby": [
+          "Digby"
+        ]
+      },
+      {
+        "name": "Antigonish",
+        "slug": "antigonish",
+        "nearby": [
+          "Port Hawkesbury"
+        ]
+      },
+      {
+        "name": "Amherst",
+        "slug": "amherst",
+        "nearby": [
+          "Springhill"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "PE",
+    "name": "Prince Edward Island",
+    "nameFr": "Île-du-Prince-Édouard",
+    "slug": "prince-edward-island",
+    "slugFr": "ile-du-prince-edouard",
+    "heading": "Include seasonal stock in the storage plan.",
+    "headingFr": "Intégrez les stocks saisonniers au projet.",
+    "intro": "If stock or equipment changes by season, describe the largest storage requirement as well as everyday use. Confirm receiving dates and space to unpack the shipment before committing the available floor area to racks.",
+    "introFr": "Si les stocks ou les équipements varient selon la saison, décrivez le besoin maximal et l’usage quotidien. Précisez les dates de réception et l’espace de déballage avant d’attribuer toute la surface aux supports.",
+    "checklist": [
+      "Peak and everyday stock quantities",
+      "Receiving date and full address",
+      "Unpacking area and reusable packaging"
+    ],
+    "checklistFr": [
+      "Stocks maximaux et quotidiens",
+      "Date de réception et adresse complète",
+      "Déballage et emballages réutilisables"
+    ],
+    "cities": [
+      {
+        "name": "Charlottetown",
+        "slug": "charlottetown",
+        "nearby": [
+          "Stratford",
+          "Cornwall"
+        ]
+      },
+      {
+        "name": "Summerside",
+        "slug": "summerside",
+        "nearby": [
+          "Kensington",
+          "Borden-Carleton"
+        ]
+      },
+      {
+        "name": "Montague",
+        "slug": "montague",
+        "nearby": [
+          "Georgetown",
+          "Souris"
+        ]
+      },
+      {
+        "name": "Alberton",
+        "slug": "alberton",
+        "nearby": [
+          "O’Leary",
+          "Tignish"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "NL",
+    "name": "Newfoundland and Labrador",
+    "nameFr": "Terre-Neuve-et-Labrador",
+    "slug": "newfoundland-and-labrador",
+    "slugFr": "terre-neuve-et-labrador",
+    "heading": "Name the destination before setting a delivery plan.",
+    "headingFr": "Précisez la destination avant le calendrier.",
+    "intro": "Identify whether the destination is on the island of Newfoundland or in Labrador, with the full postal address. Shipment dimensions, receiving equipment and transport arrangements need to be considered together.",
+    "introFr": "Précisez si la destination se situe sur l’île de Terre-Neuve ou au Labrador, avec l’adresse postale complète. Les dimensions de l’envoi, les moyens de réception et le transport doivent être examinés ensemble.",
+    "checklist": [
+      "Island or Labrador destination",
+      "Packed dimensions and receiving equipment",
+      "Transport arrangements and requested dates"
+    ],
+    "checklistFr": [
+      "Destination insulaire ou au Labrador",
+      "Dimensions emballées et réception",
+      "Transport et dates souhaitées"
+    ],
+    "cities": [
+      {
+        "name": "St. John’s",
+        "slug": "st-johns",
+        "nearby": [
+          "Mount Pearl",
+          "Paradise",
+          "Conception Bay South",
+          "Torbay"
+        ]
+      },
+      {
+        "name": "Corner Brook",
+        "slug": "corner-brook",
+        "nearby": [
+          "Deer Lake",
+          "Pasadena"
+        ]
+      },
+      {
+        "name": "Gander",
+        "slug": "gander",
+        "nearby": [
+          "Grand Falls-Windsor"
+        ]
+      },
+      {
+        "name": "Happy Valley-Goose Bay",
+        "slug": "happy-valley-goose-bay",
+        "nearby": [
+          "North West River"
+        ]
+      },
+      {
+        "name": "Labrador City",
+        "slug": "labrador-city",
+        "nearby": [
+          "Wabush"
+        ]
+      },
+      {
+        "name": "Clarenville",
+        "slug": "clarenville",
+        "nearby": [
+          "Bonavista"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "YT",
+    "name": "Yukon",
+    "nameFr": "Yukon",
+    "slug": "yukon",
+    "slugFr": "yukon",
+    "heading": "Plan the freight handoff and indoor move.",
+    "headingFr": "Préparez le transfert du fret et le déplacement intérieur.",
+    "intro": "For northern destinations, share the full address and any carrier handoff point. Define who receives the shipment, where components can be stored before assembly and what equipment is available to unload them.",
+    "introFr": "Pour les destinations nordiques, précisez l’adresse et tout point de transfert du transporteur. Indiquez qui reçoit l’envoi, où entreposer les composants avant montage et les moyens de déchargement.",
+    "checklist": [
+      "Destination and carrier handoff",
+      "Covered staging and assembly space",
+      "Unloading resources and scheduling"
+    ],
+    "checklistFr": [
+      "Destination et transfert du transporteur",
+      "Préparation couverte et espace de montage",
+      "Déchargement et calendrier"
+    ],
+    "cities": [
+      {
+        "name": "Whitehorse",
+        "slug": "whitehorse",
+        "nearby": [
+          "Carcross",
+          "Tagish",
+          "Marsh Lake"
+        ]
+      },
+      {
+        "name": "Dawson City",
+        "slug": "dawson-city",
+        "nearby": [
+          "Mayo"
+        ]
+      },
+      {
+        "name": "Watson Lake",
+        "slug": "watson-lake",
+        "nearby": [
+          "Teslin"
+        ]
+      },
+      {
+        "name": "Haines Junction",
+        "slug": "haines-junction",
+        "nearby": [
+          "Burwash Landing"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "NT",
+    "name": "Northwest Territories",
+    "nameFr": "Territoires du Nord-Ouest",
+    "slug": "northwest-territories",
+    "slugFr": "territoires-du-nord-ouest",
+    "heading": "Confirm access for the specific community.",
+    "headingFr": "Précisez l’accès à la communauté concernée.",
+    "intro": "Provide the community, exact receiving point and proposed transport arrangements. Any seasonal or multi-stage access should be identified in the brief, along with the packed size of components and the equipment needed on arrival.",
+    "introFr": "Indiquez la communauté, le point de réception et le transport envisagé. Précisez tout accès saisonnier ou en plusieurs étapes, ainsi que les dimensions emballées et les moyens nécessaires à l’arrivée.",
+    "checklist": [
+      "Community and receiving point",
+      "Seasonal or multi-stage access",
+      "Packed component size and handling"
+    ],
+    "checklistFr": [
+      "Communauté et point de réception",
+      "Accès saisonnier ou en plusieurs étapes",
+      "Dimensions emballées et manutention"
+    ],
+    "cities": [
+      {
+        "name": "Yellowknife",
+        "slug": "yellowknife",
+        "nearby": [
+          "Dettah",
+          "Behchokǫ̀"
+        ]
+      },
+      {
+        "name": "Hay River",
+        "slug": "hay-river",
+        "nearby": [
+          "Enterprise",
+          "Fort Smith"
+        ]
+      },
+      {
+        "name": "Inuvik",
+        "slug": "inuvik",
+        "nearby": [
+          "Tuktoyaktuk"
+        ]
+      },
+      {
+        "name": "Fort Simpson",
+        "slug": "fort-simpson",
+        "nearby": [
+          "Fort Providence"
+        ]
+      },
+      {
+        "name": "Norman Wells",
+        "slug": "norman-wells",
+        "nearby": [
+          "Tulita"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "NU",
+    "name": "Nunavut",
+    "nameFr": "Nunavut",
+    "slug": "nunavut",
+    "slugFr": "nunavut",
+    "heading": "Build the rack brief around the freight plan.",
+    "headingFr": "Adaptez la demande au plan de transport.",
+    "intro": "Include the community, receiving contact and proposed air or marine freight arrangements. Identify packing limits and a protected place for components; delivery and any assembly support must be assessed for the destination and schedule.",
+    "introFr": "Indiquez la communauté, le contact de réception et le transport aérien ou maritime envisagé. Précisez les limites d’emballage et un endroit protégé pour les composants; la livraison et l’aide au montage sont évaluées selon le lieu et le calendrier.",
+    "checklist": [
+      "Community and freight arrangements",
+      "Packing limits and protected storage",
+      "Receiving contact and assembly resources"
+    ],
+    "checklistFr": [
+      "Communauté et transport envisagé",
+      "Limites d’emballage et rangement protégé",
+      "Contact de réception et moyens de montage"
+    ],
+    "cities": [
+      {
+        "name": "Iqaluit",
+        "slug": "iqaluit",
+        "nearby": [
+          "Apex"
+        ]
+      },
+      {
+        "name": "Rankin Inlet",
+        "slug": "rankin-inlet",
+        "nearby": [
+          "Chesterfield Inlet"
+        ]
+      },
+      {
+        "name": "Cambridge Bay",
+        "slug": "cambridge-bay",
+        "nearby": [
+          "Kugluktuk"
+        ]
+      },
+      {
+        "name": "Baker Lake",
+        "slug": "baker-lake",
+        "nearby": [
+          "Arviat"
+        ]
+      },
+      {
+        "name": "Pond Inlet",
+        "slug": "pond-inlet",
+        "nearby": [
+          "Igloolik"
+        ]
+      }
+    ]
+  }
+]
