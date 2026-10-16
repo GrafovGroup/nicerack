@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/fr/villes/montréal",
+    "status": 308,
+    "location": "/fr/villes/montreal",
+    "french404": null
+  },
+  {
+    "path": "/fr/villes/québec",
+    "status": 308,
+    "location": "/fr/villes/quebec",
+    "french404": null
+  },
+  {
+    "path": "/fr/villes/lévis",
+    "status": 308,
+    "location": "/fr/villes/levis",
+    "french404": null
+  },
+  {
+    "path": "/fr/produits/inconnu",
+    "status": 404,
+    "location": null,
+    "french404": true
+  },
+  {
+    "path": "/fr/villes/inconnue",
+    "status": 404,
+    "location": null,
+    "french404": true
+  }
+]

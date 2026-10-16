@@ -40,7 +40,13 @@ for url,r in zip(urls,results):
  require(desc and desc not in descriptions,'missing/duplicate description');descriptions.add(desc)
  require(any(t=='link' and a.get('rel')=='canonical' and a.get('href')==url for t,a in attrs),'incorrect canonical')
  require(not any(t=='meta' and a.get('name')=='robots' and 'noindex' in a.get('content','') for t,a in attrs),'sitemap contains noindex')
- require('REQUEST A QUOTE' in r['body'] and 'CALL NOW' in r['body'],'missing CTA')
+ require(('DEMANDER UNE SOUMISSION' in r['body'] and 'APPELEZ-NOUS' in r['body']) if path.startswith('/fr') else ('REQUEST A QUOTE' in r['body'] and 'CALL NOW' in r['body']),'missing CTA')
+ require(any(t=='html' and a.get('lang')==('fr-CA' if path.startswith('/fr') else 'en-CA') for t,a in attrs),'incorrect document language')
+ for t,a in attrs:
+  if t=='link' and a.get('hreflang') in ['en-CA','fr-CA']:
+   target=urllib.parse.urlsplit(a['href']).path or '/'
+   require(target in cache,'hreflang target outside sitemap')
+   if target in cache:require(any(tt=='link' and aa.get('hreflang')==('fr-CA' if path.startswith('/fr') else 'en-CA') and aa.get('href')==url for tt,aa in cache[target]['page'].attrs),'non-reciprocal hreflang')
  phones=[a['href'] for t,a in attrs if t=='a' and a.get('href','').startswith('tel:')]
  require(phones and all(x=='tel:+18336969996' for x in phones),'phone mismatch')
  for raw in re.findall(r'<script type="application/ld\+json">(.*?)</script>',r['body']):
@@ -57,8 +63,15 @@ for path,q,fragment in links:
  key=path+('?' +q if q else '');r=cache[key]
  if r['status']!=200:errors.append(key+': internal status '+str(r['status']))
  if fragment and urllib.parse.unquote(fragment) not in r['page'].ids:errors.append(key+'#'+fragment+': missing fragment')
-for path in ['/products/not-a-real-rack','/locations/not-a-real-city','/guides/not-a-real-guide']:
+for path in ['/products/not-a-real-rack','/locations/not-a-real-city','/guides/not-a-real-guide','/fr/produits/inconnu','/fr/villes/inconnue','/fr/guides/inconnu','/fr/inconnue']:
  r=fetch(path)
  if r['status']!=404:errors.append(path+': expected 404')
-summary={'sitemapPages':len(paths),'internalTargets':len(targets),'schemas':sorted(schemas),'errors':errors,'representativePayloads':[{'path':r['path'],'htmlGzipBytes':r['gzipBytes']} for r in results if r['path'] in ['/products','/locations','/guides','/locations/toronto','/guides/server-rack-sizing']]}
+for source,target in [('/fr/villes/montr%C3%A9al','/fr/villes/montreal'),('/fr/villes/qu%C3%A9bec','/fr/villes/quebec'),('/fr/villes/l%C3%A9vis','/fr/villes/levis')]:
+ req=urllib.request.Request(base+source,method='GET')
+ try:
+  with urllib.request.urlopen(req,timeout=45) as response:
+   if response.geturl()!=base+target:errors.append(source+': incorrect accented alias destination')
+ except urllib.error.HTTPError as error:
+  if error.code!=308 or error.headers.get('Location')!=target:errors.append(source+': incorrect accented alias redirect')
+summary={'sitemapPages':len(paths),'englishPages':sum(not p.startswith('/fr') for p in paths),'frenchPages':sum(p.startswith('/fr') for p in paths),'internalTargets':len(targets),'schemas':sorted(schemas),'errors':errors,'representativePayloads':[{'path':r['path'],'htmlGzipBytes':r['gzipBytes']} for r in results if r['path'] in ['/products','/locations','/guides','/locations/toronto','/guides/server-rack-sizing']]}
 print(json.dumps(summary,indent=2));sys.exit(bool(errors))

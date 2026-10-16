@@ -1,0 +1,578 @@
+[
+  {
+    "id": "type-pallet-racking",
+    "enSlug": "pallet-racking",
+    "slug": "palettiers-selectifs",
+    "name": "Palettiers sélectifs",
+    "categoryId": "industrial",
+    "intro": "Accéder directement aux palettes dans un entrepôt. Le choix du palettier dépend des charges, des palettes et du matériel de manutention.",
+    "description": "Accéder directement aux palettes dans un entrepôt. Le choix du palettier dépend des charges, des palettes et du matériel de manutention.",
+    "checklist": [
+      "Construction, dimensions et poids des palettes",
+      "Nombre de références et ordre de sortie",
+      "Chariot utilisé, plan et état du plancher"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Accéder directement aux palettes dans un entrepôt. Le choix du palettier dépend des charges, des palettes et du matériel de manutention. Les lisses, montants et ancrages forment un système. Une ressemblance visuelle ne prouve pas la compatibilité des composants; faites vérifier toute modification."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-cantilever-rack",
+    "enSlug": "cantilever-rack",
+    "slug": "rayonnages-en-porte-a-faux",
+    "name": "Rayonnages en porte-à-faux",
+    "categoryId": "industrial",
+    "intro": "Entreposer des matériaux longs sur des bras en porte-à-faux, en gardant leur longueur et leur mode de manutention au centre du projet.",
+    "description": "Entreposer des matériaux longs sur des bras en porte-à-faux, en gardant leur longueur et leur mode de manutention au centre du projet.",
+    "checklist": [
+      "Longueur et poids des matériaux",
+      "Répartition des appuis et risque de flèche",
+      "Chargement manuel ou mécanisé"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Entreposer des matériaux longs sur des bras en porte-à-faux, en gardant leur longueur et leur mode de manutention au centre du projet. La position des bras et la stabilité de la charge doivent être étudiées pour les matériaux réels. Un palettier ne remplace pas automatiquement un porte-à-faux."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-industrial-shelving",
+    "enSlug": "industrial-shelving",
+    "slug": "etageres-industrielles",
+    "name": "Étagères industrielles",
+    "categoryId": "industrial",
+    "intro": "Organiser des pièces et des contenants prélevés à la main. Une étagère se choisit autour du contenant et de la fréquence de réapprovisionnement.",
+    "description": "Organiser des pièces et des contenants prélevés à la main. Une étagère se choisit autour du contenant et de la fréquence de réapprovisionnement.",
+    "checklist": [
+      "Dimensions des bacs ou cartons",
+      "Poids et fréquence de prélèvement",
+      "Profondeur accessible et circulation"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser des pièces et des contenants prélevés à la main. Une étagère se choisit autour du contenant et de la fréquence de réapprovisionnement. Une capacité ne se déduit pas de la taille de la tablette. Précisez les charges et demandez la documentation du système proposé."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-ladder-rack",
+    "enSlug": "ladder-rack",
+    "slug": "supports-a-echelles-pour-vehicules",
+    "name": "Supports à échelles pour véhicules",
+    "categoryId": "automotive",
+    "intro": "Transporter des échelles sur un véhicule adapté. Le support, la fixation et le véhicule doivent être évalués ensemble.",
+    "description": "Transporter des échelles sur un véhicule adapté. Le support, la fixation et le véhicule doivent être évalués ensemble.",
+    "checklist": [
+      "Marque, modèle et année du véhicule",
+      "Nombre, longueur et poids des échelles",
+      "Hauteur de chargement et points de fixation"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Transporter des échelles sur un véhicule adapté. Le support, la fixation et le véhicule doivent être évalués ensemble. Les limites du véhicule, du support et de ses fixations restent distinctes. Décrivez aussi les passages couverts et la méthode de chargement."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-roof-rack",
+    "enSlug": "roof-rack",
+    "slug": "barres-de-toit",
+    "name": "Barres de toit",
+    "categoryId": "automotive",
+    "intro": "Prévoir le transport de matériel sur le toit en fonction des points de montage et des accessoires réellement utilisés.",
+    "description": "Prévoir le transport de matériel sur le toit en fonction des points de montage et des accessoires réellement utilisés.",
+    "checklist": [
+      "Type de toit et fixations existantes",
+      "Dimensions et poids du matériel",
+      "Accessoires à installer sur les barres"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Prévoir le transport de matériel sur le toit en fonction des points de montage et des accessoires réellement utilisés. La présence de rails ne garantit pas une compatibilité universelle. Vérifiez les documents du véhicule et de chaque accessoire."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-truck-bed-rack",
+    "enSlug": "truck-bed-rack",
+    "slug": "supports-pour-caisse-de-camionnette",
+    "name": "Supports pour caisse de camionnette",
+    "categoryId": "automotive",
+    "intro": "Utiliser un support au-dessus de la caisse d’une camionnette pour du matériel long, tout en gardant accès au chargement.",
+    "description": "Utiliser un support au-dessus de la caisse d’une camionnette pour du matériel long, tout en gardant accès au chargement.",
+    "checklist": [
+      "Camionnette, année et longueur de caisse",
+      "Couvre-caisse et accessoires présents",
+      "Accès au hayon et dimensions des charges"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Utiliser un support au-dessus de la caisse d’une camionnette pour du matériel long, tout en gardant accès au chargement. Un couvre-caisse peut modifier le choix des fixations. Signalez les accessoires avant de sélectionner une configuration."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-wall-storage",
+    "enSlug": "wall-storage",
+    "slug": "rangement-mural",
+    "name": "Rangement mural",
+    "categoryId": "garage",
+    "intro": "Libérer le plancher du garage avec un rangement mural pour outils et équipements. Prévoyez une place accessible pour les objets utilisés souvent.",
+    "description": "Libérer le plancher du garage avec un rangement mural pour outils et équipements. Prévoyez une place accessible pour les objets utilisés souvent.",
+    "checklist": [
+      "Matériau du mur et emplacement des montants",
+      "Liste et poids des objets",
+      "Portes, prises et surface disponible"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Libérer le plancher du garage avec un rangement mural pour outils et équipements. Prévoyez une place accessible pour les objets utilisés souvent. Les fixations doivent convenir au mur et aux charges. Un revêtement mural n’indique pas à lui seul la résistance du support."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-overhead-storage",
+    "enSlug": "overhead-storage",
+    "slug": "rangement-suspendu-pour-garage",
+    "name": "Rangement suspendu pour garage",
+    "categoryId": "garage",
+    "intro": "Ranger des bacs saisonniers en hauteur tout en préservant le mouvement de la porte de garage et l’accès sécuritaire.",
+    "description": "Ranger des bacs saisonniers en hauteur tout en préservant le mouvement de la porte de garage et l’accès sécuritaire.",
+    "checklist": [
+      "Hauteur et structure du plafond",
+      "Trajectoire complète de la porte",
+      "Dimensions des bacs et méthode d’accès"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Ranger des bacs saisonniers en hauteur tout en préservant le mouvement de la porte de garage et l’accès sécuritaire. Le plafond doit être évalué pour les charges et les ancrages. Les objets fréquemment utilisés peuvent être mieux placés au niveau du sol."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-bicycle-storage",
+    "enSlug": "bicycle-storage",
+    "slug": "rangement-pour-velos",
+    "name": "Rangement pour vélos",
+    "categoryId": "garage",
+    "intro": "Organiser des vélos sans encombrer les passages. Comparez le rangement au sol, au mur et vertical selon les utilisateurs.",
+    "description": "Organiser des vélos sans encombrer les passages. Comparez le rangement au sol, au mur et vertical selon les utilisateurs.",
+    "checklist": [
+      "Nombre, poids et dimensions des vélos",
+      "Largeur des pneus et accessoires",
+      "Capacité des utilisateurs à soulever les vélos"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser des vélos sans encombrer les passages. Comparez le rangement au sol, au mur et vertical selon les utilisateurs. Un vélo électrique lourd change les besoins de manutention. Vérifiez le contact avec le cadre, les roues et les accessoires."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-garment-rack",
+    "enSlug": "garment-rack",
+    "slug": "portants-a-vetements-sur-roulettes",
+    "name": "Portants à vêtements sur roulettes",
+    "categoryId": "retail",
+    "intro": "Présenter des vêtements sur un portant mobile pour adapter l’aire de vente ou organiser les retours.",
+    "description": "Présenter des vêtements sur un portant mobile pour adapter l’aire de vente ou organiser les retours.",
+    "checklist": [
+      "Longueur des vêtements et largeur des cintres",
+      "Volume de pièces et fréquence des déplacements",
+      "Revêtement de sol et lieu de stationnement"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Présenter des vêtements sur un portant mobile pour adapter l’aire de vente ou organiser les retours. La stabilité pendant le déplacement et le freinage des roulettes doivent être examinés avec la charge réelle."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-display-shelving",
+    "enSlug": "display-shelving",
+    "slug": "etageres-de-presentation",
+    "name": "Étagères de présentation",
+    "categoryId": "retail",
+    "intro": "Composer une présentation sur tablettes en tenant compte du format des produits, de leur visibilité et du réapprovisionnement.",
+    "description": "Composer une présentation sur tablettes en tenant compte du format des produits, de leur visibilité et du réapprovisionnement.",
+    "checklist": [
+      "Format et poids des marchandises",
+      "Hauteur de présentation et accès client",
+      "Disposition fixe ou changements saisonniers"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Composer une présentation sur tablettes en tenant compte du format des produits, de leur visibilité et du réapprovisionnement. Précisez les conditions de fixation, les allées et les contraintes du local. La profondeur utile compte autant que l’aspect visuel."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-portable-display",
+    "enSlug": "portable-display",
+    "slug": "presentoirs-mobiles",
+    "name": "Présentoirs mobiles",
+    "categoryId": "retail",
+    "intro": "Déplacer une sélection de marchandises entre des zones de vente ou un espace temporaire. Le transport fait partie du choix du présentoir.",
+    "description": "Déplacer une sélection de marchandises entre des zones de vente ou un espace temporaire. Le transport fait partie du choix du présentoir.",
+    "checklist": [
+      "Produits et accessoires de présentation",
+      "Dimensions des portes et des passages",
+      "Fréquence du montage et du démontage"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Déplacer une sélection de marchandises entre des zones de vente ou un espace temporaire. Le transport fait partie du choix du présentoir. Le format rangé et les pièces démontables doivent être documentés. Le déplacement chargé peut exiger une procédure différente."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-power-rack",
+    "enSlug": "power-rack",
+    "slug": "cages-de-musculation",
+    "name": "Cages de musculation",
+    "categoryId": "fitness",
+    "intro": "Planifier un poste d’entraînement avec une cage de musculation compatible avec la barre, le banc et les exercices prévus.",
+    "description": "Planifier un poste d’entraînement avec une cage de musculation compatible avec la barre, le banc et les exercices prévus.",
+    "checklist": [
+      "Dimensions de la pièce et hauteur libre",
+      "Barre, banc et accessoires existants",
+      "Exercices, utilisateurs et ancrage possible"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Planifier un poste d’entraînement avec une cage de musculation compatible avec la barre, le banc et les exercices prévus. Les dispositifs de sécurité et accessoires doivent être compatibles avec le modèle. Une cage ne supprime pas le besoin d’une pratique et d’une installation adaptées."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-weight-storage",
+    "enSlug": "weight-storage",
+    "slug": "rangement-pour-poids",
+    "name": "Rangement pour poids",
+    "categoryId": "fitness",
+    "intro": "Ranger les disques, haltères ou barres près de leur zone d’utilisation sans bloquer les exercices ni les passages.",
+    "description": "Ranger les disques, haltères ou barres près de leur zone d’utilisation sans bloquer les exercices ni les passages.",
+    "checklist": [
+      "Types et dimensions des poids",
+      "Nombre d’articles et poids total",
+      "Ordre de rangement et accès aux prises"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Ranger les disques, haltères ou barres près de leur zone d’utilisation sans bloquer les exercices ni les passages. Distinguez le poids total de la charge sur chaque emplacement. La configuration doit éviter les obstacles lors de la remise en place."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-sports-storage",
+    "enSlug": "sports-storage",
+    "slug": "rangement-pour-materiel-sportif",
+    "name": "Rangement pour matériel sportif",
+    "categoryId": "fitness",
+    "intro": "Organiser le matériel de sport par activité, avec des zones distinctes pour la distribution, le retour et le séchage.",
+    "description": "Organiser le matériel de sport par activité, avec des zones distinctes pour la distribution, le retour et le séchage.",
+    "checklist": [
+      "Ballons, tapis et équipements à ranger",
+      "Dimensions des locaux et des portes",
+      "Matériel humide et fréquence de rotation"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser le matériel de sport par activité, avec des zones distinctes pour la distribution, le retour et le séchage. Les filets, étagères et supports répondent à des objets différents. Décrivez les équipements volumineux plutôt que de compter seulement les articles."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-kitchen-shelving",
+    "enSlug": "kitchen-shelving",
+    "slug": "etageres-de-cuisine-commerciale",
+    "name": "Étagères de cuisine commerciale",
+    "categoryId": "hospitality",
+    "intro": "Prévoir des étagères pour les réserves de cuisine en distinguant les environnements secs, humides et réfrigérés.",
+    "description": "Prévoir des étagères pour les réserves de cuisine en distinguant les environnements secs, humides et réfrigérés.",
+    "checklist": [
+      "Température, humidité et nettoyage",
+      "Contenants et emballages utilisés",
+      "Contraintes sanitaires applicables au site"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Prévoir des étagères pour les réserves de cuisine en distinguant les environnements secs, humides et réfrigérés. Les matériaux et la documentation doivent correspondre à l’usage alimentaire prévu. Une finition brillante ne constitue pas une preuve de conformité."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-dish-storage",
+    "enSlug": "dish-storage",
+    "slug": "rangement-pour-vaisselle",
+    "name": "Rangement pour vaisselle",
+    "categoryId": "hospitality",
+    "intro": "Organiser la vaisselle entre le lavage, le séchage et le service. Dimensionnez les emplacements selon les paniers et les pièces réels.",
+    "description": "Organiser la vaisselle entre le lavage, le séchage et le service. Dimensionnez les emplacements selon les paniers et les pièces réels.",
+    "checklist": [
+      "Formats des paniers et de la vaisselle",
+      "Égouttage et nettoyage requis",
+      "Parcours entre plonge et service"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser la vaisselle entre le lavage, le séchage et le service. Dimensionnez les emplacements selon les paniers et les pièces réels. Séparez le rangement de vaisselle sèche des besoins d’égouttage. Les deux tâches n’exigent pas nécessairement le même support."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-luggage-rack",
+    "enSlug": "luggage-rack",
+    "slug": "supports-a-bagages",
+    "name": "Supports à bagages",
+    "categoryId": "hospitality",
+    "intro": "Offrir une surface pour poser les bagages dans une chambre tout en préservant la circulation et l’entretien.",
+    "description": "Offrir une surface pour poser les bagages dans une chambre tout en préservant la circulation et l’entretien.",
+    "checklist": [
+      "Format des bagages et espace libre",
+      "Besoin de pliage et lieu de rangement",
+      "Nettoyage, surfaces de contact et stabilité"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Offrir une surface pour poser les bagages dans une chambre tout en préservant la circulation et l’entretien. Le format ouvert et fermé doit être vérifié dans la chambre. Le poids admissible doit provenir du modèle proposé."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-server-cabinet",
+    "enSlug": "server-cabinet",
+    "slug": "armoires-pour-serveurs",
+    "name": "Armoires pour serveurs",
+    "categoryId": "technology",
+    "intro": "Regrouper des équipements informatiques dans une armoire fermée, avec l’espace nécessaire au câblage et à la ventilation.",
+    "description": "Regrouper des équipements informatiques dans une armoire fermée, avec l’espace nécessaire au câblage et à la ventilation.",
+    "checklist": [
+      "Hauteur en unités U et profondeur réelle",
+      "Rails, câbles et accès arrière",
+      "Dissipation thermique et accès au local"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Regrouper des équipements informatiques dans une armoire fermée, avec l’espace nécessaire au câblage et à la ventilation. La hauteur en U ne garantit ni la profondeur ni la compatibilité des rails. Prévoyez la porte, les connecteurs et les rayons de courbure."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-network-rack",
+    "enSlug": "network-rack",
+    "slug": "batis-ouverts-pour-reseau",
+    "name": "Bâtis ouverts pour réseau",
+    "categoryId": "technology",
+    "intro": "Organiser des équipements réseau sur un bâti ouvert lorsque l’accès et les conditions du local s’y prêtent.",
+    "description": "Organiser des équipements réseau sur un bâti ouvert lorsque l’accès et les conditions du local s’y prêtent.",
+    "checklist": [
+      "Appareils, rails et profondeur",
+      "Chemins de câbles et accès technique",
+      "Stabilité, fixation et sécurité du local"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser des équipements réseau sur un bâti ouvert lorsque l’accès et les conditions du local s’y prêtent. Un bâti ouvert ne remplace pas une armoire verrouillable lorsque l’accès doit être contrôlé. Décrivez les conditions du local."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-wall-enclosure",
+    "enSlug": "wall-enclosure",
+    "slug": "armoires-reseau-murales",
+    "name": "Armoires réseau murales",
+    "categoryId": "technology",
+    "intro": "Installer du matériel réseau dans une armoire murale en tenant compte de la structure porteuse et de l’accès aux raccordements.",
+    "description": "Installer du matériel réseau dans une armoire murale en tenant compte de la structure porteuse et de l’accès aux raccordements.",
+    "checklist": [
+      "Structure du mur et masse des équipements",
+      "Profondeur des appareils et connecteurs",
+      "Ouverture de porte et ventilation"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Installer du matériel réseau dans une armoire murale en tenant compte de la structure porteuse et de l’accès aux raccordements. La masse de l’armoire s’ajoute à celle des équipements. La fixation et le support mural nécessitent une évaluation adaptée."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-event-coat-rack",
+    "enSlug": "event-coat-rack",
+    "slug": "portants-de-vestiaire",
+    "name": "Portants de vestiaire",
+    "categoryId": "events",
+    "intro": "Organiser un vestiaire temporaire selon le nombre de manteaux et le rythme d’arrivée et de départ des participants.",
+    "description": "Organiser un vestiaire temporaire selon le nombre de manteaux et le rythme d’arrivée et de départ des participants.",
+    "checklist": [
+      "Nombre de manteaux et longueur des vêtements",
+      "Organisation des étiquettes et des files",
+      "Dates, lieu et besoins de montage"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Organiser un vestiaire temporaire selon le nombre de manteaux et le rythme d’arrivée et de départ des participants. Un nombre de participants ne suffit pas à déterminer la capacité du vestiaire. Prévoyez les pointes, les manteaux volumineux et le personnel."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-event-garment-rack",
+    "enSlug": "event-garment-rack",
+    "slug": "portants-pour-costumes",
+    "name": "Portants pour costumes",
+    "categoryId": "events",
+    "intro": "Ranger des costumes en coulisses en conservant l’ordre des changements et l’accès aux accessoires.",
+    "description": "Ranger des costumes en coulisses en conservant l’ordre des changements et l’accès aux accessoires.",
+    "checklist": [
+      "Longueur et volume des costumes",
+      "Ordre des changements et étiquetage",
+      "Passages, transport et entreposage hors scène"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Ranger des costumes en coulisses en conservant l’ordre des changements et l’accès aux accessoires. Distinguez les portants qui restent en place de ceux qui se déplacent chargés. Les housses et accessoires ajoutent de l’encombrement."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  },
+  {
+    "id": "type-event-display-rack",
+    "enSlug": "event-display-rack",
+    "slug": "presentoirs-evenementiels",
+    "name": "Présentoirs événementiels",
+    "categoryId": "events",
+    "intro": "Présenter du matériel lors d’un événement avec un équipement dont le montage, le transport et le rangement sont prévus ensemble.",
+    "description": "Présenter du matériel lors d’un événement avec un équipement dont le montage, le transport et le rangement sont prévus ensemble.",
+    "checklist": [
+      "Objets exposés et supports nécessaires",
+      "Format de transport et accès au lieu",
+      "Calendrier de montage et de démontage"
+    ],
+    "sections": [
+      {
+        "title": "Préparer votre choix",
+        "body": "Présenter du matériel lors d’un événement avec un équipement dont le montage, le transport et le rangement sont prévus ensemble. La location et les modalités de livraison dépendent du lieu, des dates et des quantités. Indiquez les contraintes du site dès la demande."
+      },
+      {
+        "title": "Décrire le projet",
+        "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
+      }
+    ]
+  }
+]
