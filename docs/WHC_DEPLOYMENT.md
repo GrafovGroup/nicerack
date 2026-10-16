@@ -1,4 +1,4 @@
-# WHC deployment status — October 15, 2026
+# WHC deployment history — October 15, 2026
 
 - Existing Web Hosting Pro plan; separate nicerack.ca addon domain and nicerack-live Node 22 application.
 - Application root: /home/nvfglyl5/nicerack-live; startup server.cjs; production mode.
@@ -35,3 +35,24 @@ Phase 1C is published source only; no WHC redeployment, DNS mutation or live tes
 7. Verify public quote prefill, blank quantity, mobile layout, invalid-input handling and the email alternative. Enable delivery only after operational verification. The existing WHC environment was previously enabled; this phase does not alter it.
 
 No working business phone has been confirmed, so current source uses email CTAs. No new imagery was introduced.
+
+## Phase 1D — current public deployment
+
+The user authorized WHC connection/deployment in this chat. The Phase 1D build (including 1B/1C) is now deployed at https://nicerack.ca.
+
+- Public NS: parking1.whc.ca / parking2.whc.ca; apex A: 51.161.57.68; www CNAME: nicerack.ca. No DNS mutation was needed.
+- ForwardEmail MX and existing verification/SPF TXT records preserved unchanged. No new forwarding rule or mailbox created.
+- Requested a free Let's Encrypt certificate in cPanel after delegation resolved. Trusted HTTPS succeeds for apex and www; certificate validation was never bypassed.
+- Added an Apache/LiteSpeed canonical rule before the existing managed Passenger block. HTTP and www redirect with 308 to https://nicerack.ca, preserving path/query. ACME challenge paths are exempted for renewal.
+- Deployed build ID `21KBrnxMmNhZqw1yWMhHz` to `/home/nvfglyl5/nicerack-live` and restarted Passenger through `tmp/restart.txt`. Existing environment and Linux node_modules retained; exact runtime dependency manifest matches.
+- Uploaded archive `/home/nvfglyl5/nicerack-phase-1d.zip`, SHA-256 `7fcd8ae28099613e08847766fec6192f8f4ae9cb60323eacd35c96857a9ce72d`. Extracted in a private staging directory before activation. No source secrets or macOS dependencies included.
+- Previous app and domain routing retained at `/home/nvfglyl5/nicerack-backup-before-1d`; private rate directory untouched.
+- Public audit: 41 sitemap pages, 105 internal targets, expected unknown-product 404. Canonical metadata, quote/call actions and absence of pricing schema checked. No critical browser errors on inspected homepage.
+
+### Rollback
+
+In a controlled maintenance operation, move the current `.next` aside and restore `.next`, `public`, `server.cjs`, and `next.config.mjs` from `/home/nvfglyl5/nicerack-backup-before-1d` into the existing application root. Retain environment files, Linux node_modules symlink and rate data. Touch `tmp/restart.txt`, then verify HTTPS and routes. The backup also includes `domain.htaccess` for routing recovery; restoring that file removes canonical redirects, so use it only if routing itself is broken. Do not replace the valid certificate or mail records.
+
+### Remaining operational verification
+
+The business phone is confirmed as (833) 696-9996; actual call routing has not been tested. Telephone structured data remains omitted. A live quote test and final receipt at info@nicerack.ca require separate authorization; no such message was sent. Existing transport enablement was preserved, but acceptance and receipt are not claimed verified. Proxy-header trust and rate-counter maintenance guidance above still applies.
