@@ -1,0 +1,66 @@
+$ pnpm catalogue:validate && next build
+$ tsx scripts/validate-catalogue.ts
+Valid catalogue: 120 records. No files changed.
+▲ Next.js 16.4.1 (Turbopack)
+✓ Running next.config.mjs took 76ms
+- Experiments (use with caution):
+  · cpus: 1
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 17.4s
+  Running TypeScript ...
+  Finished TypeScript in 18.7s ...
+  Collecting page data using 1 worker ...
+  Generating static pages using 1 worker (0/279) ...
+  Generating static pages using 1 worker (69/279) 
+  Generating static pages using 1 worker (139/279) 
+  Generating static pages using 1 worker (209/279) 
+✓ Generating static pages using 1 worker (279/279) in 12.5s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├   /[page]
+│ ├ ● /about
+│ ├ ● /services
+│ ├ ● /contact
+│ └ ● [+2 more paths]
+├ ƒ /api/quote
+├ ○ /categories
+├   /categories/[slug]
+│ ├ ● /categories/warehouse-industrial
+│ ├ ● /categories/automotive-fleet
+│ ├ ● /categories/garage-home
+│ └ ● [+5 more paths]
+├ ƒ /compare
+├   /fr/[[...segments]]
+│ ├ ● /fr
+│ ├ ● /fr/categories
+│ ├ ● /fr/produits
+│ └ ● [+69 more paths]
+├ ƒ /fr/comparer
+├ ○ /guides
+├   /guides/[slug]
+│ ├ ● /guides/choosing-pallet-racking
+│ ├ ● /guides/cantilever-vs-pallet-racking
+│ ├ ● /guides/warehouse-layout-questions
+│ └ ● [+11 more paths]
+├ ○ /icon.svg
+├ ○ /locations
+├   /locations/[slug]
+│ ├ ● /locations/toronto
+│ ├ ● /locations/mississauga
+│ ├ ● /locations/brampton
+│ └ ● [+43 more paths]
+├ ƒ /products
+├ ƒ /products/[slug]
+├ ○ /request-quote
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+

@@ -1,0 +1,39 @@
+{
+  "wire-decking": [
+    "pallet-racking",
+    "industrial-shelving"
+  ],
+  "rack-upright-protectors": [
+    "pallet-racking",
+    "drive-in-racking",
+    "push-back-racking"
+  ],
+  "shelf-dividers": [
+    "display-shelving",
+    "gondola-shelving",
+    "retail-stockroom-rack"
+  ],
+  "replacement-rack-casters": [
+    "garment-rack",
+    "portable-display",
+    "event-coat-rack"
+  ],
+  "slatwall-display-hooks": [
+    "slatwall-display"
+  ],
+  "rack-cage-nut-kits": [
+    "server-cabinet",
+    "network-rack",
+    "four-post-open-rack"
+  ],
+  "rack-blanking-panels": [
+    "server-cabinet",
+    "network-rack",
+    "wall-enclosure"
+  ],
+  "horizontal-cable-managers": [
+    "server-cabinet",
+    "network-rack",
+    "wall-enclosure"
+  ]
+}

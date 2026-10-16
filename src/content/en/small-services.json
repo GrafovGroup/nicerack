@@ -1,0 +1,26 @@
+[
+  {
+    "id": "accessory-matching",
+    "title": "Accessory compatibility review",
+    "text": "Match a small addition to the rack you already own. Send the manufacturer, model, photos of the connection points and the intended use. We can organize the fitment questions and source documentation for a quotation. Final compatibility depends on the actual components; structural or engineered changes require the appropriate professional review.",
+    "brief": "Rack model and connection photos; accessory purpose and quantity; project location."
+  },
+  {
+    "id": "replacement-parts",
+    "title": "Replacement-part sourcing",
+    "text": "Looking for a missing caster, divider, hook or rack fastener? Provide the part marking, rack model and clear photos beside a ruler. We can assess sourcing options and the information needed to identify a suitable replacement. Availability and fitment are confirmed for the proposed part; visually similar hardware is not automatically interchangeable.",
+    "brief": "Rack and part model; photos and dimensions; required quantity and deadline."
+  },
+  {
+    "id": "rack-labelling",
+    "title": "Rack and shelf labelling",
+    "text": "Make storage positions easier to identify with a consistent bay, level and bin naming plan. Share your layout, picking sequence, existing codes and label surface. We can scope a location-label schedule and application requirements for your site. Location labels do not establish load capacity or replace manufacturer plates, inspection records or required safety signs.",
+    "brief": "Layout and location count; existing naming scheme; label surface and environment."
+  },
+  {
+    "id": "cable-organization",
+    "title": "Rack cable-organization planning",
+    "text": "Plan clearer cable paths around patch panels, equipment and maintenance access. Supply front and rear rack photos, cable types, an equipment list and access constraints. We can scope cable managers, labels and a proposed routing brief. Live connection changes, electrical work and network commissioning require separate agreement with the responsible qualified personnel.",
+    "brief": "Rack photos and equipment list; cable types and routes; maintenance access and scheduling."
+  }
+]

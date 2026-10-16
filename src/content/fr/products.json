@@ -574,5 +574,197 @@
         "body": "Relevez les dimensions utiles, les accès et les équipements existants. Joignez ces renseignements à votre demande de soumission; la configuration, les capacités et la disponibilité seront établies pour la solution proposée."
       }
     ]
+  },
+  {
+    "id": "type-wire-decking",
+    "enSlug": "wire-decking",
+    "slug": "platelages-grillages",
+    "name": "Platelages grillagés pour palettiers",
+    "categoryId": "industrial",
+    "intro": "Des panneaux grillagés à choisir selon les lisses et les charges entreposées.",
+    "description": "Des panneaux grillagés à choisir selon les lisses et les charges entreposées.",
+    "checklist": [
+      "Profil des lisses et ouverture utile",
+      "Appuis et répartition des charges",
+      "Documentation du système existant"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Le platelage grillagé forme une surface de support sur des lisses compatibles. Décrivez les cartons, palettes ou petits articles prévus et la manière dont leur poids sera réparti. Le platelage et le palettier doivent être évalués ensemble; un panneau grillagé ne constitue pas une plateforme pour les personnes."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-rack-upright-protectors",
+    "enSlug": "rack-upright-protectors",
+    "slug": "protecteurs-de-montants",
+    "name": "Protecteurs de montants de palettiers",
+    "categoryId": "industrial",
+    "intro": "Des protections à adapter au pied du montant, au plancher et à la circulation.",
+    "description": "Des protections à adapter au pied du montant, au plancher et à la circulation.",
+    "checklist": [
+      "Encombrement du pied et de la platine",
+      "État du plancher et fixations",
+      "Trajets du matériel de manutention"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les protecteurs créent une barrière autour des montants exposés aux déplacements de matériel. Leur forme doit préserver les accès et convenir au plancher et aux ancrages proposés. Envoyez des photos du pied du montant et de l’allée. Une protection ne répare pas un palettier endommagé et ne remplace pas une évaluation de son état."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-shelf-dividers",
+    "enSlug": "shelf-dividers",
+    "slug": "separateurs-d-etageres",
+    "name": "Séparateurs d’étagères",
+    "categoryId": "retail",
+    "intro": "Organiser les articles en couloirs distincts sur une tablette compatible.",
+    "description": "Organiser les articles en couloirs distincts sur une tablette compatible.",
+    "checklist": [
+      "Surface de la tablette et fixation",
+      "Largeur des emballages et des couloirs",
+      "Profondeur utile et accès au nettoyage"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les séparateurs distinguent les groupes de produits et facilitent leur rangement. Choisissez le mode de fixation selon la surface, la profondeur et le bord de la tablette. Prévoyez assez de place pour retirer les articles et nettoyer. Ces accessoires organisent la marchandise; ils ne remplacent pas les supports structuraux d’une étagère."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-replacement-rack-casters",
+    "enSlug": "replacement-rack-casters",
+    "slug": "roulettes-de-remplacement",
+    "name": "Roulettes de remplacement pour supports",
+    "categoryId": "retail",
+    "intro": "Remplacer des roues en respectant la fixation et la stabilité du support mobile.",
+    "description": "Remplacer des roues en respectant la fixation et la stabilité du support mobile.",
+    "checklist": [
+      "Dimensions de la tige ou de la platine",
+      "Plancher et dispositif de freinage",
+      "Stabilité et documentation de charge"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Une roulette se choisit selon le support existant et le plancher utilisé. Le diamètre de roue ne suffit pas : la tige ou la platine, la hauteur totale et le frein doivent aussi correspondre. Fournissez le modèle du support et des photos de la fixation. Vérifiez la stabilité et les conditions de charge de l’ensemble après toute modification."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-slatwall-display-hooks",
+    "enSlug": "slatwall-display-hooks",
+    "slug": "crochets-pour-panneaux-rainures",
+    "name": "Crochets pour panneaux rainurés",
+    "categoryId": "retail",
+    "intro": "Créer des points de présentation adaptés aux rainures du panneau et aux articles.",
+    "description": "Créer des points de présentation adaptés aux rainures du panneau et aux articles.",
+    "checklist": [
+      "Profil des rainures et des inserts",
+      "Ouverture de l’emballage et longueur du crochet",
+      "Espacement et fixation du panneau"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les crochets permettent de suspendre des articles emballés sur un panneau rainuré compatible. Vérifiez le profil de la rainure et des inserts avant de choisir la longueur ou l’espacement. Indiquez le poids et l’ouverture de l’emballage. Le crochet, le panneau et sa fixation au mur doivent convenir à la présentation prévue."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-rack-cage-nut-kits",
+    "enSlug": "rack-cage-nut-kits",
+    "slug": "ensembles-ecrous-cage",
+    "name": "Ensembles d’écrous cage et de vis",
+    "categoryId": "technology",
+    "intro": "Choisir la quincaillerie selon les trous des rails et les consignes de l’équipement.",
+    "description": "Choisir la quincaillerie selon les trous des rails et les consignes de l’équipement.",
+    "checklist": [
+      "Forme et dimensions des trous du rail",
+      "Filetage des vis et des écrous",
+      "Instructions de montage de l’équipement"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les ensembles associent des écrous cage à des vis compatibles pour certains rails à trous carrés. Vérifiez la forme des trous, le filetage et les instructions de montage avant de remplacer une fixation. Les rails taraudés ou à trous ronds peuvent exiger une autre méthode. La visserie doit convenir à l’assemblage réel."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-rack-blanking-panels",
+    "enSlug": "rack-blanking-panels",
+    "slug": "panneaux-obturateurs",
+    "name": "Panneaux obturateurs pour bâtis",
+    "categoryId": "technology",
+    "intro": "Fermer des emplacements inutilisés en tenant compte de la ventilation et des fixations.",
+    "description": "Fermer des emplacements inutilisés en tenant compte de la ventilation et des fixations.",
+    "checklist": [
+      "Emplacements libres et hauteur des panneaux",
+      "Fixation aux rails et méthode de retrait",
+      "Ventilation et passages de câbles"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les panneaux obturateurs couvrent des emplacements libres à l’avant d’un bâti. Leur hauteur et leur fixation dépendent des rails et des espaces disponibles. Coordonnez les ouvertures à fermer avec les besoins de ventilation de l’équipement. Indiquez les passages de câbles nécessaires et la fréquence de retrait des panneaux."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
+  },
+  {
+    "id": "type-horizontal-cable-managers",
+    "enSlug": "horizontal-cable-managers",
+    "slug": "gestionnaires-horizontaux-de-cables",
+    "name": "Gestionnaires horizontaux de câbles",
+    "categoryId": "technology",
+    "intro": "Organiser les cordons devant le bâti en préservant l’accès aux ports.",
+    "description": "Organiser les cordons devant le bâti en préservant l’accès aux ports.",
+    "checklist": [
+      "Types de câbles et volume des faisceaux",
+      "Espace disponible et fixation au bâti",
+      "Accès aux ports et interruptions prévues"
+    ],
+    "sections": [
+      {
+        "title": "Choisir un accessoire compatible",
+        "body": "Les guides horizontaux dirigent les cordons entre les équipements et les chemins de câbles verticaux. Les anneaux et les goulottes à doigts répondent à des besoins différents. Précisez les types de câbles, le volume des faisceaux et l’espace disponible. Respectez les exigences de courbure et coordonnez toute intervention sur les connexions actives avec leur responsable."
+      },
+      {
+        "title": "Préparer votre demande",
+        "body": "Transmettez le fabricant et le modèle du support existant, les dimensions de la pièce, la quantité et le lieu du projet. Des photos des points de fixation et la documentation disponible facilitent l’étude de votre demande de soumission."
+      }
+    ]
   }
 ]
