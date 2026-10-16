@@ -1,0 +1,122 @@
+[
+  {
+    "id": "type-pallet-racking",
+    "slug": "pallet-racking",
+    "categoryId": "industrial"
+  },
+  {
+    "id": "type-cantilever-rack",
+    "slug": "cantilever-rack",
+    "categoryId": "industrial"
+  },
+  {
+    "id": "type-industrial-shelving",
+    "slug": "industrial-shelving",
+    "categoryId": "industrial"
+  },
+  {
+    "id": "type-ladder-rack",
+    "slug": "ladder-rack",
+    "categoryId": "automotive"
+  },
+  {
+    "id": "type-roof-rack",
+    "slug": "roof-rack",
+    "categoryId": "automotive"
+  },
+  {
+    "id": "type-truck-bed-rack",
+    "slug": "truck-bed-rack",
+    "categoryId": "automotive"
+  },
+  {
+    "id": "type-wall-storage",
+    "slug": "wall-storage",
+    "categoryId": "garage"
+  },
+  {
+    "id": "type-overhead-storage",
+    "slug": "overhead-storage",
+    "categoryId": "garage"
+  },
+  {
+    "id": "type-bicycle-storage",
+    "slug": "bicycle-storage",
+    "categoryId": "garage"
+  },
+  {
+    "id": "type-garment-rack",
+    "slug": "garment-rack",
+    "categoryId": "retail"
+  },
+  {
+    "id": "type-display-shelving",
+    "slug": "display-shelving",
+    "categoryId": "retail"
+  },
+  {
+    "id": "type-portable-display",
+    "slug": "portable-display",
+    "categoryId": "retail"
+  },
+  {
+    "id": "type-power-rack",
+    "slug": "power-rack",
+    "categoryId": "fitness"
+  },
+  {
+    "id": "type-weight-storage",
+    "slug": "weight-storage",
+    "categoryId": "fitness"
+  },
+  {
+    "id": "type-sports-storage",
+    "slug": "sports-storage",
+    "categoryId": "fitness"
+  },
+  {
+    "id": "type-kitchen-shelving",
+    "slug": "kitchen-shelving",
+    "categoryId": "hospitality"
+  },
+  {
+    "id": "type-dish-storage",
+    "slug": "dish-storage",
+    "categoryId": "hospitality"
+  },
+  {
+    "id": "type-luggage-rack",
+    "slug": "luggage-rack",
+    "categoryId": "hospitality"
+  },
+  {
+    "id": "type-server-cabinet",
+    "slug": "server-cabinet",
+    "categoryId": "technology"
+  },
+  {
+    "id": "type-network-rack",
+    "slug": "network-rack",
+    "categoryId": "technology"
+  },
+  {
+    "id": "type-wall-enclosure",
+    "slug": "wall-enclosure",
+    "categoryId": "technology"
+  },
+  {
+    "id": "type-event-coat-rack",
+    "slug": "event-coat-rack",
+    "categoryId": "events"
+  },
+  {
+    "id": "type-event-garment-rack",
+    "slug": "event-garment-rack",
+    "categoryId": "events"
+  },
+  {
+    "id": "type-event-display-rack",
+    "slug": "event-display-rack",
+    "categoryId": "events"
+  }
+]

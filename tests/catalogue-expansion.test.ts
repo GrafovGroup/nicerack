@@ -1,0 +1,15 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {products,categories} from '../src/content/en/catalogue';
+import legacy from './fixtures/phase-1b-routes.json';
+import {relatedProducts} from '../src/lib/related-products';
+import {searchCatalogue} from '../src/lib/catalogue-search';
+import {compareProducts} from '../src/lib/comparison';
+import {quoteContext,quoteHref} from '../src/lib/quote-context';
+import {quoteSchema} from '../src/lib/quote';
+import guidance from '../src/content/en/category-guidance.json';
+test('all original deep links retain their IDs and divisions',()=>{for(const old of legacy){const p=products.find(p=>p.id===old.id);assert.equal(p?.slug,old.slug);assert.equal(p?.categoryId,old.categoryId);}});
+test('each division has eleven distinct descriptions and useful planning guidance',()=>{for(const c of categories){const group=products.filter(p=>p.categoryId===c.id);assert.equal(group.length,11);assert.equal(new Set(group.map(p=>p.name.toLowerCase())).size,11);assert.equal(new Set(group.map(p=>p.detailedDescription)).size,11);assert.ok(group.every(p=>p.features.length>=2&&p.detailedDescription.split(/\s+/).length>=40));assert.equal(guidance[c.id as keyof typeof guidance].faqs.length,2);}});
+test('new flow designs remain discoverable and comparable without invented specs',()=>{const items=searchCatalogue({category:'industrial',q:'flow'}).results;assert.ok(items.some(p=>p.slug==='pallet-flow-racking'));assert.ok(items.some(p=>p.slug==='carton-flow-racking'));const result=compareProducts(['type-pallet-flow-racking','type-push-back-racking']);assert.equal(result.items.length,2);assert.ok(result.items.every(p=>p.specifications.length===0&&p.pricingMode==='quote'));});
+test('related products favour relevant families and never cross divisions or repeat self',()=>{const p=products.find(p=>p.slug==='push-back-racking')!;const original=products.map(p=>p.id);const related=relatedProducts(p,products);assert.equal(related.length,3);assert.ok(related.every(r=>r.subcategoryId===p.subcategoryId&&r.id!==p.id));assert.deepEqual(products.map(p=>p.id),original);});
+test('every new type supports quote prefill, campaign context and validation',()=>{for(const p of products.filter(p=>!legacy.some(old=>old.id===p.id))){const href=quoteHref(p,{quantity:'3',utm_source:'catalogue'},'/products/'+p.slug);const q=Object.fromEntries(new URL(href,'http://localhost').searchParams);assert.equal(q.product,p.id);assert.equal(q.category,p.categoryId);assert.equal(q.utm_source,'catalogue');assert.equal(quoteContext(q).quantity,3);assert.equal(quoteSchema.safeParse({name:'Test Customer',email:'test@example.com',phone:'4165550100',city:'Toronto',province:'Ontario',category:q.category,product:q.product,quantity:3,details:'Please assess the rack for this project.',installation:false,delivery:false,consent:true,website:'',source:{page:q.source,category:q.category,product:q.product,utm:{utm_source:q.utm_source}}}).success,true);}});

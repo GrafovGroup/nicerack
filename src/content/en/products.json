@@ -6,7 +6,7 @@
     "categoryId": "industrial",
     "subcategoryId": "industrial-pallet-storage",
     "shortDescription": "Direct-access pallet storage for warehouse layout planning.",
-    "detailedDescription": "Direct-access pallet storage for warehouse layout planning. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Selective pallet layouts give handling equipment access to individual pallet positions from an aisle. That makes them a different starting point from deep-lane systems that group pallets behind one another. Share pallet sizes, stock mix and handling equipment when requesting a quote. Aisle planning, floor conditions, anchoring and structural suitability require assessment for the actual site.",
     "applications": [
       "Pallet handling",
       "Warehouse storage"
@@ -29,7 +29,7 @@
     "categoryId": "industrial",
     "subcategoryId": "industrial-long-materials",
     "shortDescription": "Storage planning for long stock such as pipe, profiles and timber.",
-    "detailedDescription": "Storage planning for long stock such as pipe, profiles and timber. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Cantilever racks support long stock on projecting arms rather than between conventional shelf uprights. They are a starting point for materials that need lateral access during retrieval. Explain the stock lengths, handling method and whether items are bundled or selected individually. Arm arrangement, restraint and structural design must match the actual material and installation.",
     "applications": [
       "Long materials",
       "Warehouse storage"
@@ -52,7 +52,7 @@
     "categoryId": "industrial",
     "subcategoryId": "industrial-shelving",
     "shortDescription": "Shelf-based organization for cartons, parts and hand-picked items.",
-    "detailedDescription": "Shelf-based organization for cartons, parts and hand-picked items. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Industrial shelving organizes hand-loaded cartons, components and supplies on accessible shelf levels. It is a broad starting point when the exact shelf system has not yet been selected. Compare longspan shelving for bulky items and carton-flow racks for a defined picking process. Include the item range and loading method; a shelving description does not establish pallet-handling suitability.",
     "applications": [
       "Parts storage",
       "Warehouse storage"
@@ -75,7 +75,7 @@
     "categoryId": "automotive",
     "subcategoryId": "automotive-ladder-transport",
     "shortDescription": "Carrying long equipment, subject to vehicle and mounting compatibility.",
-    "detailedDescription": "Carrying long equipment, subject to vehicle and mounting compatibility. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Vehicle ladder racks provide supports for carrying compatible ladders on a work vehicle. The mounting system must match the actual roof or body, not just the ladder length. Share vehicle make, model and year, existing accessories and loading access. For a trailer or service body, use the dedicated type so its different mounting questions are included in the enquiry.",
     "applications": [
       "Ladder transport",
       "Fleet equipment"
@@ -98,7 +98,7 @@
     "categoryId": "automotive",
     "subcategoryId": "automotive-roof-storage",
     "shortDescription": "Roof-mounted carrying systems matched to the vehicle and intended cargo.",
-    "detailedDescription": "Roof-mounted carrying systems matched to the vehicle and intended cargo. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Roof racks provide a vehicle-specific base for carrying compatible equipment above the roof. A base bar system is different from an attachment shaped for a bicycle, boat or winter sports equipment. Include roof type and any existing bars before choosing carriers. Overall system limits, fit, loading and clearance must follow the relevant vehicle and equipment documentation.",
     "applications": [
       "Roof cargo",
       "Fleet equipment"
@@ -121,7 +121,7 @@
     "categoryId": "automotive",
     "subcategoryId": "automotive-truck-storage",
     "shortDescription": "Cargo support above a pickup bed, with fitment assessed for each vehicle.",
-    "detailedDescription": "Cargo support above a pickup bed, with fitment assessed for each vehicle. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Truck bed racks carry compatible equipment on supports arranged around a pickup bed. Unlike a headache rack positioned behind the cab, a bed rack may extend support along the cargo area. Include bed length, covers, toolboxes and loading requirements in the enquiry. The selected rack and attachment system must be checked against the vehicle and accessories.",
     "applications": [
       "Truck cargo",
       "Fleet equipment"
@@ -144,7 +144,7 @@
     "categoryId": "garage",
     "subcategoryId": "garage-wall-storage",
     "shortDescription": "Wall-mounted organization for tools and equipment with suitable mounting assessment.",
-    "detailedDescription": "Wall-mounted organization for tools and equipment with suitable mounting assessment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Garage wall storage uses rails, hooks or shelves to organize items against a wall. It is a starting point for mixed equipment rather than a dedicated holder for one tool shape. List the items and identify wall construction before selecting accessories. A wall rail, bracket and hook must form a compatible installation; appearance alone does not establish suitability.",
     "applications": [
       "Tools",
       "Garage organization"
@@ -167,7 +167,7 @@
     "categoryId": "garage",
     "subcategoryId": "garage-ceiling-storage",
     "shortDescription": "Planning elevated storage for seasonal equipment in a garage.",
-    "detailedDescription": "Planning elevated storage for seasonal equipment in a garage. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Overhead garage racks place suitable stored items above the usual floor storage area. Door movement, vehicle clearance and retrieval access matter alongside the rack footprint. Include ceiling construction and the items you intend to store. Attachment and loading need assessment for the building, and a generic description does not establish a safe lifting or access method.",
     "applications": [
       "Seasonal storage",
       "Garage organization"
@@ -190,7 +190,7 @@
     "categoryId": "garage",
     "subcategoryId": "garage-bicycle-storage",
     "shortDescription": "Organizing bicycles around available wall or floor space.",
-    "detailedDescription": "Organizing bicycles around available wall or floor space. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Bicycle storage racks organize bicycles while parked at home rather than carrying them on a vehicle. Wheel-supported, wall-hung and other arrangements have different fit and retrieval needs. Describe bicycle shapes, tyre sizes and who will retrieve them. The chosen system must suit the bicycles, available access and any wall or floor attachment.",
     "applications": [
       "Bicycles",
       "Garage organization"
@@ -213,7 +213,7 @@
     "categoryId": "retail",
     "subcategoryId": "retail-garment-display",
     "shortDescription": "Movable garment storage and display planning for shops and changing layouts.",
-    "detailedDescription": "Movable garment storage and display planning for shops and changing layouts. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Rolling garment racks provide a straight hanging rail that can be repositioned for clothing handling or display. They differ from round and four-way fixtures intended for browsing around a central display. Include garment lengths, hanger types and the movement route. Whether a loaded rack can be moved and how it remains stable must be confirmed for the selected product.",
     "applications": [
       "Clothing",
       "Retail displays"
@@ -236,7 +236,7 @@
     "categoryId": "retail",
     "subcategoryId": "retail-shelf-displays",
     "shortDescription": "Shelving layouts shaped around merchandise and customer access.",
-    "detailedDescription": "Shelving layouts shaped around merchandise and customer access. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Retail display shelving presents merchandise on accessible tiers. It is a broad choice for display areas that do not yet call for a specialized slatwall or gondola layout. Share merchandise sizes, browsing behaviour and the desired presentation. Accessories, shelf arrangement and stability must be checked for the actual fixture rather than assumed from the display style.",
     "applications": [
       "Merchandise",
       "Retail displays"
@@ -259,7 +259,7 @@
     "categoryId": "retail",
     "subcategoryId": "retail-portable-displays",
     "shortDescription": "Reconfigurable display planning for pop-ups and changing retail spaces.",
-    "detailedDescription": "Reconfigurable display planning for pop-ups and changing retail spaces. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Portable display racks organize merchandise for layouts that are dismantled or moved. The brief should distinguish frequent packing from simply rolling a fixture across a store. Include the products, display accessories and handling route. Folding or removable parts do not by themselves establish outdoor suitability or safe movement while loaded.",
     "applications": [
       "Pop-up shops",
       "Retail displays"
@@ -282,7 +282,7 @@
     "categoryId": "fitness",
     "subcategoryId": "fitness-training-racks",
     "shortDescription": "Training-space planning around equipment compatibility and installation.",
-    "detailedDescription": "Training-space planning around equipment compatibility and installation. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Power racks surround a barbell training area with a frame designed for a documented equipment system. They differ from open squat stands and partial-frame half racks in their arrangement around the user. Explain intended exercises, bar and bench requirements and available clearance. Safety attachments, anchoring and use must follow the selected equipment documentation.",
     "applications": [
       "Strength training",
       "Fitness spaces"
@@ -305,7 +305,7 @@
     "categoryId": "fitness",
     "subcategoryId": "fitness-weight-storage",
     "shortDescription": "Organization for weight plates and free-weight equipment.",
-    "detailedDescription": "Organization for weight plates and free-weight equipment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Weight storage racks are a broad starting point when several kinds of free weights need one organized area. Dumbbells, plates and kettlebells have different resting surfaces and retrieval needs, so dedicated types may be more useful once the inventory is known. Share the equipment mix and circulation space; no generic rack is assumed to suit every weight.",
     "applications": [
       "Weight organization",
       "Fitness spaces"
@@ -328,7 +328,7 @@
     "categoryId": "fitness",
     "subcategoryId": "fitness-sports-storage",
     "shortDescription": "Storage layouts for balls, training accessories and sports equipment.",
-    "detailedDescription": "Storage layouts for balls, training accessories and sports equipment. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Sports equipment racks organize mixed training or team equipment in a shared storage area. The mix may include awkward or round items that need different supports. List the equipment and intended users before comparing compartment arrangements. Dedicated medicine-ball and mat racks offer more focused choices when one item type dominates the brief.",
     "applications": [
       "Sports equipment",
       "Fitness spaces"
@@ -351,7 +351,7 @@
     "categoryId": "hospitality",
     "subcategoryId": "hospitality-kitchen-storage",
     "shortDescription": "Storage configurations for kitchen dimensions and operating conditions.",
-    "detailedDescription": "Storage configurations for kitchen dimensions and operating conditions. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Kitchen shelving supports back-of-house organization where container sizes, cleaning and environmental conditions guide the choice. It is a starting point for general shelf storage rather than pan runners or specialized drying arrangements. Include dry, wet or temperature-controlled placement and any applicable material or sanitation requirements. These must be confirmed for the actual selected product.",
     "applications": [
       "Kitchen supplies",
       "Hospitality storage"
@@ -374,7 +374,7 @@
     "categoryId": "hospitality",
     "subcategoryId": "hospitality-dish-storage",
     "shortDescription": "Dish organization planned around item dimensions and handling routines.",
-    "detailedDescription": "Dish organization planned around item dimensions and handling routines. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Dish storage racks organize clean dishes for access during preparation and service. Plates, bowls and other pieces need different clearances and support. Distinguish dry storage from washing, draining or transport in the enquiry; a dish-storage description does not imply dishwasher compatibility. Include the dish formats and the route between washing, storage and service.",
     "applications": [
       "Dishware",
       "Hospitality storage"
@@ -397,7 +397,7 @@
     "categoryId": "hospitality",
     "subcategoryId": "hospitality-luggage-storage",
     "shortDescription": "Luggage support and storage planning for guest accommodation.",
-    "detailedDescription": "Luggage support and storage planning for guest accommodation. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Luggage racks support a guest bag in a room or similar hospitality setting. They differ from back-of-house shelving for linen and from large baggage storage systems. Include the intended bag sizes, room footprint and storage position between uses. Folding mechanisms and support surfaces need confirmation for the selected configuration.",
     "applications": [
       "Guest luggage",
       "Hospitality storage"
@@ -420,7 +420,7 @@
     "categoryId": "technology",
     "subcategoryId": "technology-enclosed-racks",
     "shortDescription": "Equipment housing with cable access, usable depth and ventilation planning.",
-    "detailedDescription": "Equipment housing with cable access, usable depth and ventilation planning. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Server cabinets enclose rack-mounted equipment within a floor-standing cabinet arrangement. Equipment depth, rails, ventilation and service access all affect fit. Unlike an open frame, cabinet doors and panels introduce additional clearance and access questions. Share an equipment inventory and environmental requirements; enclosure alone does not imply cooling, security or a particular protection rating.",
     "applications": [
       "IT equipment",
       "Network infrastructure"
@@ -443,7 +443,7 @@
     "categoryId": "technology",
     "subcategoryId": "technology-open-racks",
     "shortDescription": "Open-frame equipment organization with access and cabling requirements.",
-    "detailedDescription": "Open-frame equipment organization with access and cabling requirements. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Open network racks are a starting point for network equipment that needs accessible cabling without cabinet panels. Two-post arrangements are common for suitable patching and network hardware, while equipment needing rear rail support may call for a four-post frame. Confirm mounting requirements from the device documentation and include cable routes, floor attachment and service clearances.",
     "applications": [
       "IT equipment",
       "Network infrastructure"
@@ -466,7 +466,7 @@
     "categoryId": "technology",
     "subcategoryId": "technology-wall-enclosures",
     "shortDescription": "Compact equipment housing assessed for wall structure and service access.",
-    "detailedDescription": "Compact equipment housing assessed for wall structure and service access. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Wall-mounted network enclosures place compatible equipment inside a cabinet attached to a wall. They differ from open wall frames in their doors, panels and access constraints. Include equipment depth, wall construction and ventilation needs. The mounting surface and enclosure must be assessed together, and no environmental protection rating is implied by this general type.",
     "applications": [
       "IT equipment",
       "Network infrastructure"
@@ -489,7 +489,7 @@
     "categoryId": "events",
     "subcategoryId": "events-coat-storage",
     "shortDescription": "Temporary garment storage planned around guest numbers and event location.",
-    "detailedDescription": "Temporary garment storage planned around guest numbers and event location. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Event coat racks arrange guest coats for temporary cloakroom use. They are planned around handing garments in and out, rather than costume changes backstage or customer browsing in a store. Include expected garment quantities, staffing and the room layout. Event dates and location are needed to assess sourcing or rental feasibility; availability is not assumed.",
     "applications": [
       "Guest coats",
       "Event organization"
@@ -512,7 +512,7 @@
     "categoryId": "events",
     "subcategoryId": "events-backstage-storage",
     "shortDescription": "Garment organization for productions, performances and changing areas.",
-    "detailedDescription": "Garment organization for productions, performances and changing areas. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Backstage garment racks support costume and wardrobe organization for performers or event staff. They serve a working wardrobe area rather than a guest cloakroom. Share garment lengths, identification needs and the route between dressing and performance areas. Wheels, covers and other accessories must be suitable for the selected system and intended movement.",
     "applications": [
       "Costumes",
       "Event organization"
@@ -535,7 +535,7 @@
     "categoryId": "events",
     "subcategoryId": "events-event-displays",
     "shortDescription": "Display layouts for temporary venues and exhibition spaces.",
-    "detailedDescription": "Display layouts for temporary venues and exhibition spaces. Discuss the intended use, layout and installation conditions to identify an appropriate configuration.",
+    "detailedDescription": "Event display racks present items in temporary event layouts. They differ from storage racks used for packed signs or equipment after an event. Include the display items, visitor access and whether the installation is indoors. Temporary use does not imply wind resistance, outdoor suitability or rigging approval; those requirements need separate assessment.",
     "applications": [
       "Exhibitions",
       "Event organization"
@@ -543,6 +543,1542 @@
     "features": [
       "Displayed items and venue requirements",
       "Transport, setup and access routes"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-drive-in-racking",
+    "slug": "drive-in-racking",
+    "name": "Drive-in pallet racking",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Deep-lane pallet storage for grouped stock rather than direct access to every pallet.",
+    "detailedDescription": "Pallets share storage lanes entered by handling equipment. This differs from selective racking, where each pallet position faces an aisle. Discuss the number of pallets per stock line and the order in which stock must leave; lane depth alone does not establish a suitable layout.",
+    "applications": [
+      "Pallet handling",
+      "Grouped stock storage"
+    ],
+    "features": [
+      "Pallet consistency and stock rotation",
+      "Handling equipment and lane access",
+      "Site-specific structure and protection review"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-push-back-racking",
+    "slug": "push-back-racking",
+    "name": "Push-back pallet racking",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Pallet lanes that use moving supports to store several pallets behind an aisle face.",
+    "detailedDescription": "Loading another pallet moves existing pallets further into a lane. The retrieval sequence differs from a through-flow arrangement. Explain how often each stock line is replenished and whether the required picking sequence suits this approach before comparing configurations. Include the expected pallet condition and inspection access in the brief.",
+    "applications": [
+      "Pallet handling",
+      "Dense pallet storage"
+    ],
+    "features": [
+      "Pallet condition and underside",
+      "Stock rotation requirements",
+      "Handling procedure and maintenance access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-pallet-flow-racking",
+    "slug": "pallet-flow-racking",
+    "name": "Pallet flow racking",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-pallet-storage",
+    "shortDescription": "Gravity-fed pallet lanes with separate replenishment and retrieval faces.",
+    "detailedDescription": "A flow layout moves pallets along a controlled roller lane toward the picking face. It is useful to discuss when stock rotation is central to the operation. Suitability depends on the actual pallets, goods and handling process; braking, gradients and structural design require specialist configuration.",
+    "applications": [
+      "Pallet handling",
+      "Stock rotation"
+    ],
+    "features": [
+      "Pallet construction and load behaviour",
+      "Loading and unloading access",
+      "Flow control and inspection needs"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-carton-flow-racking",
+    "slug": "carton-flow-racking",
+    "name": "Carton flow racks",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-shelving",
+    "shortDescription": "Picking lanes that present cartons or totes at a replenished front face.",
+    "detailedDescription": "Carton flow addresses hand-picking containers rather than full pallets. Describe the range of carton bases, tote shapes and pick frequency so lane suitability can be assessed. Separate replenishment access may help define the layout, but carton movement must be checked for the proposed configuration.",
+    "applications": [
+      "Order picking",
+      "Carton storage"
+    ],
+    "features": [
+      "Carton and tote base dimensions",
+      "Picking frequency and replenishment route",
+      "Product fragility and handling method"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-longspan-shelving",
+    "slug": "longspan-shelving",
+    "name": "Longspan shelving",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-shelving",
+    "shortDescription": "Shelf bays for hand-loaded bulky items that need more open horizontal space.",
+    "detailedDescription": "Longspan shelving is a starting point for cartons and components that do not fit small shelf compartments. It should not be treated as pallet racking simply because a bay is wide. Describe how goods will be lifted onto shelves and how the stock dimensions vary.",
+    "applications": [
+      "Bulky item storage",
+      "Hand picking"
+    ],
+    "features": [
+      "Item sizes and loading method",
+      "Shelf decking requirements",
+      "Access and floor layout"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-reel-storage-rack",
+    "slug": "reel-storage-rack",
+    "name": "Reel storage racks",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-long-materials",
+    "shortDescription": "Rack arrangements for organizing cable, hose or material reels.",
+    "detailedDescription": "Reels may need static storage or a system designed for dispensing. Those are different tasks, so specify whether a reel must rotate while in place. Include reel geometry, handling equipment and the material being stored; no dispensing capability is implied by a storage description.",
+    "applications": [
+      "Reel storage",
+      "Workshop organization"
+    ],
+    "features": [
+      "Reel diameter and width",
+      "Storage versus dispensing",
+      "Loading and restraint requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-sheet-material-rack",
+    "slug": "sheet-material-rack",
+    "name": "Sheet material storage racks",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-long-materials",
+    "shortDescription": "Separated storage positions for flat sheet stock and panels.",
+    "detailedDescription": "Sheet handling differs from long-bar storage because large faces and edges need access and support. Explain whether sheets are retrieved individually or in packs, and how they reach the work area. Orientation, restraint and handling equipment must be chosen for the material and installation.",
+    "applications": [
+      "Panel storage",
+      "Fabrication stock"
+    ],
+    "features": [
+      "Sheet format and pack size",
+      "Individual versus pack retrieval",
+      "Edge protection and handling access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-vertical-stock-rack",
+    "slug": "vertical-stock-rack",
+    "name": "Vertical stock racks",
+    "categoryId": "industrial",
+    "subcategoryId": "industrial-long-materials",
+    "shortDescription": "Upright compartments for organizing suitable lengths of stock.",
+    "detailedDescription": "Vertical storage can make individual lengths identifiable without laying them across horizontal arms. It is not appropriate for every material or length. Discuss usable height, retrieval posture and means of restraint with the supplier; the floor area alone is not enough to assess suitability.",
+    "applications": [
+      "Long stock storage",
+      "Workshop organization"
+    ],
+    "features": [
+      "Stock length and section",
+      "Ceiling and retrieval clearance",
+      "Restraint and safe handling review"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-headache-rack",
+    "slug": "headache-rack",
+    "name": "Truck headache racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-truck-storage",
+    "shortDescription": "Frames behind a pickup cab for compatible work-truck configurations.",
+    "detailedDescription": "A headache rack sits at the cab end of the bed rather than spanning the bed like an overhead cargo rack. Explain the intended use and any other bed-mounted equipment. Do not assume a general frame provides certified occupant protection or is a cargo support without documentation.",
+    "applications": [
+      "Work trucks",
+      "Fleet configuration"
+    ],
+    "features": [
+      "Truck make model and year",
+      "Bed rails and accessory conflicts",
+      "Documented intended function"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-utility-body-rack",
+    "slug": "utility-body-rack",
+    "name": "Utility body ladder racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-truck-storage",
+    "shortDescription": "Ladder-carrying frameworks configured around service-body compartments.",
+    "detailedDescription": "Service bodies have different mounting surfaces and access needs from standard pickup beds. Share body manufacturer information where known and show doors, lids and equipment that need clearance. A match to the vehicle chassis alone does not establish a match to the installed body.",
+    "applications": [
+      "Service vehicles",
+      "Ladder transport"
+    ],
+    "features": [
+      "Service-body details",
+      "Compartment and lid clearance",
+      "Mounting and ladder restraint"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-hitch-bike-rack",
+    "slug": "hitch-bike-rack",
+    "name": "Hitch-mounted bicycle racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-bicycle-carriers",
+    "shortDescription": "Bicycle carriers mounted at a compatible vehicle receiver.",
+    "detailedDescription": "A hitch carrier keeps bicycles behind the vehicle rather than above the roof. Check receiver compatibility, bicycle geometry and access to rear doors before requesting options. Towing hardware and bicycle carriers have different intended uses; vehicle and carrier documentation must be considered together.",
+    "applications": [
+      "Bicycle transport",
+      "Recreation vehicles"
+    ],
+    "features": [
+      "Receiver and vehicle details",
+      "Bicycle frame tyre and wheel sizes",
+      "Rear access and accessory interference"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-roof-bike-rack",
+    "slug": "roof-bike-rack",
+    "name": "Roof-mounted bicycle racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-bicycle-carriers",
+    "shortDescription": "Individual bicycle carriers fitted to compatible roof bars.",
+    "detailedDescription": "A roof bicycle carrier adds a bike-specific attachment to a roof-bar system. Fork-mounted and wheel-supported arrangements have different loading and compatibility needs. Include the bicycles and existing roof equipment in the enquiry; a generic carrier listing does not establish vehicle fit.",
+    "applications": [
+      "Bicycle transport",
+      "Roof-mounted equipment"
+    ],
+    "features": [
+      "Roof-bar profile and spacing",
+      "Bicycle attachment method",
+      "Loading reach and overall clearance"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-roof-cargo-basket",
+    "slug": "roof-cargo-basket",
+    "name": "Roof cargo baskets",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-roof-storage",
+    "shortDescription": "Open baskets for equipment carried on compatible vehicle roof bars.",
+    "detailedDescription": "An open basket organizes cargo above the vehicle without enclosing it in a roof box. It still requires suitable cargo restraint and does not protect goods from weather. Share the existing bars, intended cargo and access requirements so the complete carrying system can be checked.",
+    "applications": [
+      "Cargo transport",
+      "Roof-mounted equipment"
+    ],
+    "features": [
+      "Vehicle and roof-bar details",
+      "Cargo shape and restraint",
+      "Overall vehicle height"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-kayak-carrier",
+    "slug": "kayak-carrier",
+    "name": "Kayak roof carriers",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-roof-storage",
+    "shortDescription": "Boat cradles or supports for a compatible vehicle roof system.",
+    "detailedDescription": "A kayak carrier supports the hull differently from a flat cargo basket. Hull shape, loading method and tie-down arrangements affect the choice. Describe the boat and vehicle together; do not assume one cradle suits every hull or that roof bars alone complete the transport setup.",
+    "applications": [
+      "Watercraft transport",
+      "Roof-mounted equipment"
+    ],
+    "features": [
+      "Hull shape and boat dimensions",
+      "Roof system and loading reach",
+      "Carrier and restraint compatibility"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-ski-snowboard-carrier",
+    "slug": "ski-snowboard-carrier",
+    "name": "Ski and snowboard carriers",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-roof-storage",
+    "shortDescription": "Purpose-shaped roof attachments for winter sports equipment.",
+    "detailedDescription": "These carriers hold skis or boards above the vehicle and are distinct from bicycle mounts or general cargo baskets. Equipment thickness, bindings and roof clearance can affect fit. Include the quantity and equipment mix, and check the vehicle and roof-system instructions for the full arrangement.",
+    "applications": [
+      "Winter sports transport",
+      "Roof-mounted equipment"
+    ],
+    "features": [
+      "Ski and board mix",
+      "Binding and roof clearance",
+      "Existing roof-bar compatibility"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-trailer-ladder-rack",
+    "slug": "trailer-ladder-rack",
+    "name": "Trailer ladder racks",
+    "categoryId": "automotive",
+    "subcategoryId": "automotive-ladder-transport",
+    "shortDescription": "Ladder supports configured for a compatible work trailer.",
+    "detailedDescription": "Trailer racks must be matched to the trailer structure and the equipment being carried. An enclosed trailer roof and an open trailer frame present different mounting questions. Share trailer construction details and loading access rather than assuming a vehicle ladder rack can be transferred directly.",
+    "applications": [
+      "Trailer equipment",
+      "Ladder transport"
+    ],
+    "features": [
+      "Trailer make and construction",
+      "Loading route and ladder lengths",
+      "Mounting and restraint documentation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-garden-tool-rack",
+    "slug": "garden-tool-rack",
+    "name": "Garden tool storage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-wall-storage",
+    "shortDescription": "Dedicated holders for long-handled garden tools and awkward handles.",
+    "detailedDescription": "Tool holders separate shovels, rakes and similar equipment so each can be reached without moving an entire pile. They differ from a general wall rail because the tool shape determines the holder arrangement. Describe handles, head widths and wall construction before choosing mounting accessories.",
+    "applications": [
+      "Garden tool storage",
+      "Home organization"
+    ],
+    "features": [
+      "Tool handle and head shapes",
+      "Wall construction",
+      "Reach and access spacing"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-lumber-storage-rack",
+    "slug": "lumber-storage-rack",
+    "name": "Home workshop lumber racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-workshop-storage",
+    "shortDescription": "Horizontal storage for boards and offcuts in a home workshop.",
+    "detailedDescription": "A lumber rack organizes lengths alongside a work area rather than enclosing tools on shelves. Board length and the way pieces are removed matter as much as the amount of storage. Support spacing and attachment need assessment for the actual stock and building; no capacity is assumed.",
+    "applications": [
+      "Home woodworking",
+      "Long material storage"
+    ],
+    "features": [
+      "Board lengths and sections",
+      "Available wall or floor space",
+      "Support and attachment review"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-sports-ball-rack",
+    "slug": "sports-ball-rack",
+    "name": "Home sports ball racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-household-storage",
+    "shortDescription": "Compartments or retaining rails for household balls and play equipment.",
+    "detailedDescription": "Round items can roll off ordinary shelves. A ball rack gives them defined storage positions while leaving room to retrieve the items used most often. Share the ball sizes and users' reach; a home storage arrangement should not be assumed suitable for a commercial sports facility.",
+    "applications": [
+      "Home sports storage",
+      "Play equipment"
+    ],
+    "features": [
+      "Ball sizes and quantities",
+      "Retrieval height",
+      "Wall-mounted versus freestanding use"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-pantry-rack",
+    "slug": "pantry-rack",
+    "name": "Pantry storage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-household-storage",
+    "shortDescription": "Open shelving arrangements for packaged food and household supplies.",
+    "detailedDescription": "Pantry racks organize items for visibility and regular rotation. They are distinct from commercial kitchen shelving specified for a regulated food-service environment. Include package heights, room conditions and the available aisle so shelf spacing and access can be discussed without assuming a particular finish.",
+    "applications": [
+      "Pantry organization",
+      "Household supplies"
+    ],
+    "features": [
+      "Package sizes and access",
+      "Room humidity and cleaning",
+      "Shelf spacing preferences"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-laundry-drying-rack",
+    "slug": "laundry-drying-rack",
+    "name": "Laundry drying racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-household-storage",
+    "shortDescription": "Rails or arms for hanging household laundry during air drying.",
+    "detailedDescription": "A drying rack needs space around hanging fabric, not only enough rail length. Describe whether it will stand on the floor or attach to a wall and how it must store between uses. Moisture exposure, ventilation and attachment suitability should be considered for the room.",
+    "applications": [
+      "Laundry organization",
+      "Air drying"
+    ],
+    "features": [
+      "Wet garment types",
+      "Open and stored footprint",
+      "Room ventilation and mounting"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-shoe-storage-rack",
+    "slug": "shoe-storage-rack",
+    "name": "Shoe storage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-household-storage",
+    "shortDescription": "Tiers or compartments sized around household footwear.",
+    "detailedDescription": "Shoes, boots and children's footwear need different clearances. A shoe rack can keep entryway items visible, but a narrow footprint is not enough if doors or walkways are obstructed. Include the footwear mix and cleaning conditions when comparing open tiers with individual compartments.",
+    "applications": [
+      "Footwear storage",
+      "Entryway organization"
+    ],
+    "features": [
+      "Boot and shoe heights",
+      "Entryway clearance",
+      "Cleaning and moisture exposure"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-firewood-rack",
+    "slug": "firewood-rack",
+    "name": "Firewood storage racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-household-storage",
+    "shortDescription": "Frames that contain stacked firewood in a defined storage area.",
+    "detailedDescription": "A firewood rack organizes split logs rather than long workshop timber. Indoor and outdoor placements have different exposure and housekeeping needs. Explain log length, replenishment access and the proposed location; placement near heat sources must follow the applicable appliance and building guidance.",
+    "applications": [
+      "Firewood storage",
+      "Household organization"
+    ],
+    "features": [
+      "Log sizes",
+      "Indoor or outdoor placement",
+      "Replenishment and housekeeping access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-clamp-storage-rack",
+    "slug": "clamp-storage-rack",
+    "name": "Workshop clamp racks",
+    "categoryId": "garage",
+    "subcategoryId": "garage-workshop-storage",
+    "shortDescription": "Dedicated supports for hanging or separating woodworking clamps.",
+    "detailedDescription": "Clamps have projecting handles and bars that can make a general shelf awkward. A clamp rack arranges tools so individual sizes can be selected near the bench. Share clamp styles and lengths, and identify the mounting surface; tools should not be assumed interchangeable with any holder pattern.",
+    "applications": [
+      "Home woodworking",
+      "Tool organization"
+    ],
+    "features": [
+      "Clamp styles and lengths",
+      "Bench access",
+      "Mounting surface and tool spacing"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-four-way-clothing-rack",
+    "slug": "four-way-clothing-rack",
+    "name": "Four-way clothing racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-garment-display",
+    "shortDescription": "Garment displays arranged around four projecting arms.",
+    "detailedDescription": "A four-way rack presents selected clothing groups around a central frame rather than along a continuous rail. It can suit browsing from several directions, provided aisle space remains usable. Describe hanger styles, garment lengths and presentation needs before selecting arm positions or accessories.",
+    "applications": [
+      "Clothing presentation",
+      "Shop-floor displays"
+    ],
+    "features": [
+      "Garment and hanger mix",
+      "Browsing clearance",
+      "Arm arrangement and display height"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-round-garment-rack",
+    "slug": "round-garment-rack",
+    "name": "Round garment racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-garment-display",
+    "shortDescription": "Circular hanging rails for browsing garments around a central display.",
+    "detailedDescription": "A circular rail differs from a straight rolling garment rack in how customers approach the clothing. The overall diameter and the space around the fixture both matter. Include long garments and any intended signage; accessory compatibility and stability require confirmation for the configuration.",
+    "applications": [
+      "Clothing presentation",
+      "Shop-floor displays"
+    ],
+    "features": [
+      "Garment lengths",
+      "Circular browsing space",
+      "Signage and rail arrangement"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-gondola-shelving",
+    "slug": "gondola-shelving",
+    "name": "Gondola shelving",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Freestanding retail shelf runs organized around upright merchandising panels.",
+    "detailedDescription": "Gondola layouts can create aisles and organize merchandise on defined shelf faces. They differ from a simple display bookcase in their planned run and accessory arrangement. Describe package sizes, restocking routes and layout changes; fixtures still need suitability and stability review for the actual store.",
+    "applications": [
+      "Retail aisles",
+      "Packaged merchandise"
+    ],
+    "features": [
+      "Aisle layout",
+      "Merchandise dimensions",
+      "Shelf and accessory compatibility"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-gridwall-display",
+    "slug": "gridwall-display",
+    "name": "Gridwall display racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-portable-displays",
+    "shortDescription": "Wire-grid display panels fitted with compatible merchandise accessories.",
+    "detailedDescription": "Gridwall presents items on a grid rather than on solid shelving or slotted panels. Hooks, baskets and feet must match the chosen system. Describe the merchandise and whether the panel is fixed or freestanding; an accessory that appears to fit is not evidence of a safe configuration.",
+    "applications": [
+      "Accessory displays",
+      "Flexible merchandising"
+    ],
+    "features": [
+      "Merchandise attachment needs",
+      "Fixed or freestanding layout",
+      "Grid accessory compatibility"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-slatwall-display",
+    "slug": "slatwall-display",
+    "name": "Slatwall display systems",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Slotted display panels used with matching hooks and shelves.",
+    "detailedDescription": "Slatwall uses horizontal slots to organize accessories along a panel face. It is a different attachment system from gridwall, so existing fittings should be identified before requesting additions. Panel construction, mounting and accessory loading need review together rather than treating each hook in isolation.",
+    "applications": [
+      "Wall merchandising",
+      "Accessory displays"
+    ],
+    "features": [
+      "Panel and accessory system",
+      "Mounting surface",
+      "Merchandise distribution"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-retail-shoe-rack",
+    "slug": "retail-shoe-rack",
+    "name": "Retail footwear display racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-shelf-displays",
+    "shortDescription": "Merchandising tiers for presenting shoes to customers.",
+    "detailedDescription": "A footwear display is arranged for visibility and browsing rather than household shoe storage. Single display shoes, pairs and boxed stock need different surfaces. Explain whether customers handle the merchandise and how sizes are replenished so the fixture supports the intended presentation.",
+    "applications": [
+      "Footwear merchandising",
+      "Shop-floor displays"
+    ],
+    "features": [
+      "Display shoes versus boxes",
+      "Customer reach",
+      "Replenishment and signage"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-literature-rack",
+    "slug": "literature-rack",
+    "name": "Literature display racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-portable-displays",
+    "shortDescription": "Pockets or tiers for brochures, catalogues and printed material.",
+    "detailedDescription": "Literature racks keep printed pieces identifiable and accessible without laying every item on a counter. Paper format, thickness and whether material is removed or only viewed affect pocket choice. Include indoor placement and display changes; weather resistance is not implied by this generic type.",
+    "applications": [
+      "Printed literature",
+      "Customer information"
+    ],
+    "features": [
+      "Paper formats",
+      "Pocket depth and replenishment",
+      "Floor or counter placement"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-retail-stockroom-rack",
+    "slug": "retail-stockroom-rack",
+    "name": "Retail stockroom racks",
+    "categoryId": "retail",
+    "subcategoryId": "retail-backroom-storage",
+    "shortDescription": "Back-of-house shelf layouts for replenishment stock and cartons.",
+    "detailedDescription": "Stockroom racks prioritize identification and retrieval away from the sales floor. Unlike customer display fixtures, the brief should focus on carton handling, stock rotation and access to reserve inventory. State whether items are hand-loaded; pallet handling needs a different storage assessment.",
+    "applications": [
+      "Retail replenishment",
+      "Backroom storage"
+    ],
+    "features": [
+      "Carton sizes and handling",
+      "Stock identification",
+      "Replenishment route"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-squat-stand",
+    "slug": "squat-stand",
+    "name": "Squat stands",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-training-racks",
+    "shortDescription": "Open bar-support stands for a specifically assessed training setup.",
+    "detailedDescription": "Squat stands support a bar without the surrounding frame of a full power rack. The intended exercises, bar and available safety arrangements must be reviewed together. A small footprint does not establish suitability for every lift, and accessories are not automatically compatible across stand systems.",
+    "applications": [
+      "Barbell training",
+      "Training layout"
+    ],
+    "features": [
+      "Intended exercises",
+      "Bar and bench compatibility",
+      "Documented safety and stability arrangements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-half-rack",
+    "slug": "half-rack",
+    "name": "Half racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-training-racks",
+    "shortDescription": "Partial-frame barbell racks for training areas with defined front access.",
+    "detailedDescription": "A half rack has a different working enclosure from a full power rack. Discuss the exercise area, bar path and any proposed spotter attachments rather than selecting only by overall footprint. Compatibility, anchoring and safe use need to follow the actual equipment documentation.",
+    "applications": [
+      "Barbell training",
+      "Training layout"
+    ],
+    "features": [
+      "Working and bar clearance",
+      "Compatible safety attachments",
+      "Floor and anchoring assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-folding-wall-rack",
+    "slug": "folding-wall-rack",
+    "name": "Folding wall training racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-training-racks",
+    "shortDescription": "Wall-attached training frames designed to fold away between uses.",
+    "detailedDescription": "A folding rack requires space in both its training position and stored position. It differs from a freestanding power rack because the building attachment is part of the setup. Include wall construction and intended equipment; folding capability does not remove the need for installation assessment.",
+    "applications": [
+      "Shared training spaces",
+      "Barbell training"
+    ],
+    "features": [
+      "Open and folded clearances",
+      "Wall structure",
+      "Bar and accessory compatibility"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-dumbbell-rack",
+    "slug": "dumbbell-rack",
+    "name": "Dumbbell racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-weight-storage",
+    "shortDescription": "Cradles or shelves arranged for paired dumbbell storage.",
+    "detailedDescription": "Dumbbell shape and handle access affect how a set fits on a rack. A layout for fixed dumbbells may not suit adjustable sets or other free weights. Share the equipment inventory and the way users approach the rack so storage can be matched to the actual training space.",
+    "applications": [
+      "Dumbbell storage",
+      "Gym organization"
+    ],
+    "features": [
+      "Dumbbell shapes and pair count",
+      "Handle access",
+      "Placement and circulation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-weight-plate-rack",
+    "slug": "weight-plate-rack",
+    "name": "Weight plate racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-weight-storage",
+    "shortDescription": "Posts or divided positions for storing compatible weight plates.",
+    "detailedDescription": "Plate racks organize discs separately from barbell or dumbbell storage. Hole sizes, plate diameters and retrieval order affect the configuration. Identify the actual plates and whether storage is standalone or attached to training equipment; attachment compatibility and stability need confirmation.",
+    "applications": [
+      "Plate storage",
+      "Gym organization"
+    ],
+    "features": [
+      "Plate hole and diameter",
+      "Plate mix and retrieval",
+      "Standalone or attached arrangement"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-kettlebell-rack",
+    "slug": "kettlebell-rack",
+    "name": "Kettlebell racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-weight-storage",
+    "shortDescription": "Shelf arrangements that leave room for kettlebell bases and handles.",
+    "detailedDescription": "Kettlebells need a stable resting surface with sufficient handle clearance for retrieval. This is a different fit question from dumbbell cradles. Include the bell sizes and how users lift them from storage; suitability and equipment limits must be checked for the selected shelf system.",
+    "applications": [
+      "Kettlebell storage",
+      "Gym organization"
+    ],
+    "features": [
+      "Bell base and handle dimensions",
+      "Tier access",
+      "Available circulation space"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-medicine-ball-rack",
+    "slug": "medicine-ball-rack",
+    "name": "Medicine ball racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-sports-storage",
+    "shortDescription": "Retaining shelves or cradles for exercise balls used in training.",
+    "detailedDescription": "Round training equipment needs supports that prevent unintended rolling during storage. Ball diameters and surface types vary, so a rack for one set may not suit another. Describe medicine balls separately from large stability balls and include how they will be retrieved.",
+    "applications": [
+      "Training ball storage",
+      "Gym organization"
+    ],
+    "features": [
+      "Ball diameter and type",
+      "Retention arrangement",
+      "Access for intended users"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-yoga-mat-rack",
+    "slug": "yoga-mat-rack",
+    "name": "Yoga mat storage racks",
+    "categoryId": "fitness",
+    "subcategoryId": "fitness-sports-storage",
+    "shortDescription": "Hanging or compartment storage for compatible exercise mats.",
+    "detailedDescription": "Rolled mats and mats with hanging eyelets need different storage arrangements. Include the actual mat dimensions, drying needs and class turnover so storage does not become a bottleneck. A rack description alone does not establish hygiene performance or suitability for damp equipment.",
+    "applications": [
+      "Studio organization",
+      "Exercise mat storage"
+    ],
+    "features": [
+      "Rolled versus hanging mats",
+      "Mat dimensions and quantity",
+      "Cleaning and drying workflow"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-sheet-pan-rack",
+    "slug": "sheet-pan-rack",
+    "name": "Sheet pan racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-bakery-storage",
+    "shortDescription": "Guided slots for moving or storing compatible baking pans.",
+    "detailedDescription": "Pan racks support pans on runners rather than on general-purpose shelves. Pan format and insertion direction must match the rack. Describe whether the task is cooling, staging or movement between work areas; oven compatibility and temperature suitability are not implied by a generic pan rack.",
+    "applications": [
+      "Bakery staging",
+      "Pan storage"
+    ],
+    "features": [
+      "Pan format and runner spacing",
+      "Staging versus transport",
+      "Temperature and cleaning requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-glassware-rack",
+    "slug": "glassware-rack",
+    "name": "Glassware storage racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-dish-storage",
+    "shortDescription": "Compartment or support arrangements for organizing service glassware.",
+    "detailedDescription": "Glassware needs separation and handling access appropriate to its shape. A storage rack is not necessarily a dishwasher rack or a transport crate. Explain whether glasses are being stored, washed or moved, and include stem and bowl dimensions so the intended use is clear.",
+    "applications": [
+      "Glassware organization",
+      "Service preparation"
+    ],
+    "features": [
+      "Glass dimensions and stems",
+      "Storage versus wash process",
+      "Handling and breakage prevention"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-pot-pan-rack",
+    "slug": "pot-pan-rack",
+    "name": "Pot and pan racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-kitchen-storage",
+    "shortDescription": "Shelves or hanging supports for commercial cookware organization.",
+    "detailedDescription": "Cookware varies widely in diameter, handle projection and frequency of use. A pot rack should be planned around the work area and retrieval method rather than treated as dish storage. Where wall or overhead mounting is proposed, building attachment and access require assessment.",
+    "applications": [
+      "Cookware storage",
+      "Kitchen organization"
+    ],
+    "features": [
+      "Cookware and handle sizes",
+      "Retrieval and preparation route",
+      "Mounting and cleaning access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-kitchen-drying-rack",
+    "slug": "kitchen-drying-rack",
+    "name": "Kitchen equipment drying racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-dish-storage",
+    "shortDescription": "Open arrangements for air drying suitable utensils or kitchen items.",
+    "detailedDescription": "Drying storage needs drainage, access and separation from items ready for use. It is distinct from a rack used only for dry storage. Explain what is washed, how it drains and the applicable cleaning requirements; no sanitation certification is implied by the category.",
+    "applications": [
+      "Wash-area organization",
+      "Equipment drying"
+    ],
+    "features": [
+      "Item shapes and drainage",
+      "Wet-area environment",
+      "Cleaning process and separation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-wine-bottle-rack",
+    "slug": "wine-bottle-rack",
+    "name": "Wine bottle racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-beverage-storage",
+    "shortDescription": "Individual bottle positions for organized beverage storage.",
+    "detailedDescription": "Bottle shape and access determine the storage pattern. Display use and back-of-house bottle storage can call for different arrangements, and a rack does not control temperature or humidity. Include bottle formats and retrieval needs before discussing the room layout and supporting structure.",
+    "applications": [
+      "Bottle storage",
+      "Beverage organization"
+    ],
+    "features": [
+      "Bottle formats",
+      "Display versus reserve storage",
+      "Room conditions and access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-dunnage-rack",
+    "slug": "dunnage-rack",
+    "name": "Dunnage racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-kitchen-storage",
+    "shortDescription": "Low storage platforms for keeping suitable goods off the floor.",
+    "detailedDescription": "A dunnage rack addresses floor-level stock storage rather than multi-tier picking. Include package dimensions, cleaning access and environmental requirements. Suitability for food-service use, required clearances and any material or sanitation standard must be confirmed for the specific product and location.",
+    "applications": [
+      "Bulk kitchen storage",
+      "Back-of-house stock"
+    ],
+    "features": [
+      "Package footprints",
+      "Cleaning and floor clearance",
+      "Applicable food-service requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-housekeeping-linen-rack",
+    "slug": "housekeeping-linen-rack",
+    "name": "Housekeeping linen racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-housekeeping-storage",
+    "shortDescription": "Shelving for separating folded linen and housekeeping supplies.",
+    "detailedDescription": "Linen storage is organized around item sizes, replenishment and separation of clean goods. It differs from guest luggage supports and kitchen dish racks. Describe room conditions and staff access; the storage layout alone does not establish an infection-control or laundry process.",
+    "applications": [
+      "Linen storage",
+      "Housekeeping organization"
+    ],
+    "features": [
+      "Folded linen sizes",
+      "Clean supply workflow",
+      "Staff access and replenishment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-bakery-tray-display-rack",
+    "slug": "bakery-tray-display-rack",
+    "name": "Bakery tray display racks",
+    "categoryId": "hospitality",
+    "subcategoryId": "hospitality-bakery-storage",
+    "shortDescription": "Customer-facing arrangements for presenting compatible trays of baked goods.",
+    "detailedDescription": "Tray display focuses on presentation and replenishment rather than back-of-house pan transport. Explain the tray format, serving method and any separate enclosure requirements. A display rack does not imply heated, refrigerated or enclosed food protection; those needs must be specified independently.",
+    "applications": [
+      "Bakery presentation",
+      "Service displays"
+    ],
+    "features": [
+      "Tray format",
+      "Customer access or staff service",
+      "Food protection requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-four-post-open-rack",
+    "slug": "four-post-open-rack",
+    "name": "Four-post open equipment racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-open-racks",
+    "shortDescription": "Open frames that support equipment mounting at front and rear posts.",
+    "detailedDescription": "Four-post frames differ from two-post network racks in their mounting arrangement. They provide access around installed equipment but do not provide the enclosure of a cabinet. Share equipment depth, rail requirements and cable access so the frame can be checked against the actual inventory.",
+    "applications": [
+      "IT equipment mounting",
+      "Equipment rooms"
+    ],
+    "features": [
+      "Equipment and rail depth",
+      "Front and rear access",
+      "Floor placement and stability"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-wall-open-network-rack",
+    "slug": "wall-open-network-rack",
+    "name": "Open wall network racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-wall-enclosures",
+    "shortDescription": "Wall-attached frames for accessible network equipment mounting.",
+    "detailedDescription": "An open wall rack leaves equipment exposed instead of enclosing it behind cabinet panels. It can be considered where service access matters, but the wall and attachment must support the proposed setup. Equipment projection, cable routes and the surrounding environment remain part of the fit assessment.",
+    "applications": [
+      "Network equipment",
+      "Wall-mounted systems"
+    ],
+    "features": [
+      "Wall structure",
+      "Equipment depth and projection",
+      "Cable and service clearance"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-vertical-wall-rack",
+    "slug": "vertical-wall-rack",
+    "name": "Vertical wall equipment racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-wall-enclosures",
+    "shortDescription": "Wall brackets that orient compatible rack equipment vertically.",
+    "detailedDescription": "Vertical mounting changes equipment orientation compared with a conventional horizontal rack. Manufacturer instructions must permit that orientation, and connections need accessible routing. Describe the devices and connectors rather than assuming every rack-mount device can be turned and hung on a wall.",
+    "applications": [
+      "Compact IT spaces",
+      "Wall-mounted systems"
+    ],
+    "features": [
+      "Permitted equipment orientation",
+      "Connector and cable clearance",
+      "Wall attachment assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-swing-out-wall-rack",
+    "slug": "swing-out-wall-rack",
+    "name": "Swing-out wall equipment racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-wall-enclosures",
+    "shortDescription": "Hinged mounting frames intended to provide rear service access.",
+    "detailedDescription": "A swing-out arrangement creates an opening path that fixed wall racks do not need. Cable slack, surrounding clearance and the support structure must be considered in both closed and service positions. The hinge and mounting system must be assessed for the actual installed equipment.",
+    "applications": [
+      "Network servicing",
+      "Wall-mounted systems"
+    ],
+    "features": [
+      "Swing path",
+      "Cable movement and service access",
+      "Wall and hinge suitability"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-slide-out-av-rack",
+    "slug": "slide-out-av-rack",
+    "name": "Slide-out audiovisual racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-av-racks",
+    "shortDescription": "Equipment frames intended to extend from compatible cabinetry for servicing.",
+    "detailedDescription": "Slide-out racks address access inside furniture or built-in enclosures. They differ from a freestanding server cabinet because the surrounding cabinet and travel mechanism are part of the installation. Include cabinet openings, cable movement and ventilation requirements; extension capability must be documented for the selected system.",
+    "applications": [
+      "AV installations",
+      "Cabinet integration"
+    ],
+    "features": [
+      "Cabinet opening and depth",
+      "Travel and cable clearance",
+      "Equipment ventilation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-desktop-equipment-rack",
+    "slug": "desktop-equipment-rack",
+    "name": "Desktop equipment racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-av-racks",
+    "shortDescription": "Compact rack frames for compatible equipment on a work surface.",
+    "detailedDescription": "Desktop racks organize rack-mount devices near an operator rather than in a dedicated floor cabinet. Working height, rear connectors and desk suitability affect the arrangement. Include the equipment inventory and workspace dimensions; a compact frame still requires adequate support and ventilation.",
+    "applications": [
+      "AV workstations",
+      "Lab equipment mounting"
+    ],
+    "features": [
+      "Work-surface support",
+      "Device depth and connectors",
+      "Operator access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-battery-equipment-rack",
+    "slug": "battery-equipment-rack",
+    "name": "Stationary battery racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-specialist-racks",
+    "shortDescription": "Support frameworks specified for compatible stationary battery systems.",
+    "detailedDescription": "Battery support is a specialist application distinct from general server or network shelving. Battery chemistry, installation environment and the system manufacturer's requirements determine the assessment. Include the approved system documentation; electrical, ventilation, fire and structural requirements need appropriately qualified review.",
+    "applications": [
+      "Stationary power systems",
+      "Specialist equipment storage"
+    ],
+    "features": [
+      "Battery system documentation",
+      "Installation environment",
+      "Qualified electrical and structural assessment"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-portable-av-rack",
+    "slug": "portable-av-rack",
+    "name": "Portable audiovisual equipment racks",
+    "categoryId": "technology",
+    "subcategoryId": "technology-av-racks",
+    "shortDescription": "Transportable rack enclosures for compatible audio and video devices.",
+    "detailedDescription": "Portable AV racks combine equipment mounting with handling between locations. They differ from venue storage racks for loose cases: the devices remain mounted within the enclosure. Specify connector access, transport method and operating conditions; protective performance cannot be assumed without product documentation.",
+    "applications": [
+      "Mobile AV systems",
+      "Equipment transport"
+    ],
+    "features": [
+      "Mounted equipment inventory",
+      "Transport and handling method",
+      "Operating and connector access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-folding-chair-rack",
+    "slug": "folding-chair-rack",
+    "name": "Folding chair storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Frames that organize compatible folded chairs between event layouts.",
+    "detailedDescription": "Chair storage needs to match the folded chair geometry and handling method. It is different from general backstage shelving because chairs interlock or rest on specific supports. Provide chair details, door widths and the route to the venue floor; transport use must be confirmed for the chosen frame.",
+    "applications": [
+      "Venue furniture storage",
+      "Event changeovers"
+    ],
+    "features": [
+      "Chair model and folded dimensions",
+      "Door and route clearance",
+      "Static storage versus transport"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-banquet-table-rack",
+    "slug": "banquet-table-rack",
+    "name": "Banquet table storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Dedicated supports for storing compatible folding event tables.",
+    "detailedDescription": "Table racks depend on tabletop shape, folded thickness and the way tables are loaded. Round and rectangular tables should not be assumed to fit the same supports. Include the table inventory and handling route so storage arrangement and movement requirements can be assessed together.",
+    "applications": [
+      "Venue furniture storage",
+      "Event changeovers"
+    ],
+    "features": [
+      "Table shapes and folded sizes",
+      "Loading procedure",
+      "Storage and transport access"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-stanchion-storage-rack",
+    "slug": "stanchion-storage-rack",
+    "name": "Stanchion storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Storage frames for compatible queue posts when they are not in use.",
+    "detailedDescription": "This is storage for crowd-management equipment, not a barrier system for directing people. Post bases and belt housings affect spacing and handling. Share the existing stanchion model and intended transport route; do not assume a storage frame has a public-safety barrier function.",
+    "applications": [
+      "Queue equipment storage",
+      "Event changeovers"
+    ],
+    "features": [
+      "Post and base dimensions",
+      "Handling method",
+      "Storage route and restraint"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-pipe-drape-storage-rack",
+    "slug": "pipe-drape-storage-rack",
+    "name": "Pipe-and-drape component racks",
+    "categoryId": "events",
+    "subcategoryId": "events-backstage-storage",
+    "shortDescription": "Organized storage for dismantled backdrop uprights, crossbars and bases.",
+    "detailedDescription": "Backdrop components vary in length and shape and may need separate support positions. These racks store dismantled equipment; they are not live rigging or a backdrop support structure. Include the component inventory and whether items are carried together or retrieved individually.",
+    "applications": [
+      "Backdrop equipment storage",
+      "Backstage organization"
+    ],
+    "features": [
+      "Upright and crossbar lengths",
+      "Base shapes",
+      "Transport and component separation"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-lighting-fixture-storage-rack",
+    "slug": "lighting-fixture-storage-rack",
+    "name": "Lighting fixture storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-backstage-storage",
+    "shortDescription": "Storage frames for compatible unpowered event-lighting fixtures.",
+    "detailedDescription": "A fixture storage rack is used between installations and must not be treated as an overhead lighting rig. Fixture geometry, fragile parts and handling procedures influence support choices. Share model documentation and any transport requirements; rigging and electrical installation are separate specialist tasks.",
+    "applications": [
+      "Lighting equipment storage",
+      "Backstage organization"
+    ],
+    "features": [
+      "Fixture geometry",
+      "Protection of fragile parts",
+      "Storage versus transport requirements"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-road-case-storage-rack",
+    "slug": "road-case-storage-rack",
+    "name": "Road case storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Shelf or bay arrangements for organizing loose event equipment cases.",
+    "detailedDescription": "Road-case storage concerns the outside dimensions and handling of closed cases, rather than mounting devices inside an AV rack. Identify which cases can be stacked and which need individual access. Floor layout and retrieval equipment should be assessed for the actual case inventory.",
+    "applications": [
+      "Equipment case storage",
+      "Venue operations"
+    ],
+    "features": [
+      "Case dimensions and handling",
+      "Individual access needs",
+      "Storage route and floor layout"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-sign-panel-storage-rack",
+    "slug": "sign-panel-storage-rack",
+    "name": "Event sign panel racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Separated positions for storing reusable event signs and panels.",
+    "detailedDescription": "Flat signage needs support that avoids damage to printed faces and edges. This type stores panels between uses rather than presenting signs to visitors. Include panel sizes, fragility and transport needs; a storage rack is not an outdoor sign support or wind-rated display.",
+    "applications": [
+      "Signage storage",
+      "Event changeovers"
+    ],
+    "features": [
+      "Panel formats",
+      "Face and edge protection",
+      "Storage and transport method"
+    ],
+    "specifications": [],
+    "images": [],
+    "pricingMode": "quote",
+    "status": "example-type",
+    "published": true,
+    "updatedAt": "2026-10-15"
+  },
+  {
+    "id": "type-stage-deck-storage-rack",
+    "slug": "stage-deck-storage-rack",
+    "name": "Stage deck storage racks",
+    "categoryId": "events",
+    "subcategoryId": "events-event-storage",
+    "shortDescription": "Storage frameworks matched to compatible modular stage panels.",
+    "detailedDescription": "Stage deck racks organize dismantled platform panels and related components. They are separate from the supporting stage structure used during an event. Panel geometry and handling equipment must be identified; neither stage capacity nor transport suitability can be inferred from this general storage type.",
+    "applications": [
+      "Stage equipment storage",
+      "Venue operations"
+    ],
+    "features": [
+      "Stage panel documentation",
+      "Panel handling method",
+      "Access and restraint requirements"
     ],
     "specifications": [],
     "images": [],
