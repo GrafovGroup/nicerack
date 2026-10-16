@@ -1,0 +1,170 @@
+{
+  "/fr/produits/palettiers-selectifs": {
+    "src": "/images/products/fr/palettiers-selectifs.webp",
+    "alt": "Palettiers sélectifs",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rayonnages-en-porte-a-faux": {
+    "src": "/images/products/fr/rayonnages-en-porte-a-faux.webp",
+    "alt": "Rayonnages en porte-à-faux",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/etageres-industrielles": {
+    "src": "/images/products/fr/etageres-industrielles.webp",
+    "alt": "Étagères industrielles",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/supports-a-echelles-pour-vehicules": {
+    "src": "/images/products/fr/supports-a-echelles-pour-vehicules.webp",
+    "alt": "Supports à échelles pour véhicules",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/barres-de-toit": {
+    "src": "/images/products/fr/barres-de-toit.webp",
+    "alt": "Barres de toit",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/supports-pour-caisse-de-camionnette": {
+    "src": "/images/products/fr/supports-pour-caisse-de-camionnette.webp",
+    "alt": "Supports pour caisse de camionnette",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-mural": {
+    "src": "/images/products/fr/rangement-mural.webp",
+    "alt": "Rangement mural",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-suspendu-pour-garage": {
+    "src": "/images/products/fr/rangement-suspendu-pour-garage.webp",
+    "alt": "Rangement suspendu pour garage",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-pour-velos": {
+    "src": "/images/products/fr/rangement-pour-velos.webp",
+    "alt": "Rangement pour vélos",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/portants-a-vetements-sur-roulettes": {
+    "src": "/images/products/fr/portants-a-vetements-sur-roulettes.webp",
+    "alt": "Portants à vêtements sur roulettes",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/etageres-de-presentation": {
+    "src": "/images/products/fr/etageres-de-presentation.webp",
+    "alt": "Étagères de présentation",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/presentoirs-mobiles": {
+    "src": "/images/products/fr/presentoirs-mobiles.webp",
+    "alt": "Présentoirs mobiles",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/cages-de-musculation": {
+    "src": "/images/products/fr/cages-de-musculation.webp",
+    "alt": "Cages de musculation",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-pour-poids": {
+    "src": "/images/products/fr/rangement-pour-poids.webp",
+    "alt": "Rangement pour poids",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-pour-materiel-sportif": {
+    "src": "/images/products/fr/rangement-pour-materiel-sportif.webp",
+    "alt": "Rangement pour matériel sportif",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/etageres-de-cuisine-commerciale": {
+    "src": "/images/products/fr/etageres-de-cuisine-commerciale.webp",
+    "alt": "Étagères de cuisine commerciale",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/rangement-pour-vaisselle": {
+    "src": "/images/products/fr/rangement-pour-vaisselle.webp",
+    "alt": "Rangement pour vaisselle",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/supports-a-bagages": {
+    "src": "/images/products/fr/supports-a-bagages.webp",
+    "alt": "Supports à bagages",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/armoires-pour-serveurs": {
+    "src": "/images/products/fr/armoires-pour-serveurs.webp",
+    "alt": "Armoires pour serveurs",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/batis-ouverts-pour-reseau": {
+    "src": "/images/products/fr/batis-ouverts-pour-reseau.webp",
+    "alt": "Bâtis ouverts pour réseau",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/armoires-reseau-murales": {
+    "src": "/images/products/fr/armoires-reseau-murales.webp",
+    "alt": "Armoires réseau murales",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/portants-de-vestiaire": {
+    "src": "/images/products/fr/portants-de-vestiaire.webp",
+    "alt": "Portants de vestiaire",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/portants-pour-costumes": {
+    "src": "/images/products/fr/portants-pour-costumes.webp",
+    "alt": "Portants pour costumes",
+    "width": 1200,
+    "height": 900
+  },
+  "/fr/produits/presentoirs-evenementiels": {
+    "src": "/images/products/fr/presentoirs-evenementiels.webp",
+    "alt": "Présentoirs événementiels",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#planning": {
+    "src": "/images/services/planning.webp",
+    "alt": "Storage layout plan and measuring tools on a worktable",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#installation": {
+    "src": "/images/services/installation.webp",
+    "alt": "Installers assembling an unloaded shelving bay",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#sourcing": {
+    "src": "/images/services/sourcing.webp",
+    "alt": "Rack components secured on skids beside a delivery truck",
+    "width": 1200,
+    "height": 900
+  },
+  "/services#rentals": {
+    "src": "/images/services/rentals.webp",
+    "alt": "Mobile coat rails arranged for temporary event use",
+    "width": 1200,
+    "height": 900
+  }
+}

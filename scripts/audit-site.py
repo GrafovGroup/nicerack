@@ -21,7 +21,8 @@ class Page(HTMLParser):
 def fetch(path):
  start=time.perf_counter()
  try:
-  with urllib.request.urlopen(base+path,timeout=45) as r:body=r.read().decode();status=r.status
+  with urllib.request.urlopen(base+path,timeout=45) as r:
+   raw=r.read();status=r.status;body=raw.decode() if 'text/' in r.headers.get('Content-Type','') or 'xml' in r.headers.get('Content-Type','') else ''
  except urllib.error.HTTPError as e:body=e.read().decode();status=e.code
  p=Page();p.feed(body)
  return dict(path=path,status=status,body=body,page=p,ms=round((time.perf_counter()-start)*1000),gzipBytes=len(gzip.compress(body.encode())))

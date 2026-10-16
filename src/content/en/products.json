@@ -16,7 +16,13 @@
       "Aisle layout and access requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/pallet-racking.webp",
+        "alt": "Selective pallet racking",
+        "source": "Built-in image generation; original exec-17928880-f66f-4ba1-967c-3ddc3eec9693.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -39,7 +45,13 @@
       "Arm configuration and site assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/cantilever-rack.webp",
+        "alt": "Cantilever racks",
+        "source": "Built-in image generation; original exec-1169321e-966a-4853-88e7-5f74dd04853a.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -62,7 +74,13 @@
       "Shelf layout and fixing requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/industrial-shelving.webp",
+        "alt": "Industrial shelving",
+        "source": "Built-in image generation; original exec-91061cfa-d6b8-4d93-9129-b08d073399ed.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -85,7 +103,13 @@
       "Mounting points and equipment dimensions"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/ladder-rack.webp",
+        "alt": "Vehicle ladder racks",
+        "source": "Built-in image generation; original exec-1682bf95-bcc6-4d27-9d8e-7e758f79c1fd.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -108,7 +132,13 @@
       "Vehicle-specific carrying limits"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/roof-rack.webp",
+        "alt": "Vehicle roof racks",
+        "source": "Built-in image generation; original exec-6bd99bd4-1446-4531-8bc4-4e61230a6ac4.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -131,7 +161,13 @@
       "Cargo shape and securing arrangements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/truck-bed-rack.webp",
+        "alt": "Truck bed racks",
+        "source": "Built-in image generation; original exec-8d00798f-21c7-4254-a003-bc4918f1b011.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -154,7 +190,13 @@
       "Tool sizes and everyday access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/wall-storage.webp",
+        "alt": "Garage wall storage",
+        "source": "Built-in image generation; original exec-c6799300-53d8-4215-810b-978e7164f677.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -177,7 +219,13 @@
       "Safe access and installation assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/overhead-storage.webp",
+        "alt": "Overhead garage racks",
+        "source": "Built-in image generation; original exec-29fb69c1-db81-4dd2-80be-e304186767ea.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -200,7 +248,13 @@
       "Access spacing and mounting preferences"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/bicycle-storage.webp",
+        "alt": "Bicycle storage racks",
+        "source": "Built-in image generation; original exec-77ba2ead-15ee-4c3a-a592-d5d10a6a2435.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -223,7 +277,13 @@
       "Movement routes and floor surfaces"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/garment-rack.webp",
+        "alt": "Rolling garment racks",
+        "source": "Built-in image generation; original exec-e3121f23-c998-4310-8d74-4ae620a8de30.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -246,7 +306,13 @@
       "Customer circulation and sight lines"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/display-shelving.webp",
+        "alt": "Retail display shelving",
+        "source": "Built-in image generation; original exec-dc52d902-774c-4075-82d5-db49c8f3c6be.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -269,7 +335,13 @@
       "Merchandise presentation and footprint"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/portable-display.webp",
+        "alt": "Portable display racks",
+        "source": "Built-in image generation; original exec-a0f7f880-e4bb-421d-8fe6-58ce008f9661.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -292,7 +364,13 @@
       "Clearance and anchoring assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/power-rack.webp",
+        "alt": "Power racks",
+        "source": "Built-in image generation; original exec-3cb72c20-e728-4890-a02a-bfb4b5633447.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -315,7 +393,13 @@
       "Access and floor-space requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/weight-storage.webp",
+        "alt": "Weight storage racks",
+        "source": "Built-in image generation; original exec-569e1dfe-4116-46c8-8faa-bee0749fef4a.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -338,7 +422,13 @@
       "Access needs and storage zones"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/sports-storage.webp",
+        "alt": "Sports equipment racks",
+        "source": "Built-in image generation; original exec-90ebcac8-42e8-448d-abb5-b8db20dd0486.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -361,7 +451,13 @@
       "Material and cleaning requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/kitchen-shelving.webp",
+        "alt": "Kitchen shelving",
+        "source": "Built-in image generation; original exec-7db7619c-8914-4ad8-85ef-d45b876ba3da.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -384,7 +480,13 @@
       "Cleaning workflow and drainage needs"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/dish-storage.webp",
+        "alt": "Dish storage racks",
+        "source": "Built-in image generation; original exec-01e939e7-7b75-4baa-a180-fbb90ddfb37a.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -407,7 +509,13 @@
       "Folding or fixed configuration"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/luggage-rack.webp",
+        "alt": "Luggage racks",
+        "source": "Built-in image generation; original exec-0fd09acc-3cb9-4eb7-a4d6-6089cb9064e2.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -430,7 +538,13 @@
       "Ventilation, security and cable routing"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/server-cabinet.webp",
+        "alt": "Server cabinets",
+        "source": "Built-in image generation; original exec-d7fbdaec-48f8-45a5-bfeb-5a9d17913e39.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -453,7 +567,13 @@
       "Access, cable management and stability"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/network-rack.webp",
+        "alt": "Open network racks",
+        "source": "Built-in image generation; original exec-c9e3ac6a-93ae-4fd7-967b-c0595123730b.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -476,7 +596,13 @@
       "Cable entry and ventilation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/wall-enclosure.webp",
+        "alt": "Wall-mounted network enclosures",
+        "source": "Built-in image generation; original exec-bfa18e31-3f18-45dc-9b15-6e4dc12c7fb2.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -499,7 +625,13 @@
       "Dates, handling and available floor area"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/event-coat-rack.webp",
+        "alt": "Event coat racks",
+        "source": "Built-in image generation; original exec-38c8fb0f-0c41-462a-b6bf-175f886e3b1c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -522,7 +654,13 @@
       "Movement between preparation areas"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/event-garment-rack.webp",
+        "alt": "Backstage garment racks",
+        "source": "Built-in image generation; original exec-0e93384c-1061-4af3-8223-4701f0ce189c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -545,7 +683,13 @@
       "Transport, setup and access routes"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/event-display-rack.webp",
+        "alt": "Event display racks",
+        "source": "Built-in image generation; original exec-34a7fea5-b6c9-48e5-8113-8b5607ca5813.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -569,7 +713,13 @@
       "Site-specific structure and protection review"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/drive-in-racking.webp",
+        "alt": "Drive-in pallet racking",
+        "source": "Built-in image generation; original exec-2237e2be-32f6-4f68-a63d-0502b34ff00f.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -593,7 +743,13 @@
       "Handling procedure and maintenance access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/push-back-racking.webp",
+        "alt": "Push-back pallet racking",
+        "source": "Built-in image generation; original exec-e6603c51-9125-49e5-ba20-e96a4e862783.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -617,7 +773,13 @@
       "Flow control and inspection needs"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/pallet-flow-racking.webp",
+        "alt": "Pallet flow racking",
+        "source": "Built-in image generation; original exec-f94eacb0-2ebe-47dd-a5fb-bc53db10b3e6.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -641,7 +803,13 @@
       "Product fragility and handling method"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/carton-flow-racking.webp",
+        "alt": "Carton flow racks",
+        "source": "Built-in image generation; original exec-2e276b93-fd53-4ad9-bfa4-f72e40be6bc5.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -665,7 +833,13 @@
       "Access and floor layout"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/longspan-shelving.webp",
+        "alt": "Longspan shelving",
+        "source": "Built-in image generation; original exec-a25d6afa-ffd0-4399-b7f4-f52f559dbf0c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -689,7 +863,13 @@
       "Loading and restraint requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/reel-storage-rack.webp",
+        "alt": "Reel storage racks",
+        "source": "Built-in image generation; original exec-31e6e909-0548-47cb-97b9-480bfa0a388c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -713,7 +893,13 @@
       "Edge protection and handling access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/sheet-material-rack.webp",
+        "alt": "Sheet material storage racks",
+        "source": "Built-in image generation; original exec-f633df2c-ab3f-408f-be36-7708ac841156.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -737,7 +923,13 @@
       "Restraint and safe handling review"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/vertical-stock-rack.webp",
+        "alt": "Vertical stock racks",
+        "source": "Built-in image generation; original exec-fde10e50-4560-4dc4-88a6-1c7e2fe6b42b.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -761,7 +953,13 @@
       "Documented intended function"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/headache-rack.webp",
+        "alt": "Truck headache racks",
+        "source": "Built-in image generation; original exec-81a58f21-aaa7-4a50-a975-dc69a4ef3b69.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -785,7 +983,13 @@
       "Mounting and ladder restraint"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/utility-body-rack.webp",
+        "alt": "Utility body ladder racks",
+        "source": "Built-in image generation; original exec-a75355fd-ded1-4565-8596-0ff92b42ee9d.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -809,7 +1013,13 @@
       "Rear access and accessory interference"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/hitch-bike-rack.webp",
+        "alt": "Hitch-mounted bicycle racks",
+        "source": "Built-in image generation; original exec-caedd13c-058e-4a46-9766-612c885b66c9.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -833,7 +1043,13 @@
       "Loading reach and overall clearance"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/roof-bike-rack.webp",
+        "alt": "Roof-mounted bicycle racks",
+        "source": "Built-in image generation; original exec-2c59cba9-9e33-41c8-a44f-0e24e7f20cff.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -857,7 +1073,13 @@
       "Overall vehicle height"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/roof-cargo-basket.webp",
+        "alt": "Roof cargo baskets",
+        "source": "Built-in image generation; original exec-afca57c6-fcc4-4c7b-ab9a-55b1ee215e40.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -881,7 +1103,13 @@
       "Carrier and restraint compatibility"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/kayak-carrier.webp",
+        "alt": "Kayak roof carriers",
+        "source": "Built-in image generation; original exec-23ba33ce-ee9d-4a77-9458-130e342d27ce.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -905,7 +1133,13 @@
       "Existing roof-bar compatibility"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/ski-snowboard-carrier.webp",
+        "alt": "Ski and snowboard carriers",
+        "source": "Built-in image generation; original exec-9e53094a-bef1-48b1-8c0a-6f41f702a232.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -929,7 +1163,13 @@
       "Mounting and restraint documentation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/trailer-ladder-rack.webp",
+        "alt": "Trailer ladder racks",
+        "source": "Built-in image generation; original exec-70c421ad-2882-4b8b-a73f-9e5882d2eca1.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -953,7 +1193,13 @@
       "Reach and access spacing"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/garden-tool-rack.webp",
+        "alt": "Garden tool storage racks",
+        "source": "Built-in image generation; original exec-d8eb3806-140e-4ed1-97b4-e6bb97c122ff.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -977,7 +1223,13 @@
       "Support and attachment review"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/lumber-storage-rack.webp",
+        "alt": "Home workshop lumber racks",
+        "source": "Built-in image generation; original exec-a0f564f9-b1f8-4791-be3f-5afd0ae3513c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1001,7 +1253,13 @@
       "Wall-mounted versus freestanding use"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/sports-ball-rack.webp",
+        "alt": "Home sports ball racks",
+        "source": "Built-in image generation; original exec-0b70c6d5-e36b-42e4-89dd-f037f0abd27f.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1025,7 +1283,13 @@
       "Shelf spacing preferences"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/pantry-rack.webp",
+        "alt": "Pantry storage racks",
+        "source": "Built-in image generation; original exec-0c982acc-f1f6-45cb-9ded-b7fa2e2c94aa.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1049,7 +1313,13 @@
       "Room ventilation and mounting"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/laundry-drying-rack.webp",
+        "alt": "Laundry drying racks",
+        "source": "Built-in image generation; original exec-d4f8e6cc-c231-436f-9b42-feadf2f32661.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1073,7 +1343,13 @@
       "Cleaning and moisture exposure"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/shoe-storage-rack.webp",
+        "alt": "Shoe storage racks",
+        "source": "Built-in image generation; original exec-b2a3c237-81f9-4407-ab20-7d09629737e0.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1097,7 +1373,13 @@
       "Replenishment and housekeeping access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/firewood-rack.webp",
+        "alt": "Firewood storage racks",
+        "source": "Built-in image generation; original exec-8ed140ce-dbba-4653-8fbc-2cfe8140e0de.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1121,7 +1403,13 @@
       "Mounting surface and tool spacing"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/clamp-storage-rack.webp",
+        "alt": "Workshop clamp racks",
+        "source": "Built-in image generation; original exec-a23875a2-1355-44a1-a4da-3e1396d444c8.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1145,7 +1433,13 @@
       "Arm arrangement and display height"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/four-way-clothing-rack.webp",
+        "alt": "Four-way clothing racks",
+        "source": "Built-in image generation; original exec-aa3d7b5c-a579-43c3-9ee5-19d06d9505d7.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1169,7 +1463,13 @@
       "Signage and rail arrangement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/round-garment-rack.webp",
+        "alt": "Round garment racks",
+        "source": "Built-in image generation; original exec-49cdccce-7eb5-468c-9898-057f6f16cebe.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1193,7 +1493,13 @@
       "Shelf and accessory compatibility"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/gondola-shelving.webp",
+        "alt": "Gondola shelving",
+        "source": "Built-in image generation; original exec-5eb63dcb-9c15-44b2-8dfc-d498521b0ea2.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1217,7 +1523,13 @@
       "Grid accessory compatibility"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/gridwall-display.webp",
+        "alt": "Gridwall display racks",
+        "source": "Built-in image generation; original exec-5416b6f3-d4aa-46cc-8c9e-c1a3f0063476.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1241,7 +1553,13 @@
       "Merchandise distribution"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/slatwall-display.webp",
+        "alt": "Slatwall display systems",
+        "source": "Built-in image generation; original exec-229dc545-89aa-4a73-b2fa-16059a7bd3aa.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1265,7 +1583,13 @@
       "Replenishment and signage"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/retail-shoe-rack.webp",
+        "alt": "Retail footwear display racks",
+        "source": "Built-in image generation; original exec-d55b6eeb-2c82-4e3a-a857-2efc05ed2ced.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1289,7 +1613,13 @@
       "Floor or counter placement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/literature-rack.webp",
+        "alt": "Literature display racks",
+        "source": "Built-in image generation; original exec-d8e431c3-4df7-4c03-bcd9-b4be8f78829f.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1313,7 +1643,13 @@
       "Replenishment route"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/retail-stockroom-rack.webp",
+        "alt": "Retail stockroom racks",
+        "source": "Built-in image generation; original exec-b350dfb6-1042-44ab-ad69-3b172977c264.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1337,7 +1673,13 @@
       "Documented safety and stability arrangements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/squat-stand.webp",
+        "alt": "Squat stands",
+        "source": "Built-in image generation; original exec-90e561c7-cd60-4fe8-bc65-d686843bd42c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1361,7 +1703,13 @@
       "Floor and anchoring assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/half-rack.webp",
+        "alt": "Half racks",
+        "source": "Built-in image generation; original exec-859b636b-ef36-4d77-8925-04e41d29b261.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1385,7 +1733,13 @@
       "Bar and accessory compatibility"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/folding-wall-rack.webp",
+        "alt": "Folding wall training racks",
+        "source": "Built-in image generation; original exec-74639db5-1a7c-44a2-ba89-14121413b3d4.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1409,7 +1763,13 @@
       "Placement and circulation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/dumbbell-rack.webp",
+        "alt": "Dumbbell racks",
+        "source": "Built-in image generation; original exec-699406a0-d062-4a64-87e8-d68ff9dda8d1.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1433,7 +1793,13 @@
       "Standalone or attached arrangement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/weight-plate-rack.webp",
+        "alt": "Weight plate racks",
+        "source": "Built-in image generation; original exec-9ff2f1bd-40d8-40b3-b796-526db061c617.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1457,7 +1823,13 @@
       "Available circulation space"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/kettlebell-rack.webp",
+        "alt": "Kettlebell racks",
+        "source": "Built-in image generation; original exec-b8fefb42-8a15-481d-886c-c13f8d50297e.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1481,7 +1853,13 @@
       "Access for intended users"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/medicine-ball-rack.webp",
+        "alt": "Medicine ball racks",
+        "source": "Built-in image generation; original exec-3618e3fc-a226-4b8f-b0cc-6b5eb1857f13.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1505,7 +1883,13 @@
       "Cleaning and drying workflow"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/yoga-mat-rack.webp",
+        "alt": "Yoga mat storage racks",
+        "source": "Built-in image generation; original exec-ae52afad-ac92-4076-93a9-15cf49b417b8.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1529,7 +1913,13 @@
       "Temperature and cleaning requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/sheet-pan-rack.webp",
+        "alt": "Sheet pan racks",
+        "source": "Built-in image generation; original exec-4cc86acb-83fb-4c12-873f-7f45c9235eb4.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1553,7 +1943,13 @@
       "Handling and breakage prevention"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/glassware-rack.webp",
+        "alt": "Glassware storage racks",
+        "source": "Built-in image generation; original exec-c3258a06-47e9-4fc4-a0a8-ce848abb556e.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1577,7 +1973,13 @@
       "Mounting and cleaning access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/pot-pan-rack.webp",
+        "alt": "Pot and pan racks",
+        "source": "Built-in image generation; original exec-5cf366d2-1665-453d-832f-17038b5af79d.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1601,7 +2003,13 @@
       "Cleaning process and separation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/kitchen-drying-rack.webp",
+        "alt": "Kitchen equipment drying racks",
+        "source": "Built-in image generation; original exec-14d99073-38f1-48ca-87f3-5f52bb1385af.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1625,7 +2033,13 @@
       "Room conditions and access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/wine-bottle-rack.webp",
+        "alt": "Wine bottle racks",
+        "source": "Built-in image generation; original exec-d4796f67-7c2c-43a3-82eb-794337dc2825.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1649,7 +2063,13 @@
       "Applicable food-service requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/dunnage-rack.webp",
+        "alt": "Dunnage racks",
+        "source": "Built-in image generation; original exec-69ef3efa-2acc-4880-a811-0f52270d476b.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1673,7 +2093,13 @@
       "Staff access and replenishment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/housekeeping-linen-rack.webp",
+        "alt": "Housekeeping linen racks",
+        "source": "Built-in image generation; original exec-82aa47fe-3867-44a3-bbf3-ad0a44ba8b3a.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1697,7 +2123,13 @@
       "Food protection requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/bakery-tray-display-rack.webp",
+        "alt": "Bakery tray display racks",
+        "source": "Built-in image generation; original exec-3ba41eec-5d94-43f5-ac14-60d848747a82.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1721,7 +2153,13 @@
       "Floor placement and stability"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/four-post-open-rack.webp",
+        "alt": "Four-post open equipment racks",
+        "source": "Built-in image generation; original exec-640dbcc2-de21-46ba-b2c0-add18f455391.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1745,7 +2183,13 @@
       "Cable and service clearance"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/wall-open-network-rack.webp",
+        "alt": "Open wall network racks",
+        "source": "Built-in image generation; original exec-09cbbf3f-e969-4b78-a74a-9e4653fd20bf.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1769,7 +2213,13 @@
       "Wall attachment assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/vertical-wall-rack.webp",
+        "alt": "Vertical wall equipment racks",
+        "source": "Built-in image generation; original exec-8de03aed-b93a-43d0-ad64-8f796d8c6953.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1793,7 +2243,13 @@
       "Wall and hinge suitability"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/swing-out-wall-rack.webp",
+        "alt": "Swing-out wall equipment racks",
+        "source": "Built-in image generation; original exec-a2565248-14c4-4c98-83ce-c1af6aecf215.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1817,7 +2273,13 @@
       "Equipment ventilation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/slide-out-av-rack.webp",
+        "alt": "Slide-out audiovisual racks",
+        "source": "Built-in image generation; original exec-1dec2d84-36ee-4c80-8293-0a675481e1e8.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1841,7 +2303,13 @@
       "Operator access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/desktop-equipment-rack.webp",
+        "alt": "Desktop equipment racks",
+        "source": "Built-in image generation; original exec-ab97d8ab-2f49-40a9-abd1-612a708b392b.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1865,7 +2333,13 @@
       "Qualified electrical and structural assessment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/battery-equipment-rack.webp",
+        "alt": "Stationary battery racks",
+        "source": "Built-in image generation; original exec-369bad0b-3341-4a59-b570-e01d04f04a91.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1889,7 +2363,13 @@
       "Operating and connector access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/portable-av-rack.webp",
+        "alt": "Portable audiovisual equipment racks",
+        "source": "Built-in image generation; original exec-3d33a769-5ad3-46ea-a9f8-2516f9aa6ba2.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1913,7 +2393,13 @@
       "Static storage versus transport"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/folding-chair-rack.webp",
+        "alt": "Folding chair storage racks",
+        "source": "Built-in image generation; original exec-ecf2a8e5-a68f-4644-a51a-93961b7561f1.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1937,7 +2423,13 @@
       "Storage and transport access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/banquet-table-rack.webp",
+        "alt": "Banquet table storage racks",
+        "source": "Built-in image generation; original exec-28fd562a-dbb2-4a39-be9b-c015181c29d8.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1961,7 +2453,13 @@
       "Storage route and restraint"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/stanchion-storage-rack.webp",
+        "alt": "Stanchion storage racks",
+        "source": "Built-in image generation; original exec-6e2c7647-45d4-43a9-be3d-2ad47cad5883.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -1985,7 +2483,13 @@
       "Transport and component separation"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/pipe-drape-storage-rack.webp",
+        "alt": "Pipe-and-drape component racks",
+        "source": "Built-in image generation; original exec-bbd5353f-002b-46d5-aecf-df61e6c50b64.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2009,7 +2513,13 @@
       "Storage versus transport requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/lighting-fixture-storage-rack.webp",
+        "alt": "Lighting fixture storage racks",
+        "source": "Built-in image generation; original exec-6c7d4627-1a50-49d5-9b1d-cbff92162731.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2033,7 +2543,13 @@
       "Storage route and floor layout"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/road-case-storage-rack.webp",
+        "alt": "Road case storage racks",
+        "source": "Built-in image generation; original exec-76a429dc-5b59-458d-a86f-aa71e8283e70.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2057,7 +2573,13 @@
       "Storage and transport method"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/sign-panel-storage-rack.webp",
+        "alt": "Event sign panel racks",
+        "source": "Built-in image generation; original exec-88ebc44e-0ecf-412d-bbe0-f193989173a7.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2081,7 +2603,13 @@
       "Access and restraint requirements"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/stage-deck-storage-rack.webp",
+        "alt": "Stage deck storage racks",
+        "source": "Built-in image generation; original exec-6ce4ad91-a4ca-40ca-adde-07a2afd71a1c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2105,7 +2633,13 @@
       "Manual or assisted retrieval"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/tire-storage-rack.webp",
+        "alt": "Commercial tire storage racks",
+        "source": "Built-in image generation; original exec-5bb96126-39f6-498b-b785-f4ea1276c87c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2129,7 +2663,13 @@
       "Replenishment access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/parts-bin-rack.webp",
+        "alt": "Parts bin racks",
+        "source": "Built-in image generation; original exec-70c66fd7-1da3-40c8-a212-c1840f401d5c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2153,7 +2693,13 @@
       "Operating clearances"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/mobile-aisle-shelving.webp",
+        "alt": "Mobile aisle shelving",
+        "source": "Built-in image generation; original exec-89ab336a-3c82-48cd-93d0-d82062842b6c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2177,7 +2723,13 @@
       "Door access and restraints"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/van-interior-shelving.webp",
+        "alt": "Van interior shelving",
+        "source": "Built-in image generation; original exec-01745e20-777a-48c7-a178-8007e8d23327.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2201,7 +2753,13 @@
       "Travel locking and mounting"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/drop-down-ladder-rack.webp",
+        "alt": "Drop-down ladder racks",
+        "source": "Built-in image generation; original exec-7bacb5ee-d2a2-48a2-b969-52d2b40413df.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2225,7 +2783,13 @@
       "Vehicle-approved restraint"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/interior-ladder-rack.webp",
+        "alt": "Interior ladder racks",
+        "source": "Built-in image generation; original exec-99151430-330e-4658-98db-109238d60e78.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2249,7 +2813,13 @@
       "Wall or floor arrangement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/paddleboard-storage-rack.webp",
+        "alt": "Paddleboard storage racks",
+        "source": "Built-in image generation; original exec-989e25a7-df74-4496-a1e4-4d5b59c990f3.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2273,7 +2843,13 @@
       "Return and drying routine"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/fishing-rod-rack.webp",
+        "alt": "Fishing rod racks",
+        "source": "Built-in image generation; original exec-df34aa57-e0b2-4f0a-add9-b45783b5e8ed.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2297,7 +2873,13 @@
       "Accessory access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/golf-bag-rack.webp",
+        "alt": "Golf bag storage racks",
+        "source": "Built-in image generation; original exec-e97b452a-84bb-4f40-9af4-6885dfd055b6.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2321,7 +2903,13 @@
       "Staff handling method"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/carpet-roll-display-rack.webp",
+        "alt": "Carpet roll display racks",
+        "source": "Built-in image generation; original exec-12bc43bb-c604-4b5c-b688-ff8e289c8ea2.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2345,7 +2933,13 @@
       "Browsing clearance"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/greeting-card-rack.webp",
+        "alt": "Greeting card display racks",
+        "source": "Built-in image generation; original exec-4fff9741-9645-40f3-8358-49b62b66b4aa.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2369,7 +2963,13 @@
       "Replenishment path"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/produce-display-rack.webp",
+        "alt": "Produce display racks",
+        "source": "Built-in image generation; original exec-15b74a86-21fd-41d7-8bec-9e6c55941f07.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2393,7 +2993,13 @@
       "Storage-only use"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/barbell-storage-rack.webp",
+        "alt": "Barbell storage racks",
+        "source": "Built-in image generation; original exec-064f004c-8f7a-4a3b-ae43-6ce7a180a82b.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2417,7 +3023,13 @@
       "User identification"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/resistance-band-rack.webp",
+        "alt": "Resistance band storage racks",
+        "source": "Built-in image generation; original exec-f5e279aa-f499-4cf8-9efb-a739e70788c8.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2441,7 +3053,13 @@
       "Retainer arrangement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/foam-roller-rack.webp",
+        "alt": "Foam roller storage racks",
+        "source": "Built-in image generation; original exec-956b9e6e-1ef1-469b-bf4c-5bde29c422af.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2465,7 +3083,13 @@
       "Storage environment"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/keg-storage-rack.webp",
+        "alt": "Keg storage racks",
+        "source": "Built-in image generation; original exec-b2297631-c42b-429f-9edf-3e002d214ba0.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2489,7 +3113,13 @@
       "Cleaning access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/cutting-board-rack.webp",
+        "alt": "Cutting board storage racks",
+        "source": "Built-in image generation; original exec-8364e272-8b1d-494a-bb9b-e528d2109a68.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2513,7 +3143,13 @@
       "Stock identification"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/can-storage-rack.webp",
+        "alt": "Can rotation racks",
+        "source": "Built-in image generation; original exec-49a48fe9-6b57-4806-881c-cf8c17e4b2aa.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2537,7 +3173,13 @@
       "Verified acoustic performance"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/acoustic-server-cabinet.webp",
+        "alt": "Acoustic server cabinets",
+        "source": "Built-in image generation; original exec-16994d5b-fea8-4293-b064-c0d988092e08.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2561,7 +3203,13 @@
       "Maintenance access"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/outdoor-equipment-cabinet.webp",
+        "alt": "Outdoor equipment rack cabinets",
+        "source": "Built-in image generation; original exec-037af834-c159-4f30-a2b1-7db107a6cf00.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2585,7 +3233,13 @@
       "Equipment mounting details"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/swing-frame-floor-rack.webp",
+        "alt": "Swing-frame floor racks",
+        "source": "Built-in image generation; original exec-0f3784f1-a8ec-4f54-b528-3027d77c6399.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2609,7 +3263,13 @@
       "Storage versus transport"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/truss-storage-rack.webp",
+        "alt": "Truss storage racks",
+        "source": "Built-in image generation; original exec-33cfd6a2-1226-4cc7-b0fc-b8d775ad6941.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2633,7 +3293,13 @@
       "Return inspection routine"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/event-cable-rack.webp",
+        "alt": "Event cable storage racks",
+        "source": "Built-in image generation; original exec-fa339324-ce54-49df-a5f7-134ccf6127cd.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,
@@ -2657,7 +3323,13 @@
       "Retention during movement"
     ],
     "specifications": [],
-    "images": [],
+    "images": [
+      {
+        "src": "/images/products/en/microphone-stand-rack.webp",
+        "alt": "Microphone stand storage racks",
+        "source": "Built-in image generation; original exec-fda4ad4f-4327-4f4c-b7b1-23e4e022493c.png"
+      }
+    ],
     "pricingMode": "quote",
     "status": "example-type",
     "published": true,

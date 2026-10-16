@@ -21,3 +21,14 @@ Phase 2B: no new customer-facing images or image placements. All 112 general rac
 ## Phase 2C
 
 No new content photography, generated images or stock imagery. All 25 added English city pages and 64 French pages are text-first. Existing brand identity remains the same; the French footer uses text branding. No content image was duplicated into the French homepage or cards. Existing image files and placements in English are unchanged. Other-site inventories were not accessed for this phase; no portfolio-wide uniqueness verification is claimed.
+
+
+## Product and service enrichment — October 15, 2026
+
+Added 140 original, separately generated image placements: 112 English product details, 24 French product details and four sections on `/services`. Each asset is assigned once. Catalogue cards, related-product cards and other pages do not render these images. Existing homepage photography remains exclusive to the homepage. Brand marks and functional UI icons remain shared identity elements.
+
+The authoritative machine-readable register is [imagery/asset-register.json](imagery/asset-register.json): source original, exact prompt, website route, placement, output path, dimensions and SHA-256. The prompt plan is [imagery/image-plan.json](imagery/image-plan.json), with one corrected vertical-wall composition documented in [imagery/replacements.json](imagery/replacements.json). All images use the built-in image-generation tool; no supplier photographs or permissions were invented. Original generated PNGs are retained, while project assets are stored in `public/images/products/en`, `public/images/products/fr` and `public/images/services`.
+
+Every selected image received visual subject/composition review. A conventional rack depiction was replaced with an explicit downward-hanging vertical wall equipment arrangement. Generated imagery depicts general equipment types and service activities; no customer-project, supplier-SKU or technical-performance claim was added. Alt text is neutral; provenance stays in this internal register.
+
+Exact and perceptual comparison results are recorded in [imagery/duplicate-audit.json](imagery/duplicate-audit.json). The comparison scope is accessible local ChatGPT project raster assets, including the current site. Remote-only and inaccessible prior-site inventories are outside verification; portfolio-wide completeness is not claimed. The live placement audit additionally verifies that each new asset appears on exactly its assigned page and that served originals match the registered checksums.
