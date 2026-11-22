@@ -26,6 +26,13 @@ Read PHASE_2B_REPORT.md, PHASE_2B_CODEX_BRIEF.md, PHASE_2A_REPORT.md, current ro
 - Keep licensed imagery provenance; do not scrape or repeat generic photos.
 
 ## SEO/engineering quality
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+Review a French product or guide against the same source used for English. Preserve units, load conditions and availability limits. A new place name alone gives a buyer no local reason to use the page. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 - Plan keyword-intent, URL and translation mapping before implementation. Avoid cannibalization with Phase 2B pages. Unique localized metadata, one H1, breadcrumbs, correct locale sitemaps, hreflang reciprocals and 404s.
 - No indexable thin drafts; ensure internal links are useful and mobile UX works at 320/390px.
 - Run catalogue validation, lint, typecheck, tests, production build, full route/sitemap/internal link audit, hreflang/canonical checks, translation coverage checks, phone and enquiry regression checks.

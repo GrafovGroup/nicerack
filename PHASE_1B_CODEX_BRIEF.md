@@ -29,4 +29,11 @@ Use existing framework and conventions, do not rebuild. TypeScript strict, reusa
 - No deploy without explicit approval.
 
 ## Acceptance criteria
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+Check one product record from its source sheet through the visible specifications, filters and structured data. Preserve the model, units and rating conditions. Leave unsupported capacity and compatibility fields empty. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 Build and lint pass; category and product links work; search and filters update results; invalid query params handled; compare supports up to three items; quote request retains product context; mobile and keyboard flows work; no fabricated data; no regressions to Phase 1A.

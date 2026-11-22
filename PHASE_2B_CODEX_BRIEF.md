@@ -16,6 +16,13 @@ Add approximately 20–40 useful distinct generic rack types beyond the 88, only
 Produce approximately 12–20 genuinely helpful editorial guides: choosing pallet racking, cantilever versus pallet, warehouse layout questions, rack inspection planning, commercial van ladder racks, roof rack fit, overhead garage racks, bicycle storage, garment racks, retail fixtures, power versus squat racks, stainless commercial kitchen shelving, server rack sizing and event coat rack planning. No unsupported structural engineering advice. Distinct titles, useful comparisons, FAQs and links to relevant rack types.
 
 ## SEO and quality
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+A buying guide can use a documented fit assessment or a clearly labelled worked example. Publish a city page only when a local fact changes a buyer’s decision. Verify any inspection or load advice with an appropriately qualified source. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 Create a keyword/intent and URL matrix first. Prefer fewer strong pages to thin scaled content. Unique H1/title/description/canonical, valid breadcrumbs, sitemap, relevant internal links, noindex for unfinished drafts, no fake Product/Offer/rating/local-business schema. English first; French readiness without fake translations. Optimize mobile navigation, 320/390px layouts and load performance. No scraped or unlicensed product images; maintain asset usage register.
 
 ## Commercial guardrails

@@ -20,6 +20,13 @@ Read PHASE_1A_REPORT.md, PHASE_1B_REPORT.md, README.md, docs/WHC_DEPLOYMENT.md a
 Commit focused changes and PHASE_1C_REPORT.md describing exactly what was changed, tests and remaining launch blockers. Do not implement features beyond this simplified enquiry-only scope.
 
 ## Definition of done
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+Follow an enquiry from the product page to its confirmation. The label, contact details and response wording must describe what the business actually receives and can confirm. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 A visitor can browse the catalogue and submit a validated enquiry; when configured, the existing transport accepts it for delivery to info@nicerack.ca, and failure is clearly surfaced. No backend sales management features.
 
 ## Confirmed pricing and conversion policy (October 15, 2026)

@@ -28,6 +28,13 @@ Aim for 10–15 useful generic rack types in each of eight divisions, with rough
 Choose only technically sensible distinct types. Avoid using 'rack' to describe unrelated products solely for SEO. Preserve all existing 24 slugs and valid deep links. Expand subcategory taxonomy only when useful. Add unique accurate descriptive copy: applications, what to consider before requesting a quote, practical fit/use cases and honest limitations. No unsupported engineering advice.
 
 ## SEO & UX
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+For each new rack family, explain a real selection trade-off. Match dimensions and load claims to a manufacturer document for that configuration. Show the relevant conditions; an illustrative product photo cannot establish a rating. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 - Optimize existing eight division pages, new product-type pages, title/description/H1, breadcrumbs, internal links and sitemap; avoid keyword stuffing and near-duplicate pages.
 - Prioritize customer intent and useful comparison/buying guidance. Add compact category FAQs only when substantive.
 - Link related types naturally, improve discovery through search/filter and related-item modules without regressions.

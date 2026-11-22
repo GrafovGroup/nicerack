@@ -16,4 +16,11 @@
 7. Publish PHASE_1D_REPORT.md and code changes to GitHub.
 
 ## Stop conditions
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+For launch, verify the contact identity and the call and quote destinations. Describe a telephone or delivery test as successful only when the intended recipient confirms it. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 The phone number is confirmed, but actual call routing still requires testing. No deployment authorization => do not deploy. No permission for live mail => do not send live test mail.

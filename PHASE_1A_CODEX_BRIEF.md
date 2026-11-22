@@ -28,6 +28,15 @@ Charcoal #17191C, orange #FF6B21, steel #77818B, white. Bold contemporary typogr
 - Responsive navigation, accessibility, performance, no broken links, semantic headings, optimized imagery.
 
 ## Technical and business rules
+
+**Editorial standard · Google E-E-A-T**
+
+Start with the decision the reader came to make. Where first-hand experience helps, use work the publisher can document and share. Identify who produced or reviewed technical guidance where readers would expect it, and explain the method when it affects interpretation. Support consequential claims with the most relevant original source. Claim outside recognition or credentials only when readers can verify them.
+
+For a rack type, show the fit questions a buyer can answer and the measurements a supplier must confirm. A concept image illustrates the category. Only a documented installation can illustrate the company’s own work.
+
+At content review, trace a material claim on a representative page back to its source. Correct, qualify or omit an unsupported claim, including in translated copy and structured data where present. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 - Prefer maintainable local structured catalogue data with stable IDs, category slugs and optional fields for SKU, supplier, dimensions, load rating, images, lead time and availability. Unknowns must stay blank.
 - No public pricing unless verified; default CTA REQUEST A QUOTE.
 - Do not expose secrets. Use .env.example for integrations.

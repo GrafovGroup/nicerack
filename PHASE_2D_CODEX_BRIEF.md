@@ -14,6 +14,13 @@ Read PHASE_1D_REPORT.md, PHASE_2A_REPORT.md, PHASE_2B_REPORT.md, PHASE_2C_REPORT
 5. Backup live WHC app, confirm Linux runtime dependencies and storage/permissions, create staged artifact and rollback plan. Do not mutate live WHC unless separately authorized.
 
 ## Technical and SEO QA
+
+**Editorial standard · Google E-E-A-T**
+
+Apply the universal standard to the public claims touched by this phase. Make clear who is responsible, what evidence supports the claim and how it helps the reader decide.
+
+Sample a product, guide and regional page in each published language. Follow each consequential claim to its evidence and compare the visible claim with its structured data. Record corrections alongside the existing release checks. [Google Search Central](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) · [Universal master prompt](https://github.com/GrafovGroup/MasterPrompt/blob/main/MASTER_PROMPT.md).
+
 - Lint, typecheck, 57+ tests, catalogue validation, production build.
 - Audit all 255 indexable routes, internal links, title/description uniqueness, one H1, self-canonicals, sitemap, robots, hreflang reciprocity, English/French 404, redirects, accessibility and 320/390px mobile flows.
 - Test EN/FR switcher, Quebec French suggestion, user preference override, accent-insensitive search, quote preselection and CALL NOW.
